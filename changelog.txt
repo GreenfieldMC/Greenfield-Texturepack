@@ -1,0 +1,29 @@
+v1.11
+* Altered regular brick
+* Altered End Stone bricks
+* Remade gold armor into contruction worker
+* Remade leather armor
+* Fixed sign issue
++ Dark solar panel
++ 16 shelf variants
++ Dishwasher
++ Animations on command blocks
+
+
+v1.9-1.10
++ Commandblock made into two server racks, and 4 control panels.
++ Grasspath given a stone slate texture
++ Purpur pillar block made into Siding Texture
++ Nether Wart Block changed into mediterranean Tile Block
++ Magma Block changed into ember block and given new name. 
++ End stone Brick made into a light red brick
++ Bone block changed into a black / white tile block. (old texture brought back)
++ Purpur block, stair and slab changed into a light beige brick texture.
++ New cinderblock texture. A lighter version. Red netherbrick was used for that.
++ Disks now contain custom songs
++ New design for end rod
+* Fixed steve head
+* Fixed weird glitch with slime block
+* Fixed problem with the color for leather armor
+* Removed herobrine
+* Reduced texturepack size
