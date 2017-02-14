@@ -4,8 +4,9 @@ v1.11
 * Remade gold armor into contruction worker
 * Remade leather armor
 * Fixed sign issue
+* Altered armor item textures.
 + Dark solar panel
-+ 16 shelf variants
++ 15 shelf variants
 + Dishwasher
 + Animations on command blocks
 
