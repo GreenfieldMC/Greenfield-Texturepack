@@ -1,3 +1,10 @@
+v1.12
+* Changed the mossy cobblestone wall to the stone slab texture.
++ Terracotta blocks
++ Concrete blocks
+
+more will be added to this list.
+
 v1.11
 * Altered regular brick
 * Altered End Stone bricks
