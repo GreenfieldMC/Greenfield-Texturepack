@@ -1,7 +1,9 @@
 v1.12
 * Changed the mossy cobblestone wall to the stone slab texture.
-+ Terracotta blocks
-+ Concrete blocks
+* Replaced black shulker box with metal drawers
++ Terracotta blocks are now siding blocks.
++ Concrete blocks are now concrete. hehe
++ Added all the new beds
 
 more will be added to this list.
 
