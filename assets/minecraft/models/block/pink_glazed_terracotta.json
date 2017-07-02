@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "side": "blocks/glazed_terracotta_pink",
+        "end": "blocks/glazed_terracotta_pink_top"
+    }
+}
