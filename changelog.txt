@@ -1,6 +1,8 @@
 v.1.13
 * Reorganizing the pack to fit the 1.13 format
 * Changing concrete powder to a new texture
+* Changed advancement backgrounds
++ Get rid of Java Edition texturejsgh
 + Mulch texture to mycelium
 + Trapdoor textures
 

@@ -1,5 +1,5 @@
 {
-    "parent": "block/wall_side",
+    "parent": "workaround/side",
     "textures": {
         "wall": "blocks/stone_slab_top"
     }
