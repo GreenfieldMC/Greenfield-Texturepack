@@ -1,7 +1,7 @@
 {
     "parent": "block/cube_column",
     "textures": {
-        "side": "blocks/green_glazed_terracotta",
-        "end": "blocks/green_glazed_terracotta_top"
+        "side": "block/green_glazed_terracotta",
+        "end": "block/green_glazed_terracotta_top"
     }
 }
