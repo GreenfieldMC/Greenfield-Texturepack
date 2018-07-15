@@ -1,10 +1,11 @@
 v.1.13
 * Reorganizing the pack to fit the 1.13 format
-* Changing concrete powder to a stone based texture
+* Changed concrete powder to a stone based texture
 * Changed advancement backgrounds
 * Changed pack.png
-* God rid of smoke particles.
-+ Get rid of Java Edition texture
+* Got rid of smoke particles.
+* Get rid of Java Edition texture
+* New leaves texture
 + Mulch texture to mycelium
 + Trapdoor textures
 + Stripped logs
