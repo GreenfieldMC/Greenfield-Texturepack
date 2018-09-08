@@ -1,15 +1,48 @@
 v.1.13
-* Reorganizing the pack to fit the 1.13 format
+* Changed the pack to fit the 1.13 format
 * Changed concrete powder to a stone based texture
 * Changed advancement backgrounds
 * Changed pack.png
-* Got rid of smoke particles.
-* Get rid of Java Edition texture
-* New leaves texture
-+ Mulch texture to mycelium
-+ Trapdoor textures
+* Changed title to remove Java Edition texture
+* Changed top of log textures to match their plank colors
+* Changed beacon so it's no longer blue
+* Changed the mushroom painting to new painting
+* Changed red sand to match regular sand texture
+* Changed Mycelium to a mulch texture
+* Changed leaf textures
+  - Spruce
+  - Birch
+  - Acacia
+  - Big oak
 + Stripped logs
-+ 
++ Final metal shulker box
++ Dried kelp block
++ Blue ice
++ Trapdoor textures
+  - Oak (Based from oak door)
+  - Spruce (Based from spruce door)
+  - Birch (Old trapdoor)
+  - Jungle (Manhole cover)
+  - Acacia (Based from acacia door)
+  - Dark oak (Shutter of a house)
++ Dead Coral Blocks
+  - Tube (Dark colored brick)
+  - Brain (Decorative cobblestone)
+  - Bubble (Decorative tan cobblestone)
+  - Fire (Decorative slate)
+  - Horn (White tile)
++ Dead Coral Fans
+  - Tube (Autumn leaves)
+  - Brain (Regular leaves)
+  - Bubble (Cyan flowers)
+  - Fire (Sticks)
+  - Horn (Orange flowers)
++ Dead Coral Plants
+  - Tube (Trash can)
+  - Brain (Crash Barrel)
+  - Bubble (Fire hydrant)
+  - Fire (Construction cone)
+  - Horn (Garbage bag)
 
 v1.12
 * Changed the mossy cobblestone wall to the stone slab texture.
