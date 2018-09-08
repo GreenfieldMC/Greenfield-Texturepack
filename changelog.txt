@@ -9,6 +9,7 @@ v.1.13
 * Changed the mushroom painting to new painting
 * Changed red sand to match regular sand texture
 * Changed Mycelium to a mulch texture
+* Changed panorama images
 * Changed leaf textures
   - Spruce
   - Birch
