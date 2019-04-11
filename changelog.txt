@@ -1,4 +1,4 @@
-v.1.13
+v1.13
 * Changed the pack to fit the 1.13 format
 * Changed concrete powder to a stone based texture
 * Changed advancement backgrounds
