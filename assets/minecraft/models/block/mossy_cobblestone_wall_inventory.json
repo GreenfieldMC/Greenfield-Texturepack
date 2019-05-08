@@ -1,6 +1,6 @@
 {
     "parent": "block/wall_inventory",
     "textures": {
-        "wall": "blocks/stone_slab_top"
+        "wall": "block/smooth_stone"
     }
 }
