@@ -1,5 +1,5 @@
 {
-    "parent": "workaround/post",
+    "parent": "block/template_wall_post",
     "textures": {
         "wall": "block/smooth_stone"
     }
