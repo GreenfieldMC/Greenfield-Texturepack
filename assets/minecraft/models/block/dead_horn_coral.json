@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/dead_horn_coral",
 		"particle": "block/dead_horn_coral"
@@ -604,6 +603,5 @@
 				"down": {"uv": [8, 1, 10, 2], "texture": "#0"}
 			}
 		}
-	],
-	"display": {}
+	]
 }
