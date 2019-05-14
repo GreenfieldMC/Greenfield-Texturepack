@@ -1,6 +1,7 @@
 {
     "__comment": "Modeling for Greenfield Texture Pack done by Bluecolty for the Greenfield Build Team",
     "textures": {
+		"particle": "block/dead_bubble_coral",
         "0": "block/dead_bubble_coral",
         "1": "block/dead_bubble_coral_bottom",
         "2": "block/dead_bubble_coral_top"

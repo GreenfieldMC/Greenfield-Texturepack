@@ -2,6 +2,7 @@
 	"credit": "Derived from Bluecolty",
 	"ambientocclusion": false,
 	"textures": {
+		"particle": "block/dead_fire_coral",
 		"7": "block/dead_fire_coral",
 		"8": "block/dead_fire_coral_base",
 		"9": "block/dead_fire_coral_top"
