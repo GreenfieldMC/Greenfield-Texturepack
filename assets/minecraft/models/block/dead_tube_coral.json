@@ -2,7 +2,7 @@
 	"credit": "Derived from Bluecolty",
 	"textures": {
 		"0": "block/dead_tube_coral",
-		"1": "block/dead_tube_coral_side",
+		"1": "block/dead_tube_coral_no_handle",
 		"2": "block/dead_tube_coral_top",
 		"particle": "block/dead_tube_coral"
 	},
