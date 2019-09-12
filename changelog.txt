@@ -12,6 +12,7 @@ v1.14
   - Acacia (metal sign)
   - Dark Oak (green sign)
 + Composter (trash can)
++ Loom (washer/dryer)
 
 
 v.1.13
