@@ -13,7 +13,8 @@ v1.14
   - Dark Oak (green sign)
 + Composter (trash can)
 + Loom (washer/dryer)
-
++ Barrel (oil drum)
++ Fletching table (better box)
 
 v.1.13
 * Changed the pack to fit the 1.13 format
