@@ -2,7 +2,6 @@ v1.14
 * Removed backwards compat for 1.12
 * Fixed light gray bed texture
 *** Fixed painting textures
-*** Fix item textures
 + 3D models for dead coral blocks
 + Signs
   - Oak (classic sign)
@@ -18,6 +17,7 @@ v1.14
 + Scaffolding (iron bar looking thing)
 + Bell
 + Lectern
++ Campfire
 
 v.1.13
 * Changed the pack to fit the 1.13 format
