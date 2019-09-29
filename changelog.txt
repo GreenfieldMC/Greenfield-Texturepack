@@ -15,6 +15,9 @@ v1.14
 + Loom (washer/dryer)
 + Barrel (oil drum)
 + Fletching table (better box)
++ Scaffolding (iron bar looking thing)
++ Bell
++ Lectern
 
 v.1.13
 * Changed the pack to fit the 1.13 format
