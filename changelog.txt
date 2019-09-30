@@ -1,8 +1,8 @@
 v1.14
 * Removed backwards compat for 1.12
 * Fixed light gray bed texture
-*** Fixed painting textures
-+ 3D models for dead coral blocks
+* Fixed painting textures
++ 3D models for dead coral plants
 + Signs
   - Oak (classic sign)
   - Spruce (spruce colored sign)
