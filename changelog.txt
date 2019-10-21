@@ -2,6 +2,7 @@ v1.14
 * Removed backwards compat for 1.12
 * Fixed light gray bed texture
 * Fixed painting textures
+* Improved lapis block texture
 + 3D models for dead coral plants
 + Signs
   - Oak (classic sign)
@@ -18,6 +19,14 @@ v1.14
 + Bell
 + Lectern
 + Campfire
++ Lantern
++ Smoker (Grill)
++ Blast Furnace (Better oven)
++ Cartography table (potted plant)
++ Grindstone (Wheel)
++ Smithing table (nightstand)
++ Stonecutter (table saw)
++ Jigsaw (AC unit)
 
 v.1.13
 * Changed the pack to fit the 1.13 format
