@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/black_wool" },
+			{ "model": "block/black_wool", "x": 90 },
+			{ "model": "block/black_wool", "x": 180 },
+			{ "model": "block/black_wool", "x": 270 },
+			{ "model": "block/black_wool" },
+			{ "model": "block/black_wool", "y": 90 },
+			{ "model": "block/black_wool", "y": 180 },
+			{ "model": "block/black_wool", "y": 270 }
+		]
+    }
+}

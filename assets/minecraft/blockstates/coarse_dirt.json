@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/coarse_dirt" },
+			{ "model": "block/coarse_dirt", "x": 90 },
+			{ "model": "block/coarse_dirt", "x": 180 },
+			{ "model": "block/coarse_dirt", "x": 270 },
+			{ "model": "block/coarse_dirt" },
+			{ "model": "block/coarse_dirt", "y": 90 },
+			{ "model": "block/coarse_dirt", "y": 180 },
+			{ "model": "block/coarse_dirt", "y": 270 }
+		]
+    }
+}

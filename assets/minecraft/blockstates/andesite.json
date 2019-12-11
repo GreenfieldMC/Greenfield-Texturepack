@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/andesite" },
+            { "model": "block/andesite_mirrored" },
+            { "model": "block/andesite", "y": 180 },
+            { "model": "block/andesite_mirrored", "y": 180 }
+        ]
+    }
+}
