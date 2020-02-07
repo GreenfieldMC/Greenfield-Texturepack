@@ -5,7 +5,7 @@ v1.15-1.16
   - Terracottas
   - Gravel
   - Course Dirt
-  - Alot of other shit i cant remember at the moment
+  - Alot of other shit i cant remember at the moment.
 
 v1.14
 * Removed backwards compat for 1.12
