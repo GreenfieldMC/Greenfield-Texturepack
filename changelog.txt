@@ -1,4 +1,11 @@
-v1.15
+v1.15-1.16
+* Block rotations for many blocks
+  - Wools
+  - Concretes
+  - Terracottas
+  - Gravel
+  - Course Dirt
+  - Alot of other shit i cant remember at the moment
 
 v1.14
 * Removed backwards compat for 1.12
