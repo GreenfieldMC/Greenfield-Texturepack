@@ -5,7 +5,25 @@ v1.15-1.16
   - Terracottas
   - Gravel
   - Course Dirt
-  - Alot of other shit i cant remember at the moment.
+  - Andesite/Polished Andesite
+  - Soul Soil
+* Improved Emerald block texture
+* Improved Iron Door texture
+* Improved Jungle door texture
+* Improved Iron Trapdoor texture (smooth stone textured)
+* Improved Blue glazed terracotta color
+* Fixed Iron door item texture
+* Fixed Jungle door item texture
+* Fixed Acacia door item texture
++ Warped Door (white door)
++ Warped Trapdoor (red sandstone textured)
++ Warped planks (white wood planks)
++ Crimson Door (black door)
++ Crimson Trapdoor (soul sand textured)
++ Crimson Planks (rustic wood planks)
++ Soul Soil (new dirt)
++ Shroomlight (new light source)
++ Netherite Block (rusted emerald block texture)
 
 v1.14
 * Removed backwards compat for 1.12
