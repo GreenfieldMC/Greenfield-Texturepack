@@ -1,10 +1,10 @@
 {
     "__comment": "Model made by Bluecolty for use with the Greenfield Texture Pack",
     "textures": {
-        "0": "blocks/torch_lamp_upview",
-        "1": "blocks/torch_lamp_sideview",
-        "2": "blocks/stone",
-        "3": "blocks/torch_lamp_basebottom"
+        "0": "block/torch_lamp_upview",
+        "1": "block/torch_lamp_sideview",
+        "2": "block/stone",
+        "3": "block/torch_lamp_basebottom"
     },
     "elements": [
         {
