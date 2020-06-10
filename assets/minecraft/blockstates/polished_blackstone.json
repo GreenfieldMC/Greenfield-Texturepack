@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/polished_blackstone" },
+			{ "model": "block/polished_blackstone", "x": 90 },
+			{ "model": "block/polished_blackstone", "x": 180 },
+			{ "model": "block/polished_blackstone", "x": 270 },
+			{ "model": "block/polished_blackstone" },
+			{ "model": "block/polished_blackstone", "y": 90 },
+			{ "model": "block/polished_blackstone", "y": 180 },
+			{ "model": "block/polished_blackstone", "y": 270 }
+		]
+    }
+}
