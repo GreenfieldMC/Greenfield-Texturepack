@@ -10,8 +10,6 @@ v1.15-1.16
 * Changed Emerald block texture (Slightly less shiny)
 * Changed Iron Door
 * Changed Jungle door (Matches dark oak style)
-* Changed Acacia door (New metal texture)
-* Changed Acacia trapdoor (New metal texture)
 * Changed blue glazed terracotta color
 * Changed red glazed terracotta color
 * Changed yellow glazed terracotta color
@@ -36,6 +34,7 @@ v1.15-1.16
   - Black Shulker box
 * Changed snow block
 * Changed snowy grass side
+* Fixed Acacia trapdoor (Tiling issue)
 * Fixed Jigsaw missing texture
 * Fixed Iron door item texture
 * Fixed Jungle door item texture
