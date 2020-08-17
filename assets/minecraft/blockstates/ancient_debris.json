@@ -2,7 +2,8 @@
   "variants": {
     "": [
 		{ "model": "minecraft:block/ancient_debris" },
-		{ "model": "minecraft:block/ancient_debris", "x": 180 }
+		{ "model": "minecraft:block/ancient_debris", "x": 180 },
+		{ "model": "minecraft:block/ancient_debris", "y": 180 }
 	]
   }
 }
