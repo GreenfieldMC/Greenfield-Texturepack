@@ -1,7 +1,7 @@
 {
   "variants": {
     "hanging=false": {
-      "model": "minecraft:block/soul_lantern"
+      "model": "minecraft:block/soul_lantern_floor"
     },
     "hanging=true": {
       "model": "minecraft:block/soul_lantern_ceiling"
