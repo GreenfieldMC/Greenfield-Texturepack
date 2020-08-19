@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/purple_concrete" },
+			{ "model": "block/purple_concrete", "x": 90 },
+			{ "model": "block/purple_concrete", "x": 180 },
+			{ "model": "block/purple_concrete", "x": 270 },
+			{ "model": "block/purple_concrete" },
+			{ "model": "block/purple_concrete", "y": 90 },
+			{ "model": "block/purple_concrete", "y": 180 },
+			{ "model": "block/purple_concrete", "y": 270 }
+		]
+    }
+}

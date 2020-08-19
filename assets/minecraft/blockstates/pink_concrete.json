@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/pink_concrete" },
+			{ "model": "block/pink_concrete", "x": 90 },
+			{ "model": "block/pink_concrete", "x": 180 },
+			{ "model": "block/pink_concrete", "x": 270 },
+			{ "model": "block/pink_concrete" },
+			{ "model": "block/pink_concrete", "y": 90 },
+			{ "model": "block/pink_concrete", "y": 180 },
+			{ "model": "block/pink_concrete", "y": 270 }
+		]
+    }
+}

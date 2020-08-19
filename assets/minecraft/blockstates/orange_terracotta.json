@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/orange_terracotta" },
+			{ "model": "block/orange_terracotta", "x": 90 },
+			{ "model": "block/orange_terracotta", "x": 180 },
+			{ "model": "block/orange_terracotta", "x": 270 },
+			{ "model": "block/orange_terracotta" },
+			{ "model": "block/orange_terracotta", "y": 90 },
+			{ "model": "block/orange_terracotta", "y": 180 },
+			{ "model": "block/orange_terracotta", "y": 270 }
+		]
+    }
+}

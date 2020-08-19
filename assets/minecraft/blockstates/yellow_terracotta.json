@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/yellow_terracotta" },
+			{ "model": "block/yellow_terracotta", "x": 90 },
+			{ "model": "block/yellow_terracotta", "x": 180 },
+			{ "model": "block/yellow_terracotta", "x": 270 },
+			{ "model": "block/yellow_terracotta" },
+			{ "model": "block/yellow_terracotta", "y": 90 },
+			{ "model": "block/yellow_terracotta", "y": 180 },
+			{ "model": "block/yellow_terracotta", "y": 270 }
+		]
+    }
+}

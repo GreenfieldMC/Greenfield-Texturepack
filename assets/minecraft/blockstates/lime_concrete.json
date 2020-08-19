@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/lime_concrete" },
+			{ "model": "block/lime_concrete", "x": 90 },
+			{ "model": "block/lime_concrete", "x": 180 },
+			{ "model": "block/lime_concrete", "x": 270 },
+			{ "model": "block/lime_concrete" },
+			{ "model": "block/lime_concrete", "y": 90 },
+			{ "model": "block/lime_concrete", "y": 180 },
+			{ "model": "block/lime_concrete", "y": 270 }
+		]
+    }
+}
