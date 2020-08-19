@@ -4,7 +4,7 @@
 	"textures": {
 		"1": "block/torch_wall_color",
 		"2": "block/torch_lamp_upview",
-		"particle": "texture"
+		"particle": "block/torch_lamp_sideview"
 	},
 	"elements": [
 		{
