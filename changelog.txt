@@ -1,54 +1,111 @@
 v1.15-1.16
-* Block rotations for many blocks
+* Removed dripping particles
+* Removed flame particles
+* Block rotations for many existing blocks
   - Wools
   - Concretes
   - Terracottas
   - Gravel
   - Course Dirt
   - Andesite/Polished Andesite
-  - Soul Soil
-* Changed Emerald block texture (Slightly less shiny)
-* Changed Iron Door
-* Changed Jungle door (Matches dark oak style)
-* Changed blue glazed terracotta color
-* Changed red glazed terracotta color
-* Changed yellow glazed terracotta color
-* Changed bookshelf
-* Changed mushroom block (Asbestos ceiling tile)
-* Changed mushroom stem (White slate)
-* Chagned red mushroom block (Blue slate)
-* Changed brown mushroom block (Gray slate)
-* Changed packed ice
-* Changed smooth red sandstone (Red sandstone brick)
-* Changed red sand
-* Changed sand
-* Changed red nether bricks (added baked lighting)
-* Changed the metal texture for many blocks
-  - Loom
-  - Cauldron
-  - Furnace
-  - Dispenser
-  - Dropper
-  - Observer
+  - Clay
+  - Coal Ore
+* Nether Bricks (Redo)
+* Sponge (Less shiny)
+* Emerald Block (Less shiny)
+* Barrel (Desaturate)
+* Jigsaw (Add missing side)
+* Coal Ore (Make oil splotch)
+* Bookshelf (Redo)
+* Iron door (Redo)
+* Jungle door (Redo)
+* End Stone (Less shiny)
+* Acacia Trapdoor (Make seamless)
+* Acacia door item (Fix transparency)
+* Birch Planks (Redo)
+* Birch Trapdoor (Redo)
+* Netherrack (Now red carpet)
+* Quartz ore (White detailed red carpet)
+* Red nether bricks (Baked lighting)
+* Sandstone (Redo)
+* Chiseled sandstone (Redo)
+* Cut sandstone (Redo)
+* Smooth red sandstone (Sandstone brick)
+* Snow block (Redo)
+* Packed ice (Redo)
+* Prismarine (Color adjustments)
+* Prismarine bricks (Color adjustments)
+* Dark prismarine (Color adjustments)
+* Sand (Redo)
+* Red sand (Redo)
+* Blue glazed terracotta (Color adjustments)
+* Red glazed terracotta (Color adjustments)
+* Mushroom stem (White carpet)
+* Red mushroom block (Blue carpet)
+* Brown mushroom block (Gray carpet)
+* Mushroom inside (Asbestos ceiling tile)
+* Redone metal for many textures
   - Shulker box
-  - Black Shulker box
-* Changed snow block
-* Changed snowy grass side
-* Fixed Acacia trapdoor (Tiling issue)
-* Fixed Jigsaw missing texture
-* Fixed Iron door item texture
-* Fixed Jungle door item texture
-* Fixed Acacia door item texture
-
-+ Warped Door (white door)
-+ Warped Trapdoor (red sandstone textured)
-+ Warped planks (white wood planks)
-+ Crimson Door (black door)
-+ Crimson Trapdoor (soul sand textured)
-+ Crimson Planks (rustic wood planks)
-+ Soul Soil (new dirt)
-+ Shroomlight (new light source)
-+ Netherite Block (rusted emerald block texture)
+  - Black shulker box
+  - Observer
+  - Dropper
+  - Dispenser
+  - Furnace
+  - Cauldron
+  - Loom
+  - Chain command block
++ Cracked polished blackstone bricks (Vertical concrete lines light gray)
++ Chiseled polished blackstone (Dark smooth stone)
++ Polished blackstone bricks (Black brick)
++ Polished blackstone (Tan block)
++ Gilded blackstone (Parquet floor)
++ Blackstone (Dark red brick)
++ Cracked nether bricks (Vertical concrete lines tan)
++ Chiseled nether bricks (Red smooth stone)
++ Warped stem (Light gray tree trunk)
++ Stripped warped stem (White stripped wood)
++ Warped planks (White block)
++ Warped door (White door)
++ Warped trapdoor (Birch door but smol)
++ Warped sign (Cyan sign)
++ Warped nylium (Gray mulch)
++ Crimson stem (Gray tree trunk)
++ Stripped warped stem (Rustic stripped wood)
++ Crimson planks (Rustic planks)
++ Crimson door (Black door)
++ Crimson trapdoor (Slim soul sand)
++ Crimson sign (Orange sign)
++ Crimson nylium (Red mulch)
++ Honey block (Rubber mat)
++ Honeycomb block (Laminate)
++ Lantern
+  - Hanging is larger lantern
+  - Floor is ball light
++ Soul torch
+  - Wall is wall light
+  - Floor is lamp
++ Chain block
++ Twisting vines (Cables/rebar)
++ Nether sprouts (Small grass)
++ Warped roots (Medium grass)
++ Crimson roots (Red flowers)
++ Warped fungus (Bush)
++ Crimson fungus (Bush with orange flowers)
++ Weeping vines (Vines with purple flowers)
++ Warped wart block (Small blue tiles)
++ Basalt (Gray pillar)
++ Polished basalt (Air duct)
++ Ancient debris (Stone tiles)
++ Block of netherrite (Rusty metal)
++ Soul dirt (Dirt)
++ Shroomlight (Fancy light)
++ Soul campfire (Matches other campfire)
++ Respawn anchor (Nuclear waste)
++ Target block (Electrical thing)
++ Crying obsidian (Ceiling vent)
++ Nether gold ore (Yellow detailed red carpet)
++ Quartz brick (White cinder block)
++ Lodestone (Light gray smooth stone)
 
 v1.14
 * Removed backwards compat for 1.12
