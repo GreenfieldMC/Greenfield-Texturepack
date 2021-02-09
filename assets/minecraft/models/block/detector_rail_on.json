@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/detector_rail_on",
+		"particle": "block/detector_rail_on"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 1],
+			"to": [16, 0.5, 15],
+			"faces": {
+				"north": {"uv": [0, 1, 16, 2], "texture": "#0"},
+				"east": {"uv": [15, 1, 16, 15], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [0, 1, 16, 2], "texture": "#0"},
+				"west": {"uv": [0, 1, 1, 15], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [0, 1, 16, 15], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}
