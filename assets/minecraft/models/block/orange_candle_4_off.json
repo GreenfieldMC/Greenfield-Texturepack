@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/orange_candle_4_off",
+		"0": "block/redstone_lamp",
 		"particle": "block/orange_candle_4_off"
 	},
 	"elements": [

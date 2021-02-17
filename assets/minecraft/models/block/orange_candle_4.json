@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/orange_candle_4_on",
+		"0": "block/glowstone",
 		"particle": "block/orange_candle_4_on"
 	},
 	"elements": [
