@@ -8,10 +8,10 @@
 	},
 	"elements": [
 		{
-			"from": [0, 11.9, 0],
-			"to": [16, 11.9, 16],
+			"from": [-8, 11.9, -8],
+			"to": [24, 11.9, 24],
 			"shade": false,
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 4, 0]},
 			"faces": {
 				"up": {"uv": [0, 0, 16, 16], "texture": "#flower"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#flower"}
@@ -43,5 +43,6 @@
 				"down": {"uv": [14, 0, 16, 2], "texture": "#base"}
 			}
 		}
-	]
+	],
+	"display": {}
 }

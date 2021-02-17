@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "candles=1,lit=true": {
+      "model": "minecraft:block/magenta_candle_1"
+    },
+    "candles=2,lit=true": {
+      "model": "minecraft:block/magenta_candle_2"
+    },
+    "candles=3,lit=true": {
+      "model": "minecraft:block/magenta_candle_3"
+    },
+    "candles=4,lit=true": {
+      "model": "minecraft:block/magenta_candle_4"
+    },
+    "candles=1,lit=false": {
+      "model": "minecraft:block/magenta_candle_1_off"
+    },
+    "candles=2,lit=false": {
+      "model": "minecraft:block/magenta_candle_2_off"
+    },
+    "candles=3,lit=false": {
+      "model": "minecraft:block/magenta_candle_3_off"
+    },
+    "candles=4,lit=false": {
+      "model": "minecraft:block/magenta_candle_4_off"
+    }
+  }
+}
