@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/lime_candle_2_off",
-		"particle": "block/lime_candle_2_off"
+		"0": "block/light_blue_candle_2_off",
+		"particle": "block/light_blue_candle_2_off"
 	},
 	"elements": [
 		{

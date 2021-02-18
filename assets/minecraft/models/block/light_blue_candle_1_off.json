@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/lime_candle_1_on",
-		"particle": "block/lime_candle_1_on"
+		"0": "block/light_blue_candle_1_off",
+		"particle": "block/light_blue_candle_1_off"
 	},
 	"elements": [
 		{
@@ -15,7 +15,7 @@
 				"south": {"uv": [13, 0, 14, 8], "texture": "#0"},
 				"west": {"uv": [8, 0, 16, 8], "texture": "#0"},
 				"up": {"uv": [15, 0, 16, 8], "texture": "#0"},
-				"down": {"uv": [0, 0, 1, 8], "texture": "#0"}
+				"down": {"uv": [14, 0, 15, 8], "texture": "#0"}
 			}
 		},
 		{
