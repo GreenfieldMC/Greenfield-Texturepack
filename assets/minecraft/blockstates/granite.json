@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/granite" },
+			{ "model": "block/granite", "x": 90 },
+			{ "model": "block/granite", "x": 180 },
+			{ "model": "block/granite", "x": 270 },
+			{ "model": "block/granite" },
+			{ "model": "block/granite", "y": 90 },
+			{ "model": "block/granite", "y": 180 },
+			{ "model": "block/granite", "y": 270 }
+		]
+    }
+}

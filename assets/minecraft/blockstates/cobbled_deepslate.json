@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/cobbled_deepslate" },
+			{ "model": "block/cobbled_deepslate", "x": 90 },
+			{ "model": "block/cobbled_deepslate", "x": 180 },
+			{ "model": "block/cobbled_deepslate", "x": 270 },
+			{ "model": "block/cobbled_deepslate" },
+			{ "model": "block/cobbled_deepslate", "y": 90 },
+			{ "model": "block/cobbled_deepslate", "y": 180 },
+			{ "model": "block/cobbled_deepslate", "y": 270 }
+		]
+    }
+}
