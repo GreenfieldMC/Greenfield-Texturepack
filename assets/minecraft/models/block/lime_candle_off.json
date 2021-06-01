@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/lime_candle_base",
+  "textures": {
+    "light": "minecraft:block/redstone_lamp",
+	"back": "minecraft:block/coal_block"
+  }
+}
