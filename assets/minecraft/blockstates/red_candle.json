@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "candles=1,lit=true": {
+      "model": "minecraft:block/red_candle"
+    },
+    "candles=2,lit=true": {
+      "model": "minecraft:block/red_candle"
+    },
+    "candles=3,lit=true": {
+      "model": "minecraft:block/red_candle"
+    },
+    "candles=4,lit=true": {
+      "model": "minecraft:block/red_candle"
+    },
+    "candles=1,lit=false": {
+      "model": "minecraft:block/red_candle_off"
+    },
+    "candles=2,lit=false": {
+      "model": "minecraft:block/red_candle_off"
+    },
+    "candles=3,lit=false": {
+      "model": "minecraft:block/red_candle_off"
+    },
+    "candles=4,lit=false": {
+      "model": "minecraft:block/red_candle_off"
+    }
+  }
+}
