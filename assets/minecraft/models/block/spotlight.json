@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/spotlight_base",
+  "textures": {
+    "texture": "minecraft:block/spotlight_on"
+  }
+}

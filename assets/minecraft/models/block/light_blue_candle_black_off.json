@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/light_blue_candle_base",
+  "textures": {
+    "texture": "minecraft:block/light_blue_candle_black_off"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/yellow_candle_base",
+  "textures": {
+    "texture": "minecraft:block/yellow_candle_white"
+  }
+}

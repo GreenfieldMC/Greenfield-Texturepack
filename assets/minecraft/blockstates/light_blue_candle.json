@@ -1,28 +1,28 @@
 {
   "variants": {
     "candles=1,lit=true": {
-      "model": "minecraft:block/light_blue_candle_1"
+      "model": "minecraft:block/light_blue_candle_white"
     },
     "candles=2,lit=true": {
-      "model": "minecraft:block/light_blue_candle_2"
+      "model": "minecraft:block/light_blue_candle_black"
     },
     "candles=3,lit=true": {
-      "model": "minecraft:block/light_blue_candle_3"
+      "model": "minecraft:block/light_blue_candle_brown"
     },
     "candles=4,lit=true": {
-      "model": "minecraft:block/light_blue_candle_4"
+      "model": "minecraft:block/light_blue_candle_tan"
     },
     "candles=1,lit=false": {
-      "model": "minecraft:block/light_blue_candle_1_off"
+      "model": "minecraft:block/light_blue_candle_white_off"
     },
     "candles=2,lit=false": {
-      "model": "minecraft:block/light_blue_candle_2_off"
+      "model": "minecraft:block/light_blue_candle_black_off"
     },
     "candles=3,lit=false": {
-      "model": "minecraft:block/light_blue_candle_3_off"
+      "model": "minecraft:block/light_blue_candle_brown_off"
     },
     "candles=4,lit=false": {
-      "model": "minecraft:block/light_blue_candle_4_off"
+      "model": "minecraft:block/light_blue_candle_tan_off"
     }
   }
 }
