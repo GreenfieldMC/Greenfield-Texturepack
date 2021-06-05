@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/red_candle_base",
   "textures": {
-    "texture": "minecraft:block/red_candle"
+    "texture": "minecraft:block/red_candle_off"
   }
 }
