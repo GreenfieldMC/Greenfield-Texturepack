@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/orange_candle_thick_base",
+  "textures": {
+    "texture": "minecraft:block/redstone_lamp"
+  }
+}

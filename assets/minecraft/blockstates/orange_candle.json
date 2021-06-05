@@ -1,28 +1,28 @@
 {
   "variants": {
     "candles=1,lit=true": {
-      "model": "minecraft:block/orange_candle_1"
+      "model": "minecraft:block/orange_candle_dirty_thin"
     },
     "candles=2,lit=true": {
-      "model": "minecraft:block/orange_candle_2"
+	  "model": "minecraft:block/orange_candle_dirty_thick"
     },
     "candles=3,lit=true": {
-      "model": "minecraft:block/orange_candle_3"
+      "model": "minecraft:block/orange_candle_clean_thin"
     },
     "candles=4,lit=true": {
-      "model": "minecraft:block/orange_candle_4"
+      "model": "minecraft:block/orange_candle_clean_thick"
     },
     "candles=1,lit=false": {
-      "model": "minecraft:block/orange_candle_1_off"
+	  "model": "minecraft:block/orange_candle_dirty_thin_off"
     },
     "candles=2,lit=false": {
-      "model": "minecraft:block/orange_candle_2_off"
+	  "model": "minecraft:block/orange_candle_dirty_thick_off"
     },
     "candles=3,lit=false": {
-      "model": "minecraft:block/orange_candle_3_off"
+      "model": "minecraft:block/orange_candle_clean_thin_off"
     },
     "candles=4,lit=false": {
-      "model": "minecraft:block/orange_candle_4_off"
+      "model": "minecraft:block/orange_candle_clean_thick_off"
     }
   }
 }

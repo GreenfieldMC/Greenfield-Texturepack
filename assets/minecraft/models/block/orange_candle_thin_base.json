@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/glowstone",
-		"particle": "block/glowstone"
+		"0": "#texture",
+		"particle": "#texture"
 	},
 	"elements": [
 		{
