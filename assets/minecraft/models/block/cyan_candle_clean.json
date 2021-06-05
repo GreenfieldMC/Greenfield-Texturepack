@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cyan_candle_base",
+  "textures": {
+    "texture": "minecraft:block/glowstone"
+  }
+}
