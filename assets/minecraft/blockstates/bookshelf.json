@@ -5,7 +5,12 @@
 			{ "model": "minecraft:block/bookshelf_2"},
 			{ "model": "minecraft:block/bookshelf_3"},
 			{ "model": "minecraft:block/bookshelf_4"},
-			{ "model": "minecraft:block/bookshelf_5"}
+			{ "model": "minecraft:block/bookshelf_5"},
+			{ "model": "minecraft:block/bookshelf_6"},
+			{ "model": "minecraft:block/bookshelf_7"},
+			{ "model": "minecraft:block/bookshelf_8"},
+			{ "model": "minecraft:block/bookshelf_9"},
+			{ "model": "minecraft:block/bookshelf_10"}
 		]
     }
 }
