@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/cut_copper" },
+			{ "model": "block/cut_copper", "x": 90 },
+			{ "model": "block/cut_copper", "x": 180 },
+			{ "model": "block/cut_copper", "x": 270 },
+			{ "model": "block/cut_copper" },
+			{ "model": "block/cut_copper", "y": 90 },
+			{ "model": "block/cut_copper", "y": 180 },
+			{ "model": "block/cut_copper", "y": 270 }
+		]
+    }
+}
