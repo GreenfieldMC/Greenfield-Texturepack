@@ -15,17 +15,17 @@
 	  "y": 90
     },
     "candles=1,lit=false": {
-      "model": "minecraft:block/cyan_candle_dirty"
+      "model": "minecraft:block/cyan_candle_dirty_off"
     },
     "candles=2,lit=false": {
-      "model": "minecraft:block/cyan_candle_dirty",
+      "model": "minecraft:block/cyan_candle_dirty_off",
 	  "y": 90
     },
     "candles=3,lit=false": {
-      "model": "minecraft:block/cyan_candle_clean"
+      "model": "minecraft:block/cyan_candle_clean_off"
     },
     "candles=4,lit=false": {
-      "model": "minecraft:block/cyan_candle_clean",
+      "model": "minecraft:block/cyan_candle_clean_off",
 	  "y": 90
     }
   }
