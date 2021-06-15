@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/smooth_basalt" },
+			{ "model": "block/smooth_basalt", "x": 90 },
+			{ "model": "block/smooth_basalt", "x": 180 },
+			{ "model": "block/smooth_basalt", "x": 270 },
+			{ "model": "block/smooth_basalt" },
+			{ "model": "block/smooth_basalt", "y": 90 },
+			{ "model": "block/smooth_basalt", "y": 180 },
+			{ "model": "block/smooth_basalt", "y": 270 }
+		]
+    }
+}
