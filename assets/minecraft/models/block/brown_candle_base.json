@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/brown_candle",
-		"1": "block/brown_candle_bottom"
+		"0": "#outer_ring",
+		"1": "#bottom_piece"
 	},
 	"elements": [
 		{
@@ -94,7 +94,7 @@
 				"south": {"uv": [0, 0, 1, 6], "texture": "#0"},
 				"west": {"uv": [12, 0, 14, 6], "texture": "#0"},
 				"up": {"uv": [0, 0, 1, 2], "rotation": 180, "texture": "#0"},
-				"down": {"uv": [0, 0, 1, 2], "rotation": 180, "texture": "#0"}
+				"down": {"uv": [0, 5, 2, 6], "rotation": 90, "texture": "#0"}
 			}
 		},
 		{
@@ -159,7 +159,7 @@
 				"south": {"uv": [12, 0, 13, 6], "texture": "#0"},
 				"west": {"uv": [0, 0, 1, 6], "texture": "#0"},
 				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"down": {"uv": [1, 0, 2, 1], "texture": "#0"}
+				"down": {"uv": [1, 5, 2, 6], "texture": "#0"}
 			}
 		},
 		{

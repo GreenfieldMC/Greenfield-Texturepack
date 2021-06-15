@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/brown_candle_base",
+  "textures": {
+    "outer_ring": "minecraft:block/brown_candle_ring_white",
+	"bottom_piece": "minecraft:block/brown_candle_bottom_white"
+  }
+}
