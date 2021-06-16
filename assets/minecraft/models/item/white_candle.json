@@ -1,5 +1,5 @@
 {   
-	"parent": "block/candle_three_candles",
+	"parent": "block/white_candle_three_candles",
     "display": {
         "gui": {
             "rotation": [ 40, 45, 0 ],
@@ -44,7 +44,7 @@
     },
     "ambientocclusion": false,
     "textures": {
-        "all": "minecraft:block/candle",
-		"particle": "minecraft:block/candle"
+        "all": "minecraft:block/white_candle",
+		"particle": "minecraft:block/white_candle"
     }
 }
