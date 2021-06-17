@@ -42,9 +42,5 @@
             "scale":[ 0.8, 0.8, 0.8 ]
         }
     },
-    "ambientocclusion": false,
-    "textures": {
-        "all": "minecraft:block/candle",
-		"particle": "minecraft:block/candle"
-    }
+    "ambientocclusion": false
 }
