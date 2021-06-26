@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/prismarine" },
+            { "model": "block/prismarine_mirrored" },
+            { "model": "block/prismarine", "y": 180 },
+            { "model": "block/prismarine_mirrored", "y": 180 }
+        ]
+    }
+}
