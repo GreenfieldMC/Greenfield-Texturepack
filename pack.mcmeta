@@ -1,6 +1,13 @@
 {
   "pack": {
     "pack_format": 7,
-    "description": "By Kre8tiv, Aundros, NJDaeger, Bluecolty, & Staples_"
+    "description": "By Kris, NJ, Blue, Staples, JacobKazias, & Cooth",
+	"comments": "Credit is due to KRE8TIV, who originally compiled the resourcepack together, all textures have since been redone, and all work is now original. Thank you for the help along the way.",
+	"credit_map": [
+	  {"NJ": "NJDaeger"},
+	  {"Kris": "KristofferAndre"},
+	  {"Blue": "Bluecolty"},
+	  {"Staples": "Staples_"}
+	]
   }
 }

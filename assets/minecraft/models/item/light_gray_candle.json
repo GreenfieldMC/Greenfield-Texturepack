@@ -2,7 +2,7 @@
 	"parent": "block/spotlight",
     "display": {
         "gui": {
-            "rotation": [ -20, 45, 180 ],
+            "rotation": [ -20, 135, 180 ],
             "translation": [ 0, -2, 0],
             "scale":[ 1, 1, 1 ]
         },
