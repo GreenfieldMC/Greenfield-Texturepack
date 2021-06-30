@@ -8,13 +8,33 @@
 	},
 	"elements": [
 		{
-			"from": [-8, 11.51, -8],
-			"to": [24, 11.51, 24],
+			"from": [6, 11.51, -8],
+			"to": [10, 11.51, 24],
 			"shade": false,
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 3.75, 0]},
 			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "texture": "#flower"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#flower"}
+				"up": {"uv": [7, 0, 9, 16], "texture": "#flower"},
+				"down": {"uv": [7, 0, 9, 16], "texture": "#flower"}
+			}
+		},
+		{
+			"from": [10, 11.51, 6],
+			"to": [24, 11.51, 10],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 3.75, 0]},
+			"faces": {
+				"up": {"uv": [0, 7, 7, 9], "texture": "#flower"},
+				"down": {"uv": [9, 7, 16, 9], "texture": "#flower"}
+			}
+		},
+		{
+			"from": [-8, 11.51, 6],
+			"to": [6, 11.51, 10],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [-18, 3.75, 0]},
+			"faces": {
+				"up": {"uv": [9, 7, 16, 9], "texture": "#flower"},
+				"down": {"uv": [0, 7, 7, 9], "texture": "#flower"}
 			}
 		},
 		{
