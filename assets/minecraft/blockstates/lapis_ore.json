@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/lapis_ore" },
+			{ "model": "block/lapis_ore", "x": 90 },
+			{ "model": "block/lapis_ore", "x": 180 },
+			{ "model": "block/lapis_ore", "x": 270 },
+			{ "model": "block/lapis_ore" },
+			{ "model": "block/lapis_ore", "y": 90 },
+			{ "model": "block/lapis_ore", "y": 180 },
+			{ "model": "block/lapis_ore", "y": 270 }
+		]
+    }
+}

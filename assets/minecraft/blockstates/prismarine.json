@@ -1,10 +1,14 @@
 {
     "variants": {
         "": [
-            { "model": "block/prismarine" },
-            { "model": "block/prismarine_mirrored" },
-            { "model": "block/prismarine", "y": 180 },
-            { "model": "block/prismarine_mirrored", "y": 180 }
-        ]
+			{ "model": "block/prismarine" },
+			{ "model": "block/prismarine", "x": 90 },
+			{ "model": "block/prismarine", "x": 180 },
+			{ "model": "block/prismarine", "x": 270 },
+			{ "model": "block/prismarine" },
+			{ "model": "block/prismarine", "y": 90 },
+			{ "model": "block/prismarine", "y": 180 },
+			{ "model": "block/prismarine", "y": 270 }
+		]
     }
 }

@@ -1,10 +1,14 @@
 {
     "variants": {
         "": [
-            { "model": "block/coal_ore" },
-            { "model": "block/coal_ore_mirrored" },
-            { "model": "block/coal_ore", "y": 180 },
-            { "model": "block/coal_ore_mirrored", "y": 180 }
-        ]
+			{ "model": "block/coal_ore" },
+			{ "model": "block/coal_ore", "x": 90 },
+			{ "model": "block/coal_ore", "x": 180 },
+			{ "model": "block/coal_ore", "x": 270 },
+			{ "model": "block/coal_ore" },
+			{ "model": "block/coal_ore", "y": 90 },
+			{ "model": "block/coal_ore", "y": 180 },
+			{ "model": "block/coal_ore", "y": 270 }
+		]
     }
 }
