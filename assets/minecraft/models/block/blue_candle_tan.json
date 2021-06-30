@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/blue_candle_base",
+  "textures": {
+    "top": "minecraft:block/blue_candle_tan",
+	"side": "minecraft:block/blue_candle_side_tan"
+  }
+}

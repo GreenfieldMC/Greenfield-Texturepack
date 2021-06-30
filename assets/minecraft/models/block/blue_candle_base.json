@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/blue_candle_white",
-		"2": "block/blue_candle_side_white",
-		"particle": "block/blue_candle_side_white"
+		"1": "#top",
+		"2": "#side",
+		"particle": "#top"
 	},
 	"elements": [
 		{

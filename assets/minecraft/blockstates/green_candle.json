@@ -1,28 +1,28 @@
 {
   "variants": {
     "candles=1,lit=true": {
-      "model": "minecraft:block/green_candle"
+      "model": "minecraft:block/green_candle_white"
     },
     "candles=2,lit=true": {
-      "model": "minecraft:block/green_candle"
+      "model": "minecraft:block/green_candle_black"
     },
     "candles=3,lit=true": {
-      "model": "minecraft:block/green_candle"
+      "model": "minecraft:block/green_candle_brown"
     },
     "candles=4,lit=true": {
-      "model": "minecraft:block/green_candle"
+      "model": "minecraft:block/green_candle_tan"
     },
     "candles=1,lit=false": {
-      "model": "minecraft:block/green_candle"
+      "model": "minecraft:block/green_candle_white_off"
     },
     "candles=2,lit=false": {
-      "model": "minecraft:block/green_candle"
+      "model": "minecraft:block/green_candle_black_off"
     },
     "candles=3,lit=false": {
-      "model": "minecraft:block/green_candle"
+      "model": "minecraft:block/green_candle_brown_off"
     },
     "candles=4,lit=false": {
-      "model": "minecraft:block/green_candle"
+      "model": "minecraft:block/green_candle_tan_off"
     }
   }
 }

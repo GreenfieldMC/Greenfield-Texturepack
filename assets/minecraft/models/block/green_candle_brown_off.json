@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/green_candle_base",
+  "textures": {
+    "blades": "block/green_candle_blades_brown_off",
+	"base": "block/green_candle_base_brown_off"
+  }
+}
