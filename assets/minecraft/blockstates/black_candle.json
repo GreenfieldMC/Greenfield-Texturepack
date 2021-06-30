@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "candles=1,lit=true": {
+      "model": "minecraft:block/black_candle_clear_white"
+    },
+    "candles=2,lit=true": {
+      "model": "minecraft:block/black_candle_clear_sodium"
+    },
+    "candles=3,lit=true": {
+      "model": "minecraft:block/black_candle_metal_white"
+    },
+    "candles=4,lit=true": {
+      "model": "minecraft:block/black_candle_metal_sodium"
+    },
+    "candles=1,lit=false": {
+      "model": "minecraft:block/black_candle_clear_white_off"
+    },
+    "candles=2,lit=false": {
+      "model": "minecraft:block/black_candle_clear_sodium_off"
+    },
+    "candles=3,lit=false": {
+      "model": "minecraft:block/black_candle_metal_white_off"
+    },
+    "candles=4,lit=false": {
+      "model": "minecraft:block/black_candle_metal_sodium_off"
+    }
+  }
+}
