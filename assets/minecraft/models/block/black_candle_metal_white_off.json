@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/black_candle_base",
+  "textures": {
+    "shell": "minecraft:block/black_candle_metal_white_shell_off",
+	"light": "minecraft:block/black_candle_white_light_off"
+  }
+}
