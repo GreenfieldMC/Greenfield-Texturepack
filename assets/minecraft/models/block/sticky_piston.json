@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/template_piston",
+	"textures": {
+		"platform": "block/piston_top_sticky",
+		"bottom": "block/piston_bottom_sticky",
+		"side": "block/piston_side_sticky"
+	}
+}
