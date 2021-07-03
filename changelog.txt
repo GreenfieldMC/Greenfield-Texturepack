@@ -265,7 +265,7 @@ Additions:
 + Moss Block (Gray decorative carpet)
 + Glow Berries
   - On: Lit chandelier
-  - Off: Unlit chendelier
+  - Off: Unlit chandelier
 + Azalea
 + Flowering Azalea
 + Small Dripleaf (Cat tails)
@@ -300,7 +300,7 @@ Additional changes:
 * Reduce size of main menu images
 * Redid all splash text
 * Shortened usual names in the credits to accomodate for the next point
-+ Added Cooth and JacobKazias to credits
++ Added Staples, Cooth and JacobKazias to credits
 + Added a new Greenfield Title Menu Text
 - Removed Armor textures, except gold
 - Removed custom songs
