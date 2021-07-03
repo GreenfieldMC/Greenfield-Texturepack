@@ -1,4 +1,311 @@
 v1.17
+Fixes:
+* Fix Nether Sprouts item model
+* Fix Carved Pumkin face
+* Fix Jack o'Lantern face
+* Fix Chain item texture (Color match)
+* Fix Crimson Roots Flower Pot model (Was default)
+* Fix Warped Roots Flower Pot model (Was default)
+* Fix Granite (Less tiling, random rotations)
+* Fix Redstone Torch item (Straggling pixels)
+* Fix Fletching Table (Bottom texture)
+* Fix Crafting Table (Bottom texture)
+* Fix Soul Campfire (Remove ashes)
+* Fix Dead Horn Coral Fan (Color adjustments)
+* Fix Dead Bubble Coral Fan (Color adjustments)
+* Fix Dead Brain Coral Fan (Color adjustments)
+* Fix Spruce Door item
+* Fix Dead Horn Coral Block (Fix tiling issues)
+* Fix Weeping Vines (Color adjustments)
+* Fix Cartography Table (Bottom and top)
+
+Redone Groups of Blocks:
+* Redid Beds (Texture redo, some color adjustments)
+* Redid Glass (Texture redo, same color)
+* Redid Wool (Texture redo, some color adjustments)
+* Redid Concrete (Texture redo)
+* Redid Concrete Powder (Texture redo)
+* Redid Terracottas (Texture redo)
+* Redid Oak
+  - Planks
+  - Log
+  - Stripped Log
+* Redid Spruce
+  - Planks
+  - Log
+  - Stripped Log
+* Redid Birch
+  - Planks
+  - Log
+  - Stripped Log
+* Redid Jungle
+  - Planks
+  - Log
+  - Stripped Log
+* Redid Acacia
+  - Planks
+  - Log
+  - Stripped Log
+* Redid Dark Oak
+  - Planks
+  - Log
+  - Stripped Log
+* Redid Oak based Shulkers (Texture redo, based on Oak Stripped Log)
+* Redid Spruce based Shulkers (Texture redo, based on Spruce Stripped Log)
+* Redid Jungle based Shulkers (Texture redo, based on Jungle Stripped Log)
+* Redid Acacia based Shulkers (Texture redo, based on Acacia Stripped Log)
+* Redid Quartz based Shulkers (Texture redo)
+* Redid Metal based Shulkers (Texture redo )
+* Redid Dropper (Texture redo, goes with metal based Shulkers)
+* Redid Rails
+  - Detector Rail (Off: Stovetop off, On: Stovetop on)
+  - Activator Rail (Off: metal cable, On: rope)
+  - Powered Rail (Off: Non moving chain, On: Moving chain)
+  - Rails (Texture redo, concrete ties)
+* Redid Ores
+  - Gold Ore (Yellow tactile pavement)
+  - Iron Ore (Small metal road cover, random rotations)
+  - Lapis Ore (Water puddle, random rotations)
+  - Redstone Ore (Blood puddle, random rotations)
+  - Emerald Ore (Mossy stone, random rotations)
+  - Diamond Ore (Red tactile pavement)
+  - Coal Ore (New stone, random rotations)
+* Redid all cinder blocks (Standardization)
+  - Cobblestone
+  - Mossy cobblestone
+  - Sandstone (Color adjustments)
+  - Cracked Stone Bricks
+  - Mossy Stone Bricks
+  - Stone Bricks
+  - Quartz (Color adjustments)
+  - Polished Granite
+* Redid most vegitation
+  - Oxeye Daisy
+  - Cornflower
+  - Lily of the Valley
+  - Wither Rose
+  - Brown Mushroom
+  - Red Mushroom
+  - Lilac
+  - Peony
+  - Sunflower
+  - Dandelion
+  - Poppy
+  - Blue Orchid
+  - Allium
+  - Azure Bluet
+  - Red Tulip
+  - Orange Tulip
+  - White Tulip
+  - Pink Tulip
+  - Vines
+  - Large Fern
+  - Fern
+  - Tall Grass
+  - Grass
+  - Rose
+  - Oak Sapling
+  - Spruce Sapling
+  - Birch Sapling
+  - Jungle Sapling
+  - Acacia Sapling
+  - Big Oak Sapling
+  - Cactus
+  - Dead Bush
+  - Berry Bush
+  - Kelp
+  - Seagrass
+  - Tall Seagrass
+* Redid all regular bricks
+  - Bricks
+  - Polished Blackstone Bricks
+  - Blackstone
+  - Nether Bricks
+  - End Stone Bricks
+  - Purpur Block
+* Redid all smooth stone based textures
+  - Smooth Stone
+  - Smooth Sandstone
+  - Chiseled Polished Blackstone
+  - Chiseled Nether Bricks
+  - Smooth Quartz
+  - Lodestone
+  - Smooth Stone Slab side
+  - Cut Red Sandstone (Turned into smooth stone based)
+  - Prismarine Bricks (Turned into smooth stone based)
+
+Redone Misc Blocks:
+* Redid ALL Paintings
+* Redid Gravel
+* Redid Bedrock
+* Redid Dirt
+* Redid Coarse Dirt
+* Redid Podzol
+* Redid Mycelium
+* Redid Warped Nylium
+* Redid Crimson Nylium
+* Redid Dried Kelp Block
+* Redid Grass Block
+* Redid Soul Sand
+* Redid Obsidian (Dark cobbles)
+* Redid Stone
+* Redid Andesite
+* Redid Polished Andesite
+* Redid Farmland
+* Redid Dirt Path
+* Redid Block of Lapis
+* Redid Chiseled Sandstone
+* Redid Cut Sandstone
+* Redid Diorite
+* Redid Polished Diorite
+* Redid End Stone
+* Redid Terracotta
+* Redid Clay
+* Redid Coal Block
+* Redid Bookshelf (Random textures, better colors)
+* Redid Quartz Pillar
+* Redid Chiseled Quartz
+* Redid Glowstone
+* Redid Sea Lantern
+* Redid Redstone Lamp
+* Redid Block of Redstone
+* Redid Daylight Detectors
+* Redid Prismarine
+* Redid Dark Prismarine
+* Redid Command block
+* Redid Chain Command Block (Bloom to lights)
+* Redid Repeating Command Block
+* Redid Bee Nest
+* Redid Beehive
+* Redid Sponge
+* Redid Wet Sponge
+* Redid Piston
+* Redid Sticky Piston
+* Redid Hopper (Acacia texture)
+* Redid Anvil (Acacia texture)
+* Redid Trapped Chest (Stripped spruce log texture)
+* Redid Chest (Stripped oak log texture)
+* Redid Ender Chest (Coal block texture)
+* Redid Warped Wart Block (Standardize)
+* Redid Nether Wart (Made into ground trash)
+* Redid Lily Pad (New texture, random textures)
+* Redid Dragon Egg (Lamp base or vase)
+* Redid Chiseled Stone Bricks (New crate design)
+* Redid Brewing Stand (Metal)
+* Redid Enchanting Table (Nicer table)
+* Redid End Portal Frame (Nice table with sandwich (when Eye of Ender is in it))
+* Redid Lectern (New bookshelf, update wood)
+* Redid Noteblock
+* Redid Jukebox
+* Redid Bone Block
+* Redid Lever
+* Redid Iron Block
+* Redid Gold Block
+* Redid Diamond Block
+* Redid Hay Bale
+* Redid Pumpkin
+* Redid Melon
+* Redid Redstone Dust
+* Redid Redstone Torch
+* Redid Torch
+* Redid Crimson Trapdoor
+* Redid Spruce Trapdoor
+* Redid Oak Trapdoor
+* Redid Birch Trapdoor
+* Redid Oak Door
+* Redid Spruce Door
+* Redid Iron Door
+* Redid Iron Bars
+* Redid Spruce Sign
+* Redid Oak Sign
+* Redid TNT
+* Redid Ladder
+* Redid Wheat (Make Default)
+* Redid Stonecutter
+* Redid Bell (Texture update to gold, model update)
+* Redid Flower Pot
+
+Additions:
++ Copper Ore (Rust stain)
++ Tinted Glass (Boarded up windows)
++ Lightning Rod (Dark pole thing)
++ Block of Amethyst (Blue/Navy tile)
++ Calcite (Cream/White tile)
++ Tuff (Black tile)
++ Powdered Snow
++ Cut Copper (Orange stucco)
++ Block of Copper (Decorative Orange Stucco)
++ Exposed Cut Copper (Pink stucco)
++ Block of Exposed Copper (Decorative Pink Stucco)
++ Weathered Cut Copper (Green Stucco)
++ Block of Weathered Copper (Decorative Green Stucco)
++ Oxidized Cut Copper (Brown Stucco)
++ Block of Oxidized Copper (Decorative Brown Stucco)
++ Pointed Dripstone (Palm Trunk/Tree detailing)
++ Dripstone Block (Brown Slate)
++ Candles
+  - Candle is candle
+  - White candle is candle
+  - Orange Candle (Light source; 3px/8px thick, dirty/clean)
+  - Magenta Candle (Small lamp; white, black, brown, tan)
+  - Light Blue Candle (Large lamp; white, black, brown, tan)
+  - Yellow Candle (Small hanging light with Shade; white, black, brown, tan)
+  - Lime Candle (Outdoor wall light; north, south, east, west)
+  - Pink Candle (Desk lamp; north, south, east, west)
+  - Gray Candle (Floor spotlight; north, south, east, west)
+  - Light Gray Candle (Ceiling spotlight; north, south, east, west)
+  - Cyan Candle (Narrower, 3px thick, ceiling light; n/s, e/w and dirty/clean)
+  - Purple Candle (Single pixel thick light; north, south, east, west)
+  - Blue Candle (Boob light; white, black, brown, tan)
+  - Brown Candle (Cylindrical ceiling light with shade; white, black, brown, tan)
+  - Green Candle (Fan with light; white, black, brown, tan)
+  - Red Candle (LED Floodlight; north, south, east, west)
+  - Black Candle (Indistrual bay light; LED/sodium light, metal/clear shell)
++ Glow Lichen (Ceiling flood light)
++ Glow Item Frame
++ Moss Block (Gray decorative carpet)
++ Glow Berries
+  - On: Lit chandelier
+  - Off: Unlit chendelier
++ Azalea
++ Flowering Azalea
++ Small Dripleaf (Cat tails)
++ Big Dripleaf (Tall lilypad)
++ Spore Blossom (Industrial ceiling fan, no light)
++ Hanging Roots
++ Rooted Dirt (Sandy Dirt)
++ Cobbled Deepslate (Limestone)
++ Deepslate (Limestone pillar)
++ Deepslate Bricks (Limestone cinder block)
++ Chiseled Deepslate (Smooth limestone)
++ Cracked Deepslate Tiles (Decorative limestone)
++ Cracked Deepslate Bricks (Decorative limestone)
++ Deepslate Tiles (Brown brick)
++ Polished Deepslate (Red cinder block)
++ Smooth Basalt (Smooth red)
++ Deepslate Ores
+  - Coal Ore (2x2 version of Chiseled Polished Blackstone)
+  - Iron Ore (2x2 version of Red Cut Sandstone)
+  - Copper Ore (2x2 version of Chiseled Deepslate)
+  - Gold Ore (2x2 version of Smooth Sandstone)
+  - Redstone Ore (2x2 version of Chiseled Nether Bricks)
+  - Emerald Ore (2x2 version of Lodestone)
+  - Lapis Ore (2x2 version of Smooth Stone)
+  - Diamond Ore (2x2 version of Smooth Quartz)
++ Block of Raw Iron (Brown cobbles)
++ Block of Raw Copper (Redish cobbles)
++ Block of Raw Gold (Gray cobbles)
++ Light block
+
+Additional changes:
+* Redid all splash text
+* Shortened usual names in the credits to accomodate for the next point
++ Added Cooth and JacobKazias to credits
++ Added a new Greenfield Title Menu Text
+- Removed Armor textures, except gold
+- Removed KRE8TIV from the credits (No more affiliation with us)
+
+Almost everything was listed, we likely forgot about something though. This update was intense.
 
 
 v1.15-1.16
