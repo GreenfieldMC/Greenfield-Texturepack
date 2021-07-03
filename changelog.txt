@@ -23,7 +23,6 @@ Redone Groups of Blocks:
 * Redid Beds (Texture redo, some color adjustments)
 * Redid Glass (Texture redo, same color)
 * Redid Wool (Texture redo, some color adjustments)
-* Redid Concrete (Texture redo)
 * Redid Concrete Powder (Texture redo)
 * Redid Terracottas (Texture redo)
 * Redid Oak
@@ -175,8 +174,8 @@ Redone Misc Blocks:
 * Redid Command block
 * Redid Chain Command Block (Bloom to lights)
 * Redid Repeating Command Block
-* Redid Bee Nest
-* Redid Beehive
+* Redid Bee Nest (Bee box)
+* Redid Beehive (File box)
 * Redid Sponge
 * Redid Wet Sponge
 * Redid Piston
@@ -220,7 +219,7 @@ Redone Misc Blocks:
 * Redid Oak Sign
 * Redid TNT
 * Redid Ladder
-* Redid Wheat (Make Default)
+* Redid Wheat (Made Default)
 * Redid Stonecutter
 * Redid Bell (Texture update to gold, model update)
 * Redid Flower Pot
@@ -261,7 +260,7 @@ Additions:
   - Green Candle (Fan with light; white, black, brown, tan)
   - Red Candle (LED Floodlight; north, south, east, west)
   - Black Candle (Indistrual bay light; LED/sodium light, metal/clear shell)
-+ Glow Lichen (Ceiling flood light)
++ Glow Lichen (Recessed light/pot light)
 + Glow Item Frame
 + Moss Block (Gray decorative carpet)
 + Glow Berries
@@ -270,7 +269,7 @@ Additions:
 + Azalea
 + Flowering Azalea
 + Small Dripleaf (Cat tails)
-+ Big Dripleaf (Tall lilypad)
++ Big Dripleaf (Big lilypad)
 + Spore Blossom (Industrial ceiling fan, no light)
 + Hanging Roots
 + Rooted Dirt (Sandy Dirt)
@@ -298,12 +297,14 @@ Additions:
 + Light block
 
 Additional changes:
+* Reduce size of main menu images
 * Redid all splash text
 * Shortened usual names in the credits to accomodate for the next point
 + Added Cooth and JacobKazias to credits
 + Added a new Greenfield Title Menu Text
 - Removed Armor textures, except gold
-- Removed KRE8TIV from the credits (No more affiliation with us)
+- Removed custom songs
+- Removed KRE8TIV from the credits (No more affiliation with the project)
 
 Almost everything was listed, we likely forgot about something though. This update was intense.
 
