@@ -220,6 +220,7 @@ Redone Misc Blocks:
 * Redid TNT
 * Redid Ladder
 * Redid Wheat (Made Default)
+* Redid Iron Trapdoor (Made Default)
 * Redid Stonecutter
 * Redid Bell (Texture update to gold, model update)
 * Redid Flower Pot
