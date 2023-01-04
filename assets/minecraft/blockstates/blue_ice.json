@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+			{ "model": "block/blue_ice" },
+			{ "model": "block/blue_ice", "x": 90 },
+			{ "model": "block/blue_ice", "x": 180 },
+			{ "model": "block/blue_ice", "x": 270 },
+			{ "model": "block/blue_ice" },
+			{ "model": "block/blue_ice", "y": 90 },
+			{ "model": "block/blue_ice", "y": 180 },
+			{ "model": "block/blue_ice", "y": 270 }
+		]
+  }
+}

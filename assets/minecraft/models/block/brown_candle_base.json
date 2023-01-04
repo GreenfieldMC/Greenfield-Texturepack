@@ -3,7 +3,8 @@
 	"ambientocclusion": false,
 	"textures": {
 		"0": "#outer_ring",
-		"1": "#bottom_piece"
+		"1": "#bottom_piece",
+		"particle": "#outer_ring"
 	},
 	"elements": [
 		{

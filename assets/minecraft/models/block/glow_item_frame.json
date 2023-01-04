@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/template_item_frame",
+    "textures": {
+        "particle": "block/furnace_top",
+        "wood": "block/furnace_top",
+        "back": "block/glow_item_frame"
+    }
+}

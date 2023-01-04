@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+			{ "model": "block/powder_snow" },
+			{ "model": "block/powder_snow", "x": 90 },
+			{ "model": "block/powder_snow", "x": 180 },
+			{ "model": "block/powder_snow", "x": 270 },
+			{ "model": "block/powder_snow" },
+			{ "model": "block/powder_snow", "y": 90 },
+			{ "model": "block/powder_snow", "y": 180 },
+			{ "model": "block/powder_snow", "y": 270 }
+		]
+  }
+}

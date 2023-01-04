@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+			{ "model": "block/snow_block" },
+			{ "model": "block/snow_block", "x": 90 },
+			{ "model": "block/snow_block", "x": 180 },
+			{ "model": "block/snow_block", "x": 270 },
+			{ "model": "block/snow_block" },
+			{ "model": "block/snow_block", "y": 90 },
+			{ "model": "block/snow_block", "y": 180 },
+			{ "model": "block/snow_block", "y": 270 }
+		]
+  }
+}
