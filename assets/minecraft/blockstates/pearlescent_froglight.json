@@ -10,11 +10,17 @@
 		  "model": "minecraft:block/pearlescent_froglight/pearlescent_froglight_horizontal2",
 		  "x": 90,
 		  "y": 90
+		},
+		{
+		  "model": "minecraft:block/pearlescent_froglight/pearlescent_froglight_horizontal3",
+		  "x": 90,
+		  "y": 90
 		}
 	],
     "axis=y": [
       { "model": "minecraft:block/pearlescent_froglight/pearlescent_froglight1" },
-	  { "model": "minecraft:block/pearlescent_froglight/pearlescent_froglight2" }
+	  { "model": "minecraft:block/pearlescent_froglight/pearlescent_froglight2" },
+	  { "model": "minecraft:block/pearlescent_froglight/pearlescent_froglight3" }
     ],
     "axis=z": [
 		{
@@ -23,6 +29,10 @@
 		},
 		{
 		  "model": "minecraft:block/pearlescent_froglight/pearlescent_froglight_horizontal2",
+		  "x": 90
+		},
+		{
+		  "model": "minecraft:block/pearlescent_froglight/pearlescent_froglight_horizontal3",
 		  "x": 90
 		}
 	]
