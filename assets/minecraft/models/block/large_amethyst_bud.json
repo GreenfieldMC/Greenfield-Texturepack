@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/observer_top",
-		"particle": "block/observer_top"
+		"particle": "#0"
 	},
 	"elements": [
 		{

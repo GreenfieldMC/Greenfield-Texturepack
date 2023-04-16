@@ -3,6 +3,7 @@
 	"textures": {
 		"0": "block/reinforced_deepslate_side",
 		"1": "block/reinforced_deepslate_top",
+		"2": "block/smithing_table_bottom",
 		"particle": "block/reinforced_deepslate_side"
 	},
 	"elements": [
@@ -15,7 +16,7 @@
 				"south": {"uv": [0, 2, 16, 16], "texture": "#0"},
 				"west": {"uv": [0, 2, 16, 16], "texture": "#0"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#missing"}
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
 			}
 		},
 		{
