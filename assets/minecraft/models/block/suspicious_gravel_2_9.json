@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/suspicious_gravel_2_base"
+  },
+  "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "texture": "#all", "cullface": "down", "uv": [10.6666667, 10.6666667, 16, 16] },
+                "up":    { "texture": "#all", "cullface": "up", "uv": [10.6666667, 10.6666667, 16, 16] },
+                "north": { "texture": "#all", "cullface": "north", "uv": [10.6666667, 10.6666667, 16, 16] },
+                "south": { "texture": "#all", "cullface": "south", "uv": [10.6666667, 10.6666667, 16, 16] },
+                "west":  { "texture": "#all", "cullface": "west", "uv": [10.6666667, 10.6666667, 16, 16] },
+                "east":  { "texture": "#all", "cullface": "east", "uv": [10.6666667, 10.6666667, 16, 16] }
+            }
+        }
+    ]
+}
