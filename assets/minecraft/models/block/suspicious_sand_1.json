@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "minecraft:block/suspicious_sand_1_side",
+    "north": "minecraft:block/suspicious_sand_1_side",
+    "south": "minecraft:block/suspicious_sand_1_side",
+    "east": "minecraft:block/suspicious_sand_1_side",
+    "west": "minecraft:block/suspicious_sand_1_side",
+    "up": "minecraft:block/suspicious_sand_1_top",
+    "down": "minecraft:block/suspicious_sand_1_top"
+  }
+}
