@@ -2,7 +2,7 @@
     "textures": {
         "particle": "block/furnace_top",
         "wood": "block/furnace_top",
-        "back": "block/mangrove_planks"
+        "back": "block/cherry_planks"
     },
     "elements": [
         {   "from": [ 3, 3, 15.5 ],
