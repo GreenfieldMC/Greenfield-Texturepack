@@ -1,7 +1,15 @@
 {
   "variants": {
-    "": {
-      "model": "block/sculk"
-    }
+    "": [
+      {"model": "block/sculk_1" },
+      {"model": "block/sculk_2" },
+      {"model": "block/sculk_3" },
+      {"model": "block/sculk_4" },
+      {"model": "block/sculk_5" },
+      {"model": "block/sculk_6" },
+      {"model": "block/sculk_7" },
+      {"model": "block/sculk_8" },
+      {"model": "block/sculk_9" }
+    ]
   }
 }
