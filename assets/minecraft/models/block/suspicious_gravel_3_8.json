@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"all": "block/suspicious_gravel_3_base"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [5.333, 10.667, 10.665, 15.998], "texture": "#all", "cullface": "north"},
+				"east": {"uv": [5.333, 10.667, 10.664, 15.998], "texture": "#all", "cullface": "east"},
+				"south": {"uv": [5.333, 10.667, 10.664, 15.998], "texture": "#all", "cullface": "south"},
+				"west": {"uv": [5.333, 10.667, 10.664, 15.998], "texture": "#all", "cullface": "west"},
+				"up": {"uv": [5.333, 10.667, 10.664, 15.998], "texture": "#all", "cullface": "up"},
+				"down": {"uv": [5.333, 10.667, 10.665, 15.999], "texture": "#all", "cullface": "down"}
+			}
+		}
+	]
+}
