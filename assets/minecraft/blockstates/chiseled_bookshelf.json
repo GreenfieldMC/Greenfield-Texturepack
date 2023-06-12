@@ -1339,21 +1339,6 @@
     },
 	    {
       "apply": {
-        "model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type_20",
-		"y": 180
-      },
-      "when": {
-        "facing": "south",
-        "slot_0_occupied": "false",
-		"slot_1_occupied": "false",
-		"slot_2_occupied": "false",
-		"slot_3_occupied": "true",
-		"slot_4_occupied": "false",
-		"slot_5_occupied": "true"
-      }
-    },
-	    {
-      "apply": {
         "model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_20",
 		"y": 270
       },
@@ -3284,21 +3269,6 @@
       },
       "when": {
         "facing": "east",
-        "slot_0_occupied": "true",
-		"slot_1_occupied": "false",
-		"slot_2_occupied": "false",
-		"slot_3_occupied": "true",
-		"slot_4_occupied": "false",
-		"slot_5_occupied": "true"
-      }
-    },
-	    {
-      "apply": {
-        "model": "minecraft:block/chiseled_bookshelf/type2/chiseled_bookshelf_type_20",
-		"y": 180
-      },
-      "when": {
-        "facing": "south",
         "slot_0_occupied": "true",
 		"slot_1_occupied": "false",
 		"slot_2_occupied": "false",
