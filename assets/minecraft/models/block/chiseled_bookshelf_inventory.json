@@ -1,0 +1,25 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"1": "block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_side",
+		"2": "block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_top",
+		"4": "block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_0",
+		"particle": "block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_side"
+	},
+	"elements": [
+		{
+			"name": "chiseled_bookshelf_body",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		}
+	]
+}
