@@ -1,0 +1,6 @@
+{
+  "parent": "item/decorated_pot_model_base",
+  "textures": {
+    "sherd": "block/decorated_pot/prize_pottery_pattern"
+  }
+}
