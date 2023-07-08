@@ -59,6 +59,23 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0, -6.75]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 0, -6.75]
+		},
+		"firstperson_righthand": {
+			"translation": [-2.25, 4.5, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [-2.25, 4.5, 0]
+		},
+		"gui": {
+			"rotation": [40, 45, 0],
+			"translation": [-7.5, 4.25, 0],
+			"scale": [2, 2, 2]
+		},
 		"head": {
 			"rotation": [-31, -180, 0],
 			"translation": [0, 11.5, 16.5],
