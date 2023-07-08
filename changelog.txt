@@ -1,3 +1,96 @@
+V1.20
+Fixes:
+ *(Almost) Fixed Painting Transparency
+ *Added 3d model to Activator Rail
+ *Randomised textures for Blue Ice
+ *Randomised textures for Packed Ice
+ *Randomised textures for Powdered Snow
+ *Randomised textures for Snow
+ *Random rotations for Nether Wart
+ *Fixed particles for Brown Candle
+ *Fixed particles for Green Candle
+ *Metal frame for Item Frame
+ *Metal frame for Glow Item Frame
+ *Added Item Model for Glow Berries
+ *Changed Lime Candle Hat Model
+ *Slightly Changed Color of Granite
+ *Slightly Changed Color of Sandstone
+ *Fixed Jigsaw animation
+ *Slightly dampened the color of Magenta Blocks
+ *Slightly dampened the color of Lime Blocks
+ *Slightly dampened the color of Purple Blocks
+ *Updated Greenfield Logo to 1.20 texture format
+ *Fixed The Boys Snow Screen
+  
+Additions:
+ *Chiseled Bookshelf (Store Shelves)
+ *Mud (Granite Tile)
+ *Packed Mud (Terrazzo Tiles)
+ *Pearlescent Froglight (Open signs)
+ *Verdant Froglight (Weird light)
+ *Ochre Froglight (Floating Lantern)
+ *Pink Petals (Computer Models)
+ *Sculk (Green marble tile)
+ *Suspicious Gravel (Gravel and Dirt variations)
+ *Suspicious Sand (Box variations)
+ *Amethyst Cluster (Light)
+ *Small Amethyst Cluster (Metal Trim Strips)
+ *Medium Amethyst Cluster (Wooden Joists)
+ *Large Amethyst Cluster (Metal Grate)
+ *Chorus Plant (Plant Stem)
+ *Chorus Flower (Plant Vegetation)
+ *Cocoa Beans (Spigot, Tap and Toilet 3d Models)
+ *Lava Cauldron (Fry Oil)
+ *Mangrove Roots (Aquarium)
+ *Reinforced Deepslate (Sink Model)
+ *Decorative Pot (Pillar variations)
+ *Hanging Roots (Hanging Roots)
+ *Sculk Shrieker (Star Trek Transporter)
+ *New Splash Texts
+ *Bamboo Block (Green Tiles)
+ *Bamboo Door (Stripped Birch Door)
+ *Bamboo Trapdoor (Stipped Birch Trapdoor)
+ *Bamboo Mosaic (Black Block with Stairs, Slabs, etc.)
+ *Bamboo Planks (Slightly Striped White Block)
+ *Bamboo Sign (Black Sign)
+ *Stripped Bamboo (Herringbone pattern Bricks)
+ *Cherry Door (Push Bar Door)
+ *Cherry Leaves (Leaves with Flowers)
+ *Cherry Wood (Red Tiles)
+ *Cherry Planks (Light Metal Block with Stairs, Slabs, etc.)
+ *Cherry Sapling (Cherry Sapling)
+ *Cherry Trapdoor (Light Metal Trapdoor)
+ *Cherry Sign (Light Metal Sign)
+ *Mangrove Door (Red Door)
+ *Mangrove Trapdoor (Smooth Stone Trapdoor)
+ *Mangrove Leaves (Generic Leaves)
+ *Mangrove Wood (Brown Pillar)
+ *Mangrove Sign (Red Sign)
+ *Stripped Mangrove Wood (Beige Tiles)
+ *Mangrove Planks (Red Block with Stairs, Slabs, etc.)
+ *Mud Bricks (New Brick texture)
+ *Muddy Mangrove Roots (Gray Tiles)
+ *Pitcher Pod (Plant Pot and Plant variations)
+ *Torchflower (Purple Flower)
+ *Hanging Signs
+   -Hanging Oak Sign
+   -Hanging Spruce Sign
+   -Hanging Birch Sign
+   -Hanging Jungle Sign (Exit sign)
+   -Hanging Acacia Sign
+   -Hanging Dark Oak Sign
+   -Hanging Mangrove Sign
+   -Hanging Cherry Sign
+   -Hanging Bamboo Sign
+   -Hanging Crimson Sign   
+   -Hanging Warped Sign
+ *New Paintings
+  -Earth (Family Photo)
+  -Fire (Incomplete Subway Map)
+  -Water (Abstract Art)
+  -Wind (Pop Art)
+
+
 v1.17
 Fixes:
 * Fix Nether Sprouts item model
