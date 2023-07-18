@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/thin_block",
+	"textures": {
+		"particle": "block/carpets/orange_carpet_wool",
+		"wool": "block/carpets/orange_carpet_wool"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 1, 16],
+			"faces": {
+				"north": {"uv": [0, 15, 16, 16], "texture": "#wool", "cullface": "north"},
+				"east": {"uv": [0, 15, 16, 16], "texture": "#wool", "cullface": "east"},
+				"south": {"uv": [0, 15, 16, 16], "texture": "#wool", "cullface": "south"},
+				"west": {"uv": [0, 15, 16, 16], "texture": "#wool", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#wool"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#wool", "cullface": "down"}
+			}
+		}
+	]
+}
