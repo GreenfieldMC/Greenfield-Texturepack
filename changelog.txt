@@ -2,6 +2,7 @@ V1.20
 Fixes:
  *(Almost) Fixed Painting Transparency
  *Added 3d model to Activator Rail
+ *Added 3d model to Ladders
  *Randomised textures for Blue Ice
  *Randomised textures for Packed Ice
  *Randomised textures for Powdered Snow
@@ -21,6 +22,9 @@ Fixes:
  *Slightly dampened the color of Purple Blocks
  *Updated Greenfield Logo to 1.20 texture format
  *Fixed The Boys Snow Screen
+ *Slightly changed hue of Light Blue, Blue and Brown Glass
+ *Changed color of Magenta Glass to White
+ *Desaturated Carpets
   
 Additions:
  *Chiseled Bookshelf (Store Shelves)
