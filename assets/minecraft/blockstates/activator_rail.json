@@ -39,6 +39,7 @@
     },
     "powered=true,shape=east_west": {
       "model": "minecraft:block/activator_rail_on"
+      "y": 90
     },
     "powered=true,shape=north_south": {
       "model": "minecraft:block/activator_rail_on"
