@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomization8",
+	"textures": {
+		"all": "block/red_concrete_base"
+	}
+}

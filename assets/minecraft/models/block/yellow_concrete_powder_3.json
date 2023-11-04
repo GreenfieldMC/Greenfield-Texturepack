@@ -1,0 +1,7 @@
+{
+	"cyellowit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomization3",
+	"textures": {
+		"all": "block/yellow_concrete_powder_base"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"cblackit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomization1",
+	"textures": {
+		"all": "block/black_concrete_powder_base"
+	}
+}

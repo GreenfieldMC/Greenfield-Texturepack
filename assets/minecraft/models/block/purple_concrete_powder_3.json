@@ -1,0 +1,7 @@
+{
+	"cpurpleit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomization3",
+	"textures": {
+		"all": "block/purple_concrete_powder_base"
+	}
+}

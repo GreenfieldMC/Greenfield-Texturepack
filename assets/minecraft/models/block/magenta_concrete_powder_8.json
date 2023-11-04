@@ -1,0 +1,7 @@
+{
+	"cmagentait": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomization8",
+	"textures": {
+		"all": "block/magenta_concrete_powder_base"
+	}
+}

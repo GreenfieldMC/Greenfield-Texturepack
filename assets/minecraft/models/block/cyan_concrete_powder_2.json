@@ -1,0 +1,7 @@
+{
+	"ccyanit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomization2",
+	"textures": {
+		"all": "block/cyan_concrete_powder_base"
+	}
+}

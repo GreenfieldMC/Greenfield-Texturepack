@@ -1,0 +1,7 @@
+{
+	"climeit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomization8",
+	"textures": {
+		"all": "block/lime_concrete_powder_base"
+	}
+}

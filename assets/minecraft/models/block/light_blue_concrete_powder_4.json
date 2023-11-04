@@ -1,0 +1,7 @@
+{
+	"clight_blueit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomization4",
+	"textures": {
+		"all": "block/light_blue_concrete_powder_base"
+	}
+}

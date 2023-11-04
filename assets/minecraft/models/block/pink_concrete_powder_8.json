@@ -1,0 +1,7 @@
+{
+	"cpinkit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomization8",
+	"textures": {
+		"all": "block/pink_concrete_powder_base"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"clight_grayit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomization7",
+	"textures": {
+		"all": "block/light_gray_concrete_powder_base"
+	}
+}
