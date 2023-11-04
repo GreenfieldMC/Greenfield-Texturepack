@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/lodestone_1" },
+      {"model": "block/lodestone_2" },
+      {"model": "block/lodestone_3" },
+      {"model": "block/lodestone_4" },
+      {"model": "block/lodestone_5" },
+      {"model": "block/lodestone_6" },
+      {"model": "block/lodestone_7" },
+      {"model": "block/lodestone_8" },
+      {"model": "block/lodestone_9" }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/chiseled_polished_blackstone_1" },
+      {"model": "block/chiseled_polished_blackstone_2" },
+      {"model": "block/chiseled_polished_blackstone_3" },
+      {"model": "block/chiseled_polished_blackstone_4" },
+      {"model": "block/chiseled_polished_blackstone_5" },
+      {"model": "block/chiseled_polished_blackstone_6" },
+      {"model": "block/chiseled_polished_blackstone_7" },
+      {"model": "block/chiseled_polished_blackstone_8" },
+      {"model": "block/chiseled_polished_blackstone_9" }
+    ]
+  }
+}

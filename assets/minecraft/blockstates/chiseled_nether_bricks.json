@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/chiseled_nether_bricks_1" },
+      {"model": "block/chiseled_nether_bricks_2" },
+      {"model": "block/chiseled_nether_bricks_3" },
+      {"model": "block/chiseled_nether_bricks_4" },
+      {"model": "block/chiseled_nether_bricks_5" },
+      {"model": "block/chiseled_nether_bricks_6" },
+      {"model": "block/chiseled_nether_bricks_7" },
+      {"model": "block/chiseled_nether_bricks_8" },
+      {"model": "block/chiseled_nether_bricks_9" }
+    ]
+  }
+}

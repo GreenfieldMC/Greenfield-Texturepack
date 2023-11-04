@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/cut_red_sandstone_1" },
+      {"model": "block/cut_red_sandstone_2" },
+      {"model": "block/cut_red_sandstone_3" },
+      {"model": "block/cut_red_sandstone_4" },
+      {"model": "block/cut_red_sandstone_5" },
+      {"model": "block/cut_red_sandstone_6" },
+      {"model": "block/cut_red_sandstone_7" },
+      {"model": "block/cut_red_sandstone_8" },
+      {"model": "block/cut_red_sandstone_9" }
+    ]
+  }
+}
