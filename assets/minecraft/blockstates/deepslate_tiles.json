@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/deepslate_tiles_1" },
+      {"model": "block/deepslate_tiles_2" },
+      {"model": "block/deepslate_tiles_3" },
+      {"model": "block/deepslate_tiles_4" },
+      {"model": "block/deepslate_tiles_5" },
+      {"model": "block/deepslate_tiles_6" },
+      {"model": "block/deepslate_tiles_7" },
+      {"model": "block/deepslate_tiles_8" },
+      {"model": "block/deepslate_tiles_9" }
+    ]
+  }
+}

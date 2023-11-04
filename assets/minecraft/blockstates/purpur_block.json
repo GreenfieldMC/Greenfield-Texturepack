@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/purpur_block_1" },
+      {"model": "block/purpur_block_2" },
+      {"model": "block/purpur_block_3" },
+      {"model": "block/purpur_block_4" },
+      {"model": "block/purpur_block_5" },
+      {"model": "block/purpur_block_6" },
+      {"model": "block/purpur_block_7" },
+      {"model": "block/purpur_block_8" },
+      {"model": "block/purpur_block_9" }
+    ]
+  }
+}
