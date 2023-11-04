@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/48xRandomization1",
+	"parent": "minecraft:block/48xrandomization1",
 	"textures": {
 		"all": "block/cut_red_sandstone_base"
 	}

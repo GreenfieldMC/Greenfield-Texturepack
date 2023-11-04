@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/48xRandomization8",
+	"parent": "minecraft:block/48xrandomization8",
 	"textures": {
 		"all": "block/chiseled_nether_bricks_base"
 	}

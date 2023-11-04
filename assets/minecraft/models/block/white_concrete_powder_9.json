@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/48xRandomization9",
+	"parent": "minecraft:block/48xrandomization9",
 	"textures": {
 		"all": "block/white_concrete_powder_base"
 	}

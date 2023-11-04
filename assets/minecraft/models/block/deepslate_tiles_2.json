@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/48xRandomization2",
+	"parent": "minecraft:block/48xrandomization2",
 	"textures": {
 		"all": "block/deepslate_tiles_base"
 	}

@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/48xRandomization4",
+	"parent": "minecraft:block/48xrandomization4",
 	"textures": {
 		"all": "block/sculk_base"
 	}
