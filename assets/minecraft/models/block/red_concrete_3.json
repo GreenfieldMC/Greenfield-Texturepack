@@ -2,6 +2,6 @@
 	"cblackit": "Made with Blockbench",
 	"parent": "minecraft:block/48xrandomization3",
 	"textures": {
-		"all": "block/black_concrete_base"
+		"all": "block/red_concrete_base"
 	}
 }
