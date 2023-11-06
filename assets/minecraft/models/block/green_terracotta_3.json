@@ -1,0 +1,7 @@
+{
+	"cgreenit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomization3",
+	"textures": {
+		"all": "block/green_terracotta_base"
+	}
+}

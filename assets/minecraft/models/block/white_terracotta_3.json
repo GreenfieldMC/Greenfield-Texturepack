@@ -1,0 +1,7 @@
+{
+	"cblackit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomization3",
+	"textures": {
+		"all": "block/white_terracotta_base"
+	}
+}

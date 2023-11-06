@@ -2,6 +2,6 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/48xrandomization6",
 	"textures": {
-		"all": "block/red_concrete_base"
+		"all": "block/yellow_terracotta_base"
 	}
 }
