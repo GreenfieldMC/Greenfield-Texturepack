@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/deepslate_redstone_ore_1" },
+      {"model": "block/deepslate_redstone_ore_2" },
+      {"model": "block/deepslate_redstone_ore_3" },
+      {"model": "block/deepslate_redstone_ore_4" },
+      {"model": "block/deepslate_redstone_ore_5" },
+      {"model": "block/deepslate_redstone_ore_6" },
+      {"model": "block/deepslate_redstone_ore_7" },
+      {"model": "block/deepslate_redstone_ore_8" },
+      {"model": "block/deepslate_redstone_ore_9" }
+    ]
+  }
+}

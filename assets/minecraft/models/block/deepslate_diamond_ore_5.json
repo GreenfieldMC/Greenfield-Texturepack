@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomization5",
+	"textures": {
+		"all": "block/deepslate_diamond_ore_base"
+	}
+}

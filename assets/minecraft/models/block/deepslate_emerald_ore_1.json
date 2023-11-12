@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomization1",
+	"textures": {
+		"all": "block/deepslate_emerald_ore_base"
+	}
+}
