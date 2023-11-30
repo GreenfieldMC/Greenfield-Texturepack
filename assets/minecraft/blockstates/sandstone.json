@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/sandstone_1" },
+      {"model": "block/sandstone_2" },
+      {"model": "block/sandstone_3" },
+      {"model": "block/sandstone_4" },
+      {"model": "block/sandstone_5" },
+      {"model": "block/sandstone_6" },
+      {"model": "block/sandstone_7" },
+      {"model": "block/sandstone_8" },
+      {"model": "block/sandstone_9" }
+    ]
+  }
+}

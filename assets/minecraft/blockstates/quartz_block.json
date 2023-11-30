@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/quartz_block_1" },
+      {"model": "block/quartz_block_2" },
+      {"model": "block/quartz_block_3" },
+      {"model": "block/quartz_block_4" },
+      {"model": "block/quartz_block_5" },
+      {"model": "block/quartz_block_6" },
+      {"model": "block/quartz_block_7" },
+      {"model": "block/quartz_block_8" },
+      {"model": "block/quartz_block_9" }
+    ]
+  }
+}

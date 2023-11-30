@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationtopbottom8",
+	"textures": {
+		"side": "block/quartz_block_side_base",
+		"bottom": "block/smooth_quartz_base",
+		"top": "block/smooth_quartz_base"
+		}
+}
