@@ -1,7 +1,7 @@
 {
   "variants": {
-  "type=bottom,waterlogged=false": {
-    "": [
+  "type=bottom,waterlogged=false": 
+    [
       {"model": "block/red_nether_brick_slab_bottom_1" },
       {"model": "block/red_nether_brick_slab_bottom_2" },
       {"model": "block/red_nether_brick_slab_bottom_3" },
@@ -11,10 +11,9 @@
       {"model": "block/red_nether_brick_slab_bottom_7" },
       {"model": "block/red_nether_brick_slab_bottom_8" },
       {"model": "block/red_nether_brick_slab_bottom_9" }
-    ]
-  },
-    "type=double": {
-    "": [
+    ],
+    "type=double":
+    [
       {"model": "block/red_nether_bricks_1" },
       {"model": "block/red_nether_bricks_2" },
       {"model": "block/red_nether_bricks_3" },
@@ -25,6 +24,5 @@
       {"model": "block/red_nether_bricks_8" },
       {"model": "block/red_nether_bricks_9" }
     ]
-  }
   }
 }

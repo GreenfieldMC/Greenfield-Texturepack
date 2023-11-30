@@ -1,6 +1,6 @@
 {
     "variants": {
-        "": [
+        "snowy=false": [
 			{ "model": "block/48xrandomizationgrass1" },
 			{ "model": "block/48xrandomizationgrass1", "y": 90 },
 			{ "model": "block/48xrandomizationgrass1", "y": 180 },
@@ -38,7 +38,11 @@
 			{ "model": "block/48xrandomizationgrass9", "y": 180 },
 			{ "model": "block/48xrandomizationgrass9", "y": 270 }
 		],
-		   "snowy=true": {
-      "model": "minecraft:block/grass_block_snow"
-    }
+		   "snowy=true": [
+		   { "model": "block/grass_block_snow" },
+			{ "model": "block/grass_block_snow", "y": 90 },
+			{ "model": "block/grass_block_snow", "y": 180 },
+			{ "model": "block/grass_block_snow", "y": 270 }
+    ]
+}
 }
