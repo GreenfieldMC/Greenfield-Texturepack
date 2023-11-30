@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomization3",
+	"textures": {
+		"all": "block/polished_deepslate_base"
+	}
+}

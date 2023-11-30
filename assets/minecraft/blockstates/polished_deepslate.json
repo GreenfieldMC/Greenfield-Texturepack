@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/polished_deepslate_1" },
+      {"model": "block/polished_deepslate_2" },
+      {"model": "block/polished_deepslate_3" },
+      {"model": "block/polished_deepslate_4" },
+      {"model": "block/polished_deepslate_5" },
+      {"model": "block/polished_deepslate_6" },
+      {"model": "block/polished_deepslate_7" },
+      {"model": "block/polished_deepslate_8" },
+      {"model": "block/polished_deepslate_9" }
+    ]
+  }
+}
