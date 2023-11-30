@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/tuff_1" },
+      {"model": "block/tuff_2" },
+      {"model": "block/tuff_3" },
+      {"model": "block/tuff_4" },
+      {"model": "block/tuff_5" },
+      {"model": "block/tuff_6" },
+      {"model": "block/tuff_7" },
+      {"model": "block/tuff_8" },
+      {"model": "block/tuff_9" }
+    ]
+  }
+}

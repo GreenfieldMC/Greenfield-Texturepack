@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/amethyst_block_1" },
+      {"model": "block/amethyst_block_2" },
+      {"model": "block/amethyst_block_3" },
+      {"model": "block/amethyst_block_4" },
+      {"model": "block/amethyst_block_5" },
+      {"model": "block/amethyst_block_6" },
+      {"model": "block/amethyst_block_7" },
+      {"model": "block/amethyst_block_8" },
+      {"model": "block/amethyst_block_9" }
+    ]
+  }
+}

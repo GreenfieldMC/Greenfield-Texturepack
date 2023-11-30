@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/calcite_1" },
+      {"model": "block/calcite_2" },
+      {"model": "block/calcite_3" },
+      {"model": "block/calcite_4" },
+      {"model": "block/calcite_5" },
+      {"model": "block/calcite_6" },
+      {"model": "block/calcite_7" },
+      {"model": "block/calcite_8" },
+      {"model": "block/calcite_9" }
+    ]
+  }
+}
