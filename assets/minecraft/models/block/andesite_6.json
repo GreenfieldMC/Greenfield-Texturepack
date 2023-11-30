@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomization6",
+	"textures": {
+		"all": "block/andesite_base"
+	}
+}
