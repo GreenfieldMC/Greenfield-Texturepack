@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/bamboo_planks_1" },
+      {"model": "block/bamboo_planks_2" },
+      {"model": "block/bamboo_planks_3" },
+      {"model": "block/bamboo_planks_4" },
+      {"model": "block/bamboo_planks_5" },
+      {"model": "block/bamboo_planks_6" },
+      {"model": "block/bamboo_planks_7" },
+      {"model": "block/bamboo_planks_8" },
+      {"model": "block/bamboo_planks_9" }
+    ]
+  }
+}

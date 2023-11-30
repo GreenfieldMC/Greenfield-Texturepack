@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/bamboo_mosaic_1" },
+      {"model": "block/bamboo_mosaic_2" },
+      {"model": "block/bamboo_mosaic_3" },
+      {"model": "block/bamboo_mosaic_4" },
+      {"model": "block/bamboo_mosaic_5" },
+      {"model": "block/bamboo_mosaic_6" },
+      {"model": "block/bamboo_mosaic_7" },
+      {"model": "block/bamboo_mosaic_8" },
+      {"model": "block/bamboo_mosaic_9" }
+    ]
+  }
+}
