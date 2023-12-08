@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xtemplate_wall_post8",
+	"textures": {
+		"wall": "block/mud_bricks_base"
+	}
+}
