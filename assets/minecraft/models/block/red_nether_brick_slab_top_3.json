@@ -1,0 +1,9 @@
+{
+	"cblackit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationslabtop3",
+	"textures": {
+		"side": "block/red_nether_bricks_base",
+		"top": "block/red_nether_bricks_base",
+		"bottom": "block/red_nether_bricks_base"
+	}
+}

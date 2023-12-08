@@ -1,0 +1,40 @@
+{
+  "variants": {
+  "type=bottom": 
+    [
+      {"model": "block/stone_slab_bottom_1" },
+      {"model": "block/stone_slab_bottom_2" },
+      {"model": "block/stone_slab_bottom_3" },
+      {"model": "block/stone_slab_bottom_4" },
+      {"model": "block/stone_slab_bottom_5" },
+      {"model": "block/stone_slab_bottom_6" },
+      {"model": "block/stone_slab_bottom_7" },
+      {"model": "block/stone_slab_bottom_8" },
+      {"model": "block/stone_slab_bottom_9" }
+    ],
+	  "type=top": 
+    [
+      {"model": "block/stone_slab_top_1" },
+      {"model": "block/stone_slab_top_2" },
+      {"model": "block/stone_slab_top_3" },
+      {"model": "block/stone_slab_top_4" },
+      {"model": "block/stone_slab_top_5" },
+      {"model": "block/stone_slab_top_6" },
+      {"model": "block/stone_slab_top_7" },
+      {"model": "block/stone_slab_top_8" },
+      {"model": "block/stone_slab_top_9" }
+    ],
+    "type=double":
+    [
+      {"model": "block/stone_1" },
+      {"model": "block/stone_2" },
+      {"model": "block/stone_3" },
+      {"model": "block/stone_4" },
+      {"model": "block/stone_5" },
+      {"model": "block/stone_6" },
+      {"model": "block/stone_7" },
+      {"model": "block/stone_8" },
+      {"model": "block/stone_9" }
+    ]
+  }
+}

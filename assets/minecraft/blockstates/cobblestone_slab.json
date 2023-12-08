@@ -1,0 +1,40 @@
+{
+  "variants": {
+  "type=bottom": 
+    [
+      {"model": "block/cobblestone_slab_bottom_1" },
+      {"model": "block/cobblestone_slab_bottom_2" },
+      {"model": "block/cobblestone_slab_bottom_3" },
+      {"model": "block/cobblestone_slab_bottom_4" },
+      {"model": "block/cobblestone_slab_bottom_5" },
+      {"model": "block/cobblestone_slab_bottom_6" },
+      {"model": "block/cobblestone_slab_bottom_7" },
+      {"model": "block/cobblestone_slab_bottom_8" },
+      {"model": "block/cobblestone_slab_bottom_9" }
+    ],
+	  "type=top": 
+    [
+      {"model": "block/cobblestone_slab_top_1" },
+      {"model": "block/cobblestone_slab_top_2" },
+      {"model": "block/cobblestone_slab_top_3" },
+      {"model": "block/cobblestone_slab_top_4" },
+      {"model": "block/cobblestone_slab_top_5" },
+      {"model": "block/cobblestone_slab_top_6" },
+      {"model": "block/cobblestone_slab_top_7" },
+      {"model": "block/cobblestone_slab_top_8" },
+      {"model": "block/cobblestone_slab_top_9" }
+    ],
+    "type=double":
+    [
+      {"model": "block/cobblestone_1" },
+      {"model": "block/cobblestone_2" },
+      {"model": "block/cobblestone_3" },
+      {"model": "block/cobblestone_4" },
+      {"model": "block/cobblestone_5" },
+      {"model": "block/cobblestone_6" },
+      {"model": "block/cobblestone_7" },
+      {"model": "block/cobblestone_8" },
+      {"model": "block/cobblestone_9" }
+    ]
+  }
+}

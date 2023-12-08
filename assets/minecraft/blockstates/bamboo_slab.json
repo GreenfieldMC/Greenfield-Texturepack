@@ -1,0 +1,40 @@
+{
+  "variants": {
+  "type=bottom": 
+    [
+      {"model": "block/bamboo_slab_bottom_1" },
+      {"model": "block/bamboo_slab_bottom_2" },
+      {"model": "block/bamboo_slab_bottom_3" },
+      {"model": "block/bamboo_slab_bottom_4" },
+      {"model": "block/bamboo_slab_bottom_5" },
+      {"model": "block/bamboo_slab_bottom_6" },
+      {"model": "block/bamboo_slab_bottom_7" },
+      {"model": "block/bamboo_slab_bottom_8" },
+      {"model": "block/bamboo_slab_bottom_9" }
+    ],
+	  "type=top": 
+    [
+      {"model": "block/bamboo_slab_top_1" },
+      {"model": "block/bamboo_slab_top_2" },
+      {"model": "block/bamboo_slab_top_3" },
+      {"model": "block/bamboo_slab_top_4" },
+      {"model": "block/bamboo_slab_top_5" },
+      {"model": "block/bamboo_slab_top_6" },
+      {"model": "block/bamboo_slab_top_7" },
+      {"model": "block/bamboo_slab_top_8" },
+      {"model": "block/bamboo_slab_top_9" }
+    ],
+    "type=double":
+    [
+      {"model": "block/bamboo_planks_1" },
+      {"model": "block/bamboo_planks_2" },
+      {"model": "block/bamboo_planks_3" },
+      {"model": "block/bamboo_planks_4" },
+      {"model": "block/bamboo_planks_5" },
+      {"model": "block/bamboo_planks_6" },
+      {"model": "block/bamboo_planks_7" },
+      {"model": "block/bamboo_planks_8" },
+      {"model": "block/bamboo_planks_9" }
+    ]
+  }
+}

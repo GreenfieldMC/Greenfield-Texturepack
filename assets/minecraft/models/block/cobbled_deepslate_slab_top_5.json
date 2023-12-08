@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationslabtop5",
+	"textures": {
+		"side": "block/cobbled_deepslate_base",
+		"top": "block/cobbled_deepslate_base",
+		"bottom": "block/cobbled_deepslate_base"
+	}
+}

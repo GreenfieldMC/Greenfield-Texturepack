@@ -1,6 +1,6 @@
 {
   "variants": {
-  "type=bottom,waterlogged=false": 
+  "type=bottom": 
     [
       {"model": "block/red_nether_brick_slab_bottom_1" },
       {"model": "block/red_nether_brick_slab_bottom_2" },
@@ -11,6 +11,18 @@
       {"model": "block/red_nether_brick_slab_bottom_7" },
       {"model": "block/red_nether_brick_slab_bottom_8" },
       {"model": "block/red_nether_brick_slab_bottom_9" }
+    ],
+	  "type=top": 
+    [
+      {"model": "block/red_nether_brick_slab_top_1" },
+      {"model": "block/red_nether_brick_slab_top_2" },
+      {"model": "block/red_nether_brick_slab_top_3" },
+      {"model": "block/red_nether_brick_slab_top_4" },
+      {"model": "block/red_nether_brick_slab_top_5" },
+      {"model": "block/red_nether_brick_slab_top_6" },
+      {"model": "block/red_nether_brick_slab_top_7" },
+      {"model": "block/red_nether_brick_slab_top_8" },
+      {"model": "block/red_nether_brick_slab_top_9" }
     ],
     "type=double":
     [
