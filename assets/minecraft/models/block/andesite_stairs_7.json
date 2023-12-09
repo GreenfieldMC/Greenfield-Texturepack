@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationstairs7",
+	"textures": {
+		"side": "block/andesite_base",
+		"top": "block/andesite_base",
+		"bottom": "block/andesite_base"
+	}
+}

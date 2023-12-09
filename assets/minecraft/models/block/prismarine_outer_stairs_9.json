@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationouterstairs9",
+	"textures": {
+		"side": "block/prismarine_base",
+		"top": "block/prismarine_base",
+		"bottom": "block/prismarine_base"
+	}
+}

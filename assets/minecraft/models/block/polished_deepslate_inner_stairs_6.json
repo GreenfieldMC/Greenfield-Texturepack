@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationinnerstairs6",
+	"textures": {
+		"side": "block/polished_deepslate_base",
+		"top": "block/polished_deepslate_base",
+		"bottom": "block/polished_deepslate_base"
+	}
+}

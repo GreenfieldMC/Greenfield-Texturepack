@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationouterstairs1",
+	"textures": {
+		"side": "block/bricks_base",
+		"top": "block/bricks_base",
+		"bottom": "block/bricks_base"
+	}
+}
