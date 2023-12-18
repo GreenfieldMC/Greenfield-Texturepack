@@ -1,0 +1,42 @@
+{
+  "variants": {
+    "": [
+      {"model": "minecraft:block/carpets/white_carpet1"},
+	  {"model": "minecraft:block/carpets/white_carpet1", "z": 90 },
+	  {"model": "minecraft:block/carpets/white_carpet1", "z": 180 },
+	  {"model": "minecraft:block/carpets/white_carpet1", "z": 270 },
+	  {"model": "minecraft:block/carpets/white_carpet2"},
+	  {"model": "minecraft:block/carpets/white_carpet2", "z": 90 },
+	  {"model": "minecraft:block/carpets/white_carpet2", "z": 180 },
+	  {"model": "minecraft:block/carpets/white_carpet2", "z": 270 },
+	  {"model": "minecraft:block/carpets/white_carpet3"},
+	  {"model": "minecraft:block/carpets/white_carpet3", "z": 90 },
+	  {"model": "minecraft:block/carpets/white_carpet3", "z": 180 },
+	  {"model": "minecraft:block/carpets/white_carpet3", "z": 270 },
+	  {"model": "minecraft:block/carpets/white_carpet4"},
+	  {"model": "minecraft:block/carpets/white_carpet4", "z": 90 },
+	  {"model": "minecraft:block/carpets/white_carpet4", "z": 180 },
+	  {"model": "minecraft:block/carpets/white_carpet4", "z": 270 },
+	  {"model": "minecraft:block/carpets/white_carpet5"},
+	  {"model": "minecraft:block/carpets/white_carpet5", "z": 90 },
+	  {"model": "minecraft:block/carpets/white_carpet5", "z": 180 },
+	  {"model": "minecraft:block/carpets/white_carpet5", "z": 270 },
+	  {"model": "minecraft:block/carpets/white_carpet6"},
+	  {"model": "minecraft:block/carpets/white_carpet6", "z": 90 },
+	  {"model": "minecraft:block/carpets/white_carpet6", "z": 180 },
+	  {"model": "minecraft:block/carpets/white_carpet6", "z": 270 },
+	  {"model": "minecraft:block/carpets/white_carpet7"},
+	  {"model": "minecraft:block/carpets/white_carpet7", "z": 90 },
+	  {"model": "minecraft:block/carpets/white_carpet7", "z": 180 },
+	  {"model": "minecraft:block/carpets/white_carpet7", "z": 270 },
+	  {"model": "minecraft:block/carpets/white_carpet8"},
+	  {"model": "minecraft:block/carpets/white_carpet8", "z": 90 },
+	  {"model": "minecraft:block/carpets/white_carpet8", "z": 180 },
+	  {"model": "minecraft:block/carpets/white_carpet8", "z": 270 },
+	  {"model": "minecraft:block/carpets/white_carpet9"},
+	  {"model": "minecraft:block/carpets/white_carpet9", "z": 90 },
+	  {"model": "minecraft:block/carpets/white_carpet9", "z": 180 },
+	  {"model": "minecraft:block/carpets/white_carpet9", "z": 270 }
+    ]
+  }
+}

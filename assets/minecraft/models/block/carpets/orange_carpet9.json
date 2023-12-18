@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/carpets/48xcarpet9",
+	"textures": {
+		"all": "block/carpets/orange_carpet_wool_base"
+	}
+}
