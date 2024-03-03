@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/48xrandomizationouterstairs5",
 	"textures": {
-		"side": "block/deepslate_bricks_base",
-		"top": "block/deepslate_bricks_base",
-		"bottom": "block/deepslate_bricks_base"
+		"side": "block/polished_deepslate_base",
+		"top": "block/polished_deepslate_base",
+		"bottom": "block/polished_deepslate_base"
 	}
 }

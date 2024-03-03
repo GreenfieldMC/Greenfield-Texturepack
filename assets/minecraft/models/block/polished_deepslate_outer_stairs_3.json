@@ -1,5 +1,5 @@
 {
-	"cblackit": "Made with Blockbench",
+	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/48xrandomizationouterstairs3",
 	"textures": {
 		"side": "block/polished_deepslate_base",
