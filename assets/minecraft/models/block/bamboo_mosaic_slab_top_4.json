@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationslabtop4",
+	"textures": {
+		"side": "block/bamboo_mosaic_base",
+		"top": "block/bamboo_mosaic_base",
+		"bottom": "block/bamboo_mosaic_base"
+	}
+}

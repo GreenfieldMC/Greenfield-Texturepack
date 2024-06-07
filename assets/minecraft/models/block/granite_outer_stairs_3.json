@@ -1,0 +1,9 @@
+{
+	"cblackit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationouterstairs3",
+	"textures": {
+		"side": "block/granite_base",
+		"top": "block/granite_base",
+		"bottom": "block/granite_base"
+	}
+}

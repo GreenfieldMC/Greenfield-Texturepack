@@ -1,0 +1,40 @@
+{
+  "variants": {
+  "type=bottom": 
+    [
+      {"model": "block/dark_prismarine_slab_bottom_1" },
+      {"model": "block/dark_prismarine_slab_bottom_2" },
+      {"model": "block/dark_prismarine_slab_bottom_3" },
+      {"model": "block/dark_prismarine_slab_bottom_4" },
+      {"model": "block/dark_prismarine_slab_bottom_5" },
+      {"model": "block/dark_prismarine_slab_bottom_6" },
+      {"model": "block/dark_prismarine_slab_bottom_7" },
+      {"model": "block/dark_prismarine_slab_bottom_8" },
+      {"model": "block/dark_prismarine_slab_bottom_9" }
+    ],
+	  "type=top": 
+    [
+      {"model": "block/dark_prismarine_slab_top_1" },
+      {"model": "block/dark_prismarine_slab_top_2" },
+      {"model": "block/dark_prismarine_slab_top_3" },
+      {"model": "block/dark_prismarine_slab_top_4" },
+      {"model": "block/dark_prismarine_slab_top_5" },
+      {"model": "block/dark_prismarine_slab_top_6" },
+      {"model": "block/dark_prismarine_slab_top_7" },
+      {"model": "block/dark_prismarine_slab_top_8" },
+      {"model": "block/dark_prismarine_slab_top_9" }
+    ],
+    "type=double":
+    [
+      {"model": "block/dark_prismarine_1" },
+      {"model": "block/dark_prismarine_2" },
+      {"model": "block/dark_prismarine_3" },
+      {"model": "block/dark_prismarine_4" },
+      {"model": "block/dark_prismarine_5" },
+      {"model": "block/dark_prismarine_6" },
+      {"model": "block/dark_prismarine_7" },
+      {"model": "block/dark_prismarine_8" },
+      {"model": "block/dark_prismarine_9" }
+    ]
+  }
+}

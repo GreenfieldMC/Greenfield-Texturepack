@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xtemplate_wall_post7",
+	"textures": {
+		"wall": "block/cobbled_deepslate_base"
+	}
+}

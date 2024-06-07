@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xtemplate_wall_post4",
+	"textures": {
+		"wall": "block/end_stone_bricks_base"
+	}
+}

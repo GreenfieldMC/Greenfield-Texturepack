@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationslabtop8",
+	"textures": {
+		"side": "block/red_sandstone_base",
+		"top": "block/red_sandstone_base",
+		"bottom": "block/red_sandstone_base"
+	}
+}

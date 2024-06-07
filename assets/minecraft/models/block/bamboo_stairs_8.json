@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationstairs8",
+	"textures": {
+		"side": "block/bamboo_planks_base",
+		"top": "block/bamboo_planks_base",
+		"bottom": "block/bamboo_planks_base"
+	}
+}

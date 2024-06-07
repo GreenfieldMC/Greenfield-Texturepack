@@ -1,0 +1,9 @@
+{
+	"cblackit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationouterstairs3",
+	"textures": {
+		"side": "block/dark_prismarine_base",
+		"top": "block/dark_prismarine_base",
+		"bottom": "block/dark_prismarine_base"
+	}
+}

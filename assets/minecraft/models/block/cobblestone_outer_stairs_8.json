@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationouterstairs8",
+	"textures": {
+		"side": "block/cobblestone_base",
+		"top": "block/cobblestone_base",
+		"bottom": "block/cobblestone_base"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xtemplate_wall_side6",
+	"textures": {
+		"wall": "block/smooth_stone_base"
+	}
+}

@@ -1,0 +1,274 @@
+{
+  "multipart": [
+    {
+      "apply": [
+        {"model": "minecraft:block/mud_brick_wall_post1" },
+		{"model": "minecraft:block/mud_brick_wall_post2" },
+		{"model": "minecraft:block/mud_brick_wall_post3" },
+		{"model": "minecraft:block/mud_brick_wall_post4" },
+		{"model": "minecraft:block/mud_brick_wall_post5" },
+		{"model": "minecraft:block/mud_brick_wall_post6" },
+		{"model": "minecraft:block/mud_brick_wall_post7" },
+		{"model": "minecraft:block/mud_brick_wall_post8" },
+		{"model": "minecraft:block/mud_brick_wall_post9" }
+      ],
+      "when": {
+        "up": "true"
+      }
+    },
+    {
+      "apply": [
+        {"model": "minecraft:block/mud_brick_wall_side1", 
+		"uvlock": true},
+		{"model": "minecraft:block/mud_brick_wall_side2", 
+		"uvlock": true},
+		{"model": "minecraft:block/mud_brick_wall_side3", 
+		"uvlock": true},
+		{"model": "minecraft:block/mud_brick_wall_side4", 
+		"uvlock": true},
+		{"model": "minecraft:block/mud_brick_wall_side5", 
+		"uvlock": true},
+		{"model": "minecraft:block/mud_brick_wall_side6", 
+		"uvlock": true},
+		{"model": "minecraft:block/mud_brick_wall_side7",
+		"uvlock": true},
+		{"model": "minecraft:block/mud_brick_wall_side8", 
+		"uvlock": true},
+		{"model": "minecraft:block/mud_brick_wall_side9", 
+		"uvlock": true}
+      ],
+      "when": {
+        "north": "low"
+      }
+    },
+    {
+      "apply": [
+        {"model": "minecraft:block/mud_brick_wall_side1", 
+		"uvlock": true,
+		"y": 90},
+		{"model": "minecraft:block/mud_brick_wall_side2", 
+		"uvlock": true,
+		"y": 90},
+		{"model": "minecraft:block/mud_brick_wall_side3", 
+		"uvlock": true,
+		"y": 90},
+		{"model": "minecraft:block/mud_brick_wall_side4", 
+		"uvlock": true,
+		"y": 90},
+		{"model": "minecraft:block/mud_brick_wall_side5", 
+		"uvlock": true,
+		"y": 90},
+		{"model": "minecraft:block/mud_brick_wall_side6", 
+		"uvlock": true,
+		"y": 90},
+		{"model": "minecraft:block/mud_brick_wall_side7",
+		"uvlock": true,
+		"y": 90},
+		{"model": "minecraft:block/mud_brick_wall_side8", 
+		"uvlock": true,
+		"y": 90},
+		{"model": "minecraft:block/mud_brick_wall_side9", 
+		"uvlock": true,
+		"y": 90}
+      ],
+      "when": {
+        "east": "low"
+      }
+    },
+    {
+      "apply": [
+        {"model": "minecraft:block/mud_brick_wall_side1", 
+		"uvlock": true,
+		"y": 180},
+		{"model": "minecraft:block/mud_brick_wall_side2", 
+		"uvlock": true,
+		"y": 180},
+		{"model": "minecraft:block/mud_brick_wall_side3", 
+		"uvlock": true,
+		"y": 180},
+		{"model": "minecraft:block/mud_brick_wall_side4", 
+		"uvlock": true,
+		"y": 180},
+		{"model": "minecraft:block/mud_brick_wall_side5", 
+		"uvlock": true,
+		"y": 180},
+		{"model": "minecraft:block/mud_brick_wall_side6", 
+		"uvlock": true,
+		"y": 180},
+		{"model": "minecraft:block/mud_brick_wall_side7",
+		"uvlock": true,
+		"y": 180},
+		{"model": "minecraft:block/mud_brick_wall_side8", 
+		"uvlock": true,
+		"y": 180},
+		{"model": "minecraft:block/mud_brick_wall_side9", 
+		"uvlock": true,
+		"y": 180}
+      ],
+      "when": {
+        "south": "low"
+      }
+    },
+    {
+      "apply": [
+        {"model": "minecraft:block/mud_brick_wall_side1", 
+		"uvlock": true,
+		"y": 270},
+		{"model": "minecraft:block/mud_brick_wall_side2", 
+		"uvlock": true,
+		"y": 270},
+		{"model": "minecraft:block/mud_brick_wall_side3", 
+		"uvlock": true,
+		"y": 270},
+		{"model": "minecraft:block/mud_brick_wall_side4", 
+		"uvlock": true,
+		"y": 270},
+		{"model": "minecraft:block/mud_brick_wall_side5", 
+		"uvlock": true,
+		"y": 270},
+		{"model": "minecraft:block/mud_brick_wall_side6", 
+		"uvlock": true,
+		"y": 270},
+		{"model": "minecraft:block/mud_brick_wall_side7",
+		"uvlock": true,
+		"y": 270},
+		{"model": "minecraft:block/mud_brick_wall_side8", 
+		"uvlock": true,
+		"y": 270},
+		{"model": "minecraft:block/mud_brick_wall_side9", 
+		"uvlock": true,
+		"y": 270}
+      ],
+      "when": {
+        "west": "low"
+      }
+    },
+    {
+      "apply": [
+        {"model": "minecraft:block/mud_brick_wall_side_tall1",
+		"uvlock": true},
+		{"model": "minecraft:block/mud_brick_wall_side_tall2",
+		"uvlock": true},
+		{"model": "minecraft:block/mud_brick_wall_side_tall3",
+		"uvlock": true},
+		{"model": "minecraft:block/mud_brick_wall_side_tall4",
+		"uvlock": true},
+		{"model": "minecraft:block/mud_brick_wall_side_tall5",
+		"uvlock": true},
+		{"model": "minecraft:block/mud_brick_wall_side_tall6",
+		"uvlock": true},
+		{"model": "minecraft:block/mud_brick_wall_side_tall7",
+		"uvlock": true},
+		{"model": "minecraft:block/mud_brick_wall_side_tall8",
+		"uvlock": true},
+		{"model": "minecraft:block/mud_brick_wall_side_tall9",
+		"uvlock": true}
+      ],
+      "when": {
+        "north": "tall"
+      }
+    },
+    {
+      "apply": [
+        {"model": "minecraft:block/mud_brick_wall_side_tall1",
+		"uvlock": true,
+		"y": 90},
+		{"model": "minecraft:block/mud_brick_wall_side_tall2",
+		"uvlock": true,
+		"y": 90},
+		{"model": "minecraft:block/mud_brick_wall_side_tall3",
+		"uvlock": true,
+		"y": 90},
+		{"model": "minecraft:block/mud_brick_wall_side_tall4",
+		"uvlock": true,
+		"y": 90},
+		{"model": "minecraft:block/mud_brick_wall_side_tall5",
+		"uvlock": true,
+		"y": 90},
+		{"model": "minecraft:block/mud_brick_wall_side_tall6",
+		"uvlock": true,
+		"y": 90},
+		{"model": "minecraft:block/mud_brick_wall_side_tall7",
+		"uvlock": true,
+		"y": 90},
+		{"model": "minecraft:block/mud_brick_wall_side_tall8",
+		"uvlock": true,
+		"y": 90},
+		{"model": "minecraft:block/mud_brick_wall_side_tall9",
+		"uvlock": true,
+		"y": 90}
+      ],
+      "when": {
+        "east": "tall"
+      }
+    },
+    {
+      "apply": [
+        {"model": "minecraft:block/mud_brick_wall_side_tall1",
+		"uvlock": true,
+		"y": 180},
+		{"model": "minecraft:block/mud_brick_wall_side_tall2",
+		"uvlock": true,
+		"y": 180},
+		{"model": "minecraft:block/mud_brick_wall_side_tall3",
+		"uvlock": true,
+		"y": 180},
+		{"model": "minecraft:block/mud_brick_wall_side_tall4",
+		"uvlock": true,
+		"y": 180},
+		{"model": "minecraft:block/mud_brick_wall_side_tall5",
+		"uvlock": true,
+		"y": 180},
+		{"model": "minecraft:block/mud_brick_wall_side_tall6",
+		"uvlock": true,
+		"y": 180},
+		{"model": "minecraft:block/mud_brick_wall_side_tall7",
+		"uvlock": true,
+		"y": 180},
+		{"model": "minecraft:block/mud_brick_wall_side_tall8",
+		"uvlock": true,
+		"y": 180},
+		{"model": "minecraft:block/mud_brick_wall_side_tall9",
+		"uvlock": true,
+		"y": 180}
+      ],
+      "when": {
+        "south": "tall"
+      }
+    },
+    {
+      "apply": [
+        {"model": "minecraft:block/mud_brick_wall_side_tall1",
+		"uvlock": true,
+		"y": 270},
+		{"model": "minecraft:block/mud_brick_wall_side_tall2",
+		"uvlock": true,
+		"y": 270},
+		{"model": "minecraft:block/mud_brick_wall_side_tall3",
+		"uvlock": true,
+		"y": 270},
+		{"model": "minecraft:block/mud_brick_wall_side_tall4",
+		"uvlock": true,
+		"y": 270},
+		{"model": "minecraft:block/mud_brick_wall_side_tall5",
+		"uvlock": true,
+		"y": 270},
+		{"model": "minecraft:block/mud_brick_wall_side_tall6",
+		"uvlock": true,
+		"y": 270},
+		{"model": "minecraft:block/mud_brick_wall_side_tall7",
+		"uvlock": true,
+		"y": 270},
+		{"model": "minecraft:block/mud_brick_wall_side_tall8",
+		"uvlock": true,
+		"y": 270},
+		{"model": "minecraft:block/mud_brick_wall_side_tall9",
+		"uvlock": true,
+		"y": 270}
+      ],
+      "when": {
+        "west": "tall"
+      }
+    }
+  ]
+}

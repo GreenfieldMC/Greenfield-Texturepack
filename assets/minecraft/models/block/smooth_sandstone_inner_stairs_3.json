@@ -1,0 +1,9 @@
+{
+	"cblackit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationinnerstairs3",
+	"textures": {
+		"side": "block/smooth_sandstone_base",
+		"top": "block/smooth_sandstone_base",
+		"bottom": "block/smooth_sandstone_base"
+	}
+}

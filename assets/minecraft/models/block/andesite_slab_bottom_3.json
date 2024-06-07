@@ -1,0 +1,9 @@
+{
+	"cblackit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationslab3",
+	"textures": {
+		"side": "block/andesite_base",
+		"top": "block/andesite_base",
+		"bottom": "block/andesite_base"
+	}
+}

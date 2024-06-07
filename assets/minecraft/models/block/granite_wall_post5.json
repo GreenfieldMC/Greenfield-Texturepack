@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xtemplate_wall_post5",
+	"textures": {
+		"wall": "block/granite_base"
+	}
+}

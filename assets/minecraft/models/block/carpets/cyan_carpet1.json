@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/carpets/48xcarpet1",
+	"textures": {
+		"all": "block/carpets/cyan_carpet_wool_base"
+	}
+}

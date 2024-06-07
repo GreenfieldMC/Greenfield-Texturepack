@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationslabtop9",
+	"textures": {
+		"side": "block/stone_base",
+		"top": "block/stone_base",
+		"bottom": "block/stone_base"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xtemplate_wall_side9",
+	"textures": {
+		"wall": "block/red_sandstone_base"
+	}
+}

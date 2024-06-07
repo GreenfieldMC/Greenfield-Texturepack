@@ -1,0 +1,9 @@
+{
+	"cblackit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationslabtop3",
+	"textures": {
+		"side": "block/smooth_stone_base",
+		"top": "block/smooth_stone_base",
+		"bottom": "block/smooth_stone_base"
+	}
+}

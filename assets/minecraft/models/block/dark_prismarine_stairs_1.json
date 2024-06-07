@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationstairs1",
+	"textures": {
+		"side": "block/dark_prismarine_base",
+		"top": "block/dark_prismarine_base",
+		"bottom": "block/dark_prismarine_base"
+	}
+}

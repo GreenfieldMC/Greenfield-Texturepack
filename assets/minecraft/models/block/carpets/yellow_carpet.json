@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/thin_block",
+	"parent": "block/carpets/thin_block",
 	"textures": {
-		"particle": "block/carpets/yellow_carpet_wool",
-		"wool": "block/carpets/yellow_carpet_wool"
+		"particle": "block/carpets/carpets/yellow_carpet_wool",
+		"wool": "block/carpets/carpets/yellow_carpet_wool"
 	},
 	"elements": [
 		{
