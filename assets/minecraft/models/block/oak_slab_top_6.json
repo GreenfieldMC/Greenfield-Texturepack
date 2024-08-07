@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationslabtop6",
+	"textures": {
+		"side": "block/oak_planks_base",
+		"top": "block/oak_planks_base",
+		"bottom": "block/oak_planks_base"
+	}
+}
