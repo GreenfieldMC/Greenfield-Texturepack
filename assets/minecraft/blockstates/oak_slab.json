@@ -26,15 +26,15 @@
     ],
     "type=double":
     [
-      {"model": "block/oak_1" },
-      {"model": "block/oak_2" },
-      {"model": "block/oak_3" },
-      {"model": "block/oak_4" },
-      {"model": "block/oak_5" },
-      {"model": "block/oak_6" },
-      {"model": "block/oak_7" },
-      {"model": "block/oak_8" },
-      {"model": "block/oak_9" }
+      {"model": "block/oak_planks_1" },
+      {"model": "block/oak_planks_2" },
+      {"model": "block/oak_planks_3" },
+      {"model": "block/oak_planks_4" },
+      {"model": "block/oak_planks_5" },
+      {"model": "block/oak_planks_6" },
+      {"model": "block/oak_planks_7" },
+      {"model": "block/oak_planks_8" },
+      {"model": "block/oak_planks_9" }
     ]
   }
 }

@@ -26,15 +26,15 @@
     ],
     "type=double":
     [
-      {"model": "block/birch_1" },
-      {"model": "block/birch_2" },
-      {"model": "block/birch_3" },
-      {"model": "block/birch_4" },
-      {"model": "block/birch_5" },
-      {"model": "block/birch_6" },
-      {"model": "block/birch_7" },
-      {"model": "block/birch_8" },
-      {"model": "block/birch_9" }
+      {"model": "block/birch_planks_1" },
+      {"model": "block/birch_planks_2" },
+      {"model": "block/birch_planks_3" },
+      {"model": "block/birch_planks_4" },
+      {"model": "block/birch_planks_5" },
+      {"model": "block/birch_planks_6" },
+      {"model": "block/birch_planks_7" },
+      {"model": "block/birch_planks_8" },
+      {"model": "block/birch_planks_9" }
     ]
   }
 }
