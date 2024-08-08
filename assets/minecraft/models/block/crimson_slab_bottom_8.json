@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationslab8",
+	"textures": {
+		"side": "block/crimson_planks_base",
+		"top": "block/crimson_planks_base",
+		"bottom": "block/crimson_planks_base"
+	}
+}
