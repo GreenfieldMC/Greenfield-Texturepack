@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/acacia_planks_1" },
+      {"model": "block/acacia_planks_2" },
+      {"model": "block/acacia_planks_3" },
+      {"model": "block/acacia_planks_4" },
+      {"model": "block/acacia_planks_5" },
+      {"model": "block/acacia_planks_6" },
+      {"model": "block/acacia_planks_7" },
+      {"model": "block/acacia_planks_8" },
+      {"model": "block/acacia_planks_9" }
+    ]
+  }
+}
