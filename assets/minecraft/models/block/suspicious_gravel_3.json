@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/suspicious_gravel_3_side",
 		"1": "block/suspicious_gravel_3_top",
-		"2": "block/suspicious_gravel_3_bottom",
+		"2": "block/bee_nest_bottom",
 		"particle": "block/suspicious_gravel_3_side"
 	},
 	"elements": [
