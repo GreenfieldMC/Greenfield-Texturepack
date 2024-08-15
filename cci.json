@@ -1,0 +1,82 @@
+{
+  "itemGroups": [
+	{
+      "displayName": "Gradients",
+      "registryKey": "gradients",
+      "icon": "stone",
+      "entries": [
+        {
+          "itemName": "minecraft:black_wool"
+        },
+        {
+          "itemName": "minecraft:black_concrete"
+        },
+        {
+          "itemName": "minecraft:black_concrete_powder"
+        },
+        {
+          "itemName": "minecraft:bamboo_mosaic"
+        },
+        {
+          "itemName": "minecraft:black_terracotta"
+        },
+        {
+          "itemName": "minecraft:brown_mushroom_block"
+        },
+        {
+          "itemName": "minecraft:gray_wool"
+        },
+        {
+          "itemName": "minecraft:polished_basalt"
+        },
+        {
+          "itemName": "minecraft:gray_concrete"
+        },
+        {
+          "itemName": "minecraft:gray_concrete_powder"
+        },
+        {
+          "itemName": "minecraft:andesite"
+        },
+        {
+          "itemName": "minecraft:stone"
+        },
+        {
+          "itemName": "minecraft:gray_terracotta"
+        },
+        {
+          "itemName": "minecraft:polished_andesite"
+        },
+        {
+          "itemName": "minecraft:light_gray_wool"
+        }
+      ]
+    },
+    {
+      "displayName": "Industrial",
+      "registryKey": "industrial",
+      "icon": "exposed_copper_grate",
+      "entries": [
+        {
+          "itemName": "minecraft:spruce_door"
+        },
+        {
+          "itemName": "minecraft:spruce_trapdoor"
+        }
+      ]
+    },
+	{
+      "displayName": "Interior Decor",
+      "registryKey": "interior_decor",
+      "icon": "black_wool",
+      "entries": [
+        {
+          "itemName": "minecraft:stone"
+        },
+        {
+          "itemName": "minecraft:dirt"
+        }
+      ]
+    }
+  ]
+}
