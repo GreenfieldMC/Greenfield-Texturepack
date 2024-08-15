@@ -8,11 +8,11 @@
         {
           "itemName": "minecraft:black_wool"
         },
-        {
-          "itemName": "minecraft:black_concrete"
+		{
+          "itemName": "minecraft:black_concrete_powder"
         },
         {
-          "itemName": "minecraft:black_concrete_powder"
+          "itemName": "minecraft:black_concrete"
         },
         {
           "itemName": "minecraft:bamboo_mosaic"
@@ -20,11 +20,11 @@
         {
           "itemName": "minecraft:black_terracotta"
         },
-        {
-          "itemName": "minecraft:brown_mushroom_block"
+		{
+          "itemName": "minecraft:gray_wool"
         },
         {
-          "itemName": "minecraft:gray_wool"
+          "itemName": "minecraft:brown_mushroom_block"
         },
         {
           "itemName": "minecraft:polished_basalt"
@@ -41,14 +41,38 @@
         {
           "itemName": "minecraft:stone"
         },
-        {
+		{
           "itemName": "minecraft:gray_terracotta"
         },
         {
           "itemName": "minecraft:polished_andesite"
         },
+		{
+          "itemName": "minecraft:warped_hyphae"
+        },
         {
           "itemName": "minecraft:light_gray_wool"
+        },
+		{
+          "itemName": "minecraft:light_gray_glazed_terracotta"
+        },
+		{
+          "itemName": "minecraft:light_gray_terracotta"
+        },
+		{
+          "itemName": "minecraft:white_concrete_powder"
+        },
+		{
+          "itemName": "minecraft:white_concrete"
+        },
+		{
+          "itemName": "minecraft:bamboo_planks"
+        },
+		{
+          "itemName": "minecraft:white_terracotta"
+        },
+		{
+          "itemName": "minecraft:white_wool"
         }
       ]
     },
