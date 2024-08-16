@@ -5,75 +5,29 @@
       "registryKey": "gradients",
       "icon": "stone",
       "entries": [
-        {
-          "itemName": "minecraft:black_wool"
-        },
-		{
-          "itemName": "minecraft:black_concrete_powder"
-        },
-        {
-          "itemName": "minecraft:black_concrete"
-        },
-        {
-          "itemName": "minecraft:bamboo_mosaic"
-        },
-        {
-          "itemName": "minecraft:black_terracotta"
-        },
-		{
-          "itemName": "minecraft:gray_wool"
-        },
-        {
-          "itemName": "minecraft:brown_mushroom_block"
-        },
-        {
-          "itemName": "minecraft:polished_basalt"
-        },
-        {
-          "itemName": "minecraft:gray_concrete"
-        },
-        {
-          "itemName": "minecraft:gray_concrete_powder"
-        },
-        {
-          "itemName": "minecraft:andesite"
-        },
-        {
-          "itemName": "minecraft:stone"
-        },
-		{
-          "itemName": "minecraft:gray_terracotta"
-        },
-        {
-          "itemName": "minecraft:polished_andesite"
-        },
-		{
-          "itemName": "minecraft:warped_hyphae"
-        },
-        {
-          "itemName": "minecraft:light_gray_wool"
-        },
-		{
-          "itemName": "minecraft:light_gray_glazed_terracotta"
-        },
-		{
-          "itemName": "minecraft:light_gray_terracotta"
-        },
-		{
-          "itemName": "minecraft:white_concrete_powder"
-        },
-		{
-          "itemName": "minecraft:white_concrete"
-        },
-		{
-          "itemName": "minecraft:bamboo_planks"
-        },
-		{
-          "itemName": "minecraft:white_terracotta"
-        },
-		{
-          "itemName": "minecraft:white_wool"
-        }
+        { "itemName": "minecraft:black_wool" },
+		{ "itemName": "minecraft:black_concrete_powder" },
+        { "itemName": "minecraft:black_concrete" },
+        { "itemName": "minecraft:bamboo_mosaic" },
+        { "itemName": "minecraft:black_terracotta" },
+        { "itemName": "minecraft:gray_wool" },
+        { "itemName": "minecraft:brown_mushroom_block" },
+        { "itemName": "minecraft:polished_basalt" },
+        { "itemName": "minecraft:gray_concrete" },
+        { "itemName": "minecraft:gray_concrete_powder" },
+        { "itemName": "minecraft:andesite" },
+        { "itemName": "minecraft:stone" },
+        { "itemName": "minecraft:gray_terracotta" },
+        { "itemName": "minecraft:polished_andesite" },
+        { "itemName": "minecraft:warped_hyphae" },
+        { "itemName": "minecraft:light_gray_wool" },
+        { "itemName": "minecraft:light_gray_glazed_terracotta" },
+        { "itemName": "minecraft:light_gray_terracotta" },
+        { "itemName": "minecraft:white_concrete_powder" },
+        { "itemName": "minecraft:white_concrete" },
+        { "itemName": "minecraft:bamboo_planks" },
+        { "itemName": "minecraft:white_terracotta" },
+        { "itemName": "minecraft:white_wool" }
       ]
     },
     {
@@ -81,25 +35,71 @@
       "registryKey": "industrial",
       "icon": "exposed_copper_grate",
       "entries": [
-        {
-          "itemName": "minecraft:spruce_door"
-        },
-        {
-          "itemName": "minecraft:spruce_trapdoor"
-        }
+        { "itemName": "minecraft:spruce_door" },
+        { "itemName": "minecraft:spruce_trapdoor" }
       ]
     },
 	{
-      "displayName": "Interior Decor",
-      "registryKey": "interior_decor",
-      "icon": "black_wool",
+      "displayName": "Red Blocks",
+      "registryKey": "red_blocks",
+      "icon": "red_wool",
       "entries": [
-        {
-          "itemName": "minecraft:stone"
-        },
-        {
-          "itemName": "minecraft:dirt"
-        }
+        { "itemName": "minecraft:mangrove_planks" },
+        { "itemName": "minecraft:mangrove_stairs" },
+        { "itemName": "minecraft:mangrove_slab" },
+        { "itemName": "minecraft:mangrove_fence" },
+        { "itemName": "minecraft:mangrove_fence_gate" },
+        { "itemName": "minecraft:mangrove_door" },
+        { "itemName": "minecraft:mangrove_pressure_plate" },
+        { "itemName": "minecraft:mangrove_button" },
+        { "itemName": "minecraft:mangrove_sign" },
+        { "itemName": "minecraft:mangrove_hanging_sign" },
+        { "itemName": "minecraft:cherry_log" },
+        { "itemName": "minecraft:cherry_wood" },
+        { "itemName": "minecraft:stripped_cherry_log" },
+        { "itemName": "minecraft:stripped_cherry_wood" },
+        { "itemName": "minecraft:stripped_bamboo_block"},
+        { "itemName": "minecraft:end_stone_bricks" },
+        { "itemName": "minecraft:end_stone_brick_stairs" },
+        { "itemName": "minecraft:end_stone_brick_slab" },
+        { "itemName": "minecraft:end_stone_brick_wall" },
+        { "itemName": "minecraft:chiseled_nether_bricks" },
+        { "itemName": "minecraft:smooth_basalt" },
+        { "itemName": "minecraft:deepslate_redstone_ore" },
+        { "itemName": "minecraft:mud" },
+        { "itemName": "minecraft:polished_deepslate" },
+        { "itemName": "minecraft:polished_deepslate_stairs" },
+        { "itemName": "minecraft:polished_deepslate_slab" },
+        { "itemName": "minecraft:polished_deepslate_wall" },
+        { "itemName": "minecraft:blackstone" },
+        { "itemName": "minecraft:blackstone_stairs" },
+        { "itemName": "minecraft:blackstone_slab" },
+        { "itemName": "minecraft:blackstone_wall" },
+        { "itemName": "minecraft:bricks" },
+        { "itemName": "minecraft:brick_stairs" },
+        { "itemName": "minecraft:brick_slab" },
+        { "itemName": "minecraft:brick_wall" },
+        { "itemName": "minecraft:netherrack" },
+        { "itemName": "minecraft:crimson_nylium" },
+        { "itemName": "minecraft:diamond_ore" },
+        { "itemName": "minecraft:fire_coral_block" },
+        { "itemName": "minecraft:ochre_froglight" },
+        { "itemName": "minecraft:nether_quartz_ore" },
+        { "itemName": "minecraft:nether_gold_ore" },
+        { "itemName": "minecraft:barrel" },
+        { "itemName": "minecraft:red_wool" },
+        { "itemName": "minecraft:red_terracotta" },
+        { "itemName": "minecraft:red_concrete" },
+        { "itemName": "minecraft:red_concrete_powder" },
+        { "itemName": "minecraft:red_glazed_terracotta" },
+        { "itemName": "minecraft:copper_bulb" },
+        { "itemName": "minecraft:waxed_copper_bulb" },
+        { "itemName": "minecraft:red_stained_glass" },
+        { "itemName": "minecraft:red_stained_glass_pane" },
+        { "itemName": "minecraft:red_bed" },
+        { "itemName": "minecraft:red_carpet" },
+        { "itemName": "minecraft:red_banner" },
+        { "itemName": "minecraft:dead_bubble_coral" }
       ]
     }
   ]
