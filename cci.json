@@ -1,12 +1,12 @@
 {
   "itemGroups": [
-	{
+    {
       "displayName": "Gradients",
       "registryKey": "gradients",
       "icon": "stone",
       "entries": [
         { "itemName": "minecraft:black_wool" },
-		{ "itemName": "minecraft:black_concrete_powder" },
+        { "itemName": "minecraft:black_concrete_powder" },
         { "itemName": "minecraft:black_concrete" },
         { "itemName": "minecraft:bamboo_mosaic" },
         { "itemName": "minecraft:black_terracotta" },
@@ -31,15 +31,65 @@
       ]
     },
     {
-      "displayName": "Industrial",
-      "registryKey": "industrial",
-      "icon": "exposed_copper_grate",
+      "displayName": "Technical Blocks",
+      "registryKey": "technical_blocks",
+      "icon": "command_block",
       "entries": [
-        { "itemName": "minecraft:spruce_door" },
+        { "itemName": "minecraft:command_block" },
         { "itemName": "minecraft:spruce_trapdoor" }
       ]
     },
-	{
+    {
+      "displayName": "Lights",
+      "registryKey": "light_blocks",
+      "icon": "pink_candle",
+      "entries": [
+        { "itemName": "minecraft:light" },
+        { "itemName": "minecraft:candle" },
+        { "itemName": "minecraft:white_candle" },
+        { "itemName": "minecraft:light_gray_candle" },
+        { "itemName": "minecraft:gray_candle" },
+        { "itemName": "minecraft:black_candle" },
+        { "itemName": "minecraft:brown_candle" },
+        { "itemName": "minecraft:red_candle" },
+        { "itemName": "minecraft:orange_candle" },
+        { "itemName": "minecraft:yellow_candle" },
+        { "itemName": "minecraft:lime_candle" },
+        { "itemName": "minecraft:green_candle" },
+        { "itemName": "minecraft:cyan_candle" },
+        { "itemName": "minecraft:light_blue_candle" },
+        { "itemName": "minecraft:blue_candle" },
+        { "itemName": "minecraft:purple_candle" },
+        { "itemName": "minecraft:magenta_candle" },
+        { "itemName": "minecraft:pink_candle" },
+        { "itemName": "minecraft:soul_torch" },
+        { "itemName": "minecraft:end_rod" },
+        { "itemName": "minecraft:soul_lantern" },
+        { "itemName": "minecraft:lantern" },
+        { "itemName": "minecraft:redstone_torch" },
+        { "itemName": "minecraft:torch" },
+        { "itemName": "minecraft:beacon" },
+        { "itemName": "minecraft:campfire" },
+        { "itemName": "minecraft:glow_lichen" },
+        { "itemName": "minecraft:pearlescent_froglight" },
+        { "itemName": "minecraft:verdant_froglight" },
+        { "itemName": "minecraft:ochre_froglight" },
+        { "itemName": "minecraft:shroomlight" },
+        { "itemName": "minecraft:sea_lantern" },
+        { "itemName": "minecraft:glowstone" },
+        { "itemName": "minecraft:redstone_lamp" },
+        { "itemName": "minecraft:copper_bulb" },
+        { "itemName": "minecraft:exposed_copper_bulb" },
+        { "itemName": "minecraft:weathered_copper_bulb" },
+        { "itemName": "minecraft:oxidized_copper_bulb" },
+        { "itemName": "minecraft:waxed_copper_bulb" },
+        { "itemName": "minecraft:waxed_exposed_copper_bulb" },
+        { "itemName": "minecraft:waxed_weathered_copper_bulb" },
+        { "itemName": "minecraft:waxed_oxidized_copper_bulb" },
+        { "itemName": "minecraft:magma_block" }
+      ]
+    },
+    { 
       "displayName": "Red Blocks",
       "registryKey": "red_blocks",
       "icon": "red_wool",
