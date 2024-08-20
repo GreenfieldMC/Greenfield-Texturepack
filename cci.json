@@ -140,6 +140,62 @@
       ]
     },
     { 
+      "displayName": "Kitchen",
+      "registryKey": "kitchen_blocks",
+      "icon": "blast_furnace",
+      "entries": [
+        { "itemName": "minecraft:black_wool" }
+      ]
+    },
+    { 
+      "displayName": "Bathroom",
+      "registryKey": "bathroom_blocks",
+      "icon": "suspicious_gravel",
+      "entries": [{ "itemName": "minecraft:black_wool" }]
+    },
+    { 
+      "displayName": "Bedroom",
+      "registryKey": "bedroom_blocks",
+      "icon": "cyan_bed",
+      "entries": [{ "itemName": "minecraft:black_wool" }]
+    },
+    { 
+      "displayName": "Wooden",
+      "registryKey": "wooden_blocks",
+      "icon": "oak_planks",
+      "entries": [{ "itemName": "minecraft:black_wool" }]
+    },
+    { 
+      "displayName": "Metal",
+      "registryKey": "metal_blocks",
+      "icon": "cherry_planks",
+      "entries": [{ "itemName": "minecraft:black_wool" }]
+    },
+    { 
+      "displayName": "White Blocks",
+      "registryKey": "white_blocks",
+      "icon": "white_wool",
+      "entries": [{ "itemName": "minecraft:black_wool" }]
+    },
+    { 
+      "displayName": "Gray Blocks",
+      "registryKey": "gray_blocks",
+      "icon": "gray_wool",
+      "entries": [{ "itemName": "minecraft:black_wool" }]
+    },
+    { 
+      "displayName": "Black Blocks",
+      "registryKey": "black_blocks",
+      "icon": "black_wool",
+      "entries": [{ "itemName": "minecraft:black_wool" }]
+    },
+    { 
+      "displayName": "Brown Blocks",
+      "registryKey": "brown_blocks",
+      "icon": "brown_wool",
+      "entries": [{ "itemName": "minecraft:black_wool" }]
+    },
+    { 
       "displayName": "Red Blocks",
       "registryKey": "red_blocks",
       "icon": "red_wool",
@@ -201,6 +257,42 @@
         { "itemName": "minecraft:red_banner" },
         { "itemName": "minecraft:dead_bubble_coral" }
       ]
+    },
+    { 
+      "displayName": "Orange Blocks",
+      "registryKey": "orange_blocks",
+      "icon": "orange_wool",
+      "entries": [{ "itemName": "minecraft:black_wool" }]
+    },
+    { 
+      "displayName": "Yellow Blocks",
+      "registryKey": "yellow_blocks",
+      "icon": "yellow_wool",
+      "entries": [{ "itemName": "minecraft:black_wool" }]
+    },
+    { 
+      "displayName": "Green Blocks",
+      "registryKey": "green_blocks",
+      "icon": "green_wool",
+      "entries": [{ "itemName": "minecraft:black_wool" }]
+    },
+    { 
+      "displayName": "Blue Blocks",
+      "registryKey": "blue_blocks",
+      "icon": "blue_wool",
+      "entries": [{ "itemName": "minecraft:black_wool" }]
+    },
+    { 
+      "displayName": "Purple Blocks",
+      "registryKey": "purple_blocks",
+      "icon": "purple_wool",
+      "entries": [{ "itemName": "minecraft:black_wool" }]
+    },
+    { 
+      "displayName": "Pink Blocks",
+      "registryKey": "pink_blocks",
+      "icon": "pink_wool",
+      "entries": [{ "itemName": "minecraft:black_wool" }]
     }
   ]
 }
