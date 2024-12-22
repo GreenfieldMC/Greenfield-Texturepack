@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationslabtop1",
+	"textures": {
+		"side": "block/waxed_exposed_cut_copper_base",
+		"top": "block/waxed_exposed_cut_copper_base",
+		"bottom": "block/waxed_exposed_cut_copper_base"
+	}
+}

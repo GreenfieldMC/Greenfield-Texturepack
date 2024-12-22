@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/version2_door_top_left",
+  "textures": {
+    "bottom": "minecraft:block/waxed_copper_door_bottom",
+    "top": "minecraft:block/waxed_copper_door_top"
+  }
+}

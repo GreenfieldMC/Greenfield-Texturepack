@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationstairs8",
+	"textures": {
+		"side": "block/waxed_weathered_cut_copper_base",
+		"top": "block/waxed_weathered_cut_copper_base",
+		"bottom": "block/waxed_weathered_cut_copper_base"
+	}
+}
