@@ -2,6 +2,6 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/48xrandomizationtrapdoortop8",
 	"textures": {
-		"all": "block/waxed_oxidized_cut_copper_base"
+		"all": "block/bamboo_mosaic_base"
 	}
 }

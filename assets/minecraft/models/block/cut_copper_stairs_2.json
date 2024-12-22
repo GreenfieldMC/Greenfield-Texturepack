@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationstairs2",
+	"textures": {
+		"side": "block/cut_copper_base",
+		"top": "block/cut_copper_base",
+		"bottom": "block/cut_copper_base"
+	}
+}

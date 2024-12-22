@@ -2,6 +2,6 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/48xrandomizationtrapdoorbottom6",
 	"textures": {
-		"all": "block/red_sandstone_base"
+		"all": "block/exposed_cut_copper_base"
 	}
 }

@@ -1,0 +1,41 @@
+{
+	"variants": {
+	"type=bottom": 
+	  [
+		{"model": "block/oxidized_cut_copper_slab_bottom_1" },
+		{"model": "block/oxidized_cut_copper_slab_bottom_2" },
+		{"model": "block/oxidized_cut_copper_slab_bottom_3" },
+		{"model": "block/oxidized_cut_copper_slab_bottom_4" },
+		{"model": "block/oxidized_cut_copper_slab_bottom_5" },
+		{"model": "block/oxidized_cut_copper_slab_bottom_6" },
+		{"model": "block/oxidized_cut_copper_slab_bottom_7" },
+		{"model": "block/oxidized_cut_copper_slab_bottom_8" },
+		{"model": "block/oxidized_cut_copper_slab_bottom_9" }
+	  ],
+	  "type=top": 
+	  [
+		{"model": "block/oxidized_cut_copper_slab_top_1" },
+		{"model": "block/oxidized_cut_copper_slab_top_2" },
+		{"model": "block/oxidized_cut_copper_slab_top_3" },
+		{"model": "block/oxidized_cut_copper_slab_top_4" },
+		{"model": "block/oxidized_cut_copper_slab_top_5" },
+		{"model": "block/oxidized_cut_copper_slab_top_6" },
+		{"model": "block/oxidized_cut_copper_slab_top_7" },
+		{"model": "block/oxidized_cut_copper_slab_top_8" },
+		{"model": "block/oxidized_cut_copper_slab_top_9" }
+	  ],
+		"type=double": 
+	  [
+		{"model": "block/oxidized_cut_copper_slab_double_1" },
+		{"model": "block/oxidized_cut_copper_slab_double_2" },
+		{"model": "block/oxidized_cut_copper_slab_double_3" },
+		{"model": "block/oxidized_cut_copper_slab_double_4" },
+		{"model": "block/oxidized_cut_copper_slab_double_5" },
+		{"model": "block/oxidized_cut_copper_slab_double_6" },
+		{"model": "block/oxidized_cut_copper_slab_double_7" },
+		{"model": "block/oxidized_cut_copper_slab_double_8" },
+		{"model": "block/oxidized_cut_copper_slab_double_9" }
+	  ]
+	}
+  }
+  

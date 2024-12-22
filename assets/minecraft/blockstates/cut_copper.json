@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/cut_copper_1" },
+			{ "model": "block/cut_copper_2" },
+			{ "model": "block/cut_copper_3" },
+			{ "model": "block/cut_copper_4" },
+			{ "model": "block/cut_copper_5" },
+			{ "model": "block/cut_copper_6" },
+			{ "model": "block/cut_copper_7" },
+			{ "model": "block/cut_copper_8" },
+			{ "model": "block/cut_copper_9" }
+		]
+    }
+}

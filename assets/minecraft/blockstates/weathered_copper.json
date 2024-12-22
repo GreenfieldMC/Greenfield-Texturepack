@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/weathered_copper_1" },
+			{ "model": "block/weathered_copper_2" },
+			{ "model": "block/weathered_copper_3" },
+			{ "model": "block/weathered_copper_4" },
+			{ "model": "block/weathered_copper_5" },
+			{ "model": "block/weathered_copper_6" },
+			{ "model": "block/weathered_copper_7" },
+			{ "model": "block/weathered_copper_8" },
+			{ "model": "block/weathered_copper_9" }
+		]
+    }
+}

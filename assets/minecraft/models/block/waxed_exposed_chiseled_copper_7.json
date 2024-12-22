@@ -1,7 +1,19 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/48xrandomization7",
-	"textures": {
-		"all": "block/waxed_exposed_chiseled_copper_base"
-	}
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/waxed_exposed_chiseled_copper_base"
+  },
+  "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "texture": "#all", "cullface": "down", "uv": [0, 10.6666667, 5.3333333, 16] },
+                "up":    { "texture": "#all", "cullface": "up", "uv": [0, 10.6666667, 5.3333333, 16] },
+                "north": { "texture": "#all", "cullface": "north", "uv": [0, 10.6666667, 5.3333333, 16] },
+                "south": { "texture": "#all", "cullface": "south", "uv": [0, 10.6666667, 5.3333333, 16] },
+                "west":  { "texture": "#all", "cullface": "west", "uv": [0, 10.6666667, 5.3333333, 16] },
+                "east":  { "texture": "#all", "cullface": "east", "uv": [0, 10.6666667, 5.3333333, 16] }
+            }
+        }
+    ]
 }

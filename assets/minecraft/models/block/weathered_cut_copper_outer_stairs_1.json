@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationouterstairs1",
+	"textures": {
+		"side": "block/weathered_cut_copper_base",
+		"top": "block/weathered_cut_copper_base",
+		"bottom": "block/weathered_cut_copper_base"
+	}
+}

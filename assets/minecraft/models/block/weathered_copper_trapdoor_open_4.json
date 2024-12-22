@@ -2,6 +2,6 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:block/48xrandomizationtrapdooropen4",
 	"textures": {
-		"all": "block/bamboo_planks_base"
+		"all": "block/weathered_cut_copper_base"
 	}
 }

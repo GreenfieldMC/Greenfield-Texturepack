@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/oxidized_cut_copper_1" },
+			{ "model": "block/oxidized_cut_copper_2" },
+			{ "model": "block/oxidized_cut_copper_3" },
+			{ "model": "block/oxidized_cut_copper_4" },
+			{ "model": "block/oxidized_cut_copper_5" },
+			{ "model": "block/oxidized_cut_copper_6" },
+			{ "model": "block/oxidized_cut_copper_7" },
+			{ "model": "block/oxidized_cut_copper_8" },
+			{ "model": "block/oxidized_cut_copper_9" }
+		]
+    }
+}
