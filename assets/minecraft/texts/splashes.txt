@@ -15,7 +15,6 @@ oskarlogic included
 565156515651565156515
 §kIWasToldToMakeASoundICouldn'tSpell
 Now has sewers!
-Strömkontakter included
 Airport is NOW (tm)
 There is no airport
 There's an airport
@@ -35,10 +34,10 @@ Go Eagles!
 Go Tigers!
 Ensen Center is FOREVER under construction
 §l200,000 bungalows ready, with a million more well on the way!
-§oh e l l o t h a r e
+§oh e l l o t h e r e
 Mearsk
 Epsilonpier
-Mechdonalds
+Mechdonalds!
 Wallcart, wallcarts everywhere
 At least 10 gas stations
 -20, 72, 120
@@ -52,8 +51,6 @@ The missile knows where it is
 It knows this because it knows where it isn't
 Everything angled
 Powered by Cantel Wireless
-Powered by Ampere Power Company
-Ensen Group Construction, Constructing the future
 Ulectric LLC>Trippy Appliances
 Don't Trippy MY Appliances
 wasting time since 2011
@@ -69,5 +66,6 @@ something something Greenfield and 2008
 THEJESTR
 Check out Rockwell!
 Ace Golf
-
-
+/void
+everyone is afk!
+The mini incident v1 and v2
