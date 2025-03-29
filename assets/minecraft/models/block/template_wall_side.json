@@ -6,10 +6,10 @@
         {   "from": [ 5, 0, 0 ],
             "to": [ 11, 14, 8 ],
             "faces": {
-                "down":  { "texture": "#wall", "cullface": "down" },
+                "down":  { "texture": "#wall" },
                 "up":    { "texture": "#wall" },
-                "north": { "texture": "#wall", "cullface": "north" },
-				"south": { "texture": "#wall", "cullface": "south" },
+                "north": { "texture": "#wall" },
+				"south": { "texture": "#wall" },
                 "west":  { "texture": "#wall" },
                 "east":  { "texture": "#wall" }
             },
