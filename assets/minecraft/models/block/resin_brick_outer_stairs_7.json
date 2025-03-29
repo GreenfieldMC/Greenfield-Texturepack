@@ -1,0 +1,9 @@
+{
+	"credit": "Made with brickbench",
+	"parent": "minecraft:block/48xrandomizationouterstairs7",
+	"textures": {
+		"side": "block/resin_bricks_base",
+		"top": "block/resin_bricks_base",
+		"bottom": "block/resin_bricks_base"
+	}
+}

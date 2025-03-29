@@ -1,0 +1,7 @@
+{
+	"credit": "Made with brickbench",
+	"parent": "minecraft:block/48xrandomization6",
+	"textures": {
+		"all": "block/resin_bricks_base"
+	}
+}
