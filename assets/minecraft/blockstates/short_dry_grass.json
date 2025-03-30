@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/short_dry_grass_1" },
+      {"model": "block/short_dry_grass_2" },
+      {"model": "block/short_dry_grass_3" },
+      {"model": "block/short_dry_grass_4" },
+      {"model": "block/short_dry_grass_5" },
+      {"model": "block/short_dry_grass_6" },
+      {"model": "block/short_dry_grass_7" },
+      {"model": "block/short_dry_grass_8" },
+      {"model": "block/short_dry_grass_9" }
+    ]
+  }
+}
