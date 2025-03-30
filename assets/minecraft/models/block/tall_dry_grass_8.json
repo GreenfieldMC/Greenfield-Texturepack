@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationcross8",
+	"textures": {
+		"cross": "block/tall_dry_grass_base"
+	}
+}
