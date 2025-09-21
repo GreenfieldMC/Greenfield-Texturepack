@@ -8,6 +8,7 @@
             "to": [ 3, 16, 16 ],
             "faces": {
                 "up":    { "uv": [  0,  0, 16,  3 ], "texture": "#top", "cullface": "up", "rotation": 270 },
+				"down":    { "uv": [  0,  0, 16,  3 ], "texture": "#top", "cullface": "down", "rotation": 270 },
                 "north": { "uv": [  3,  0,  0, 16 ], "texture": "#top", "cullface": "north" },
                 "south": { "uv": [  0,  0,  3, 16 ], "texture": "#top", "cullface": "south" },
                 "west":  { "uv": [ 16,  0,  0, 16 ], "texture": "#top", "cullface": "west" },
