@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/bin_base",
+  "textures": {
+    "1": "minecraft:block/green_bin",
+	"particle": "minecraft:block/green_bin"
+  }
+}

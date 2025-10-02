@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/bin_base",
+  "textures": {
+    "1": "minecraft:block/black_bin",
+	"particle": "minecraft:block/black_bin"
+  }
+}
