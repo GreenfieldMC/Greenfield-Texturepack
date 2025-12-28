@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/nether_wart_stage1_var1",
+  "textures": {
+    "texture": "minecraft:block/nether_wart_stage1_var2"
+  }
+}
