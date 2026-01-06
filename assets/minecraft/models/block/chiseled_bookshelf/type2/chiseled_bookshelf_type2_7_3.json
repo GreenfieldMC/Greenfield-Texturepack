@@ -2,8 +2,8 @@
 	"format_version": "1.9.0",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/chiseled_bookshelf/type1/chiseled_bookshelf_type2_7_base",
-		"particle": "block/chiseled_bookshelf/type1/chiseled_bookshelf_type2_7"
+		"0": "block/chiseled_bookshelf/type2/chiseled_bookshelf_type2_7_base",
+		"particle": "block/chiseled_bookshelf/type2/chiseled_bookshelf_type2_7"
 	},
 	"elements": [
 		{
