@@ -1,0 +1,87 @@
+{
+  "variants": {
+    "facing=north,flower_amount=1": {
+      "model": "minecraft:block/wildflowers_1"
+    },
+    "facing=east,flower_amount=1": {
+      "model": "minecraft:block/wildflowers_1",
+	  "y": 90
+    },
+    "facing=south,flower_amount=1": {
+      "model": "minecraft:block/wildflowers_1",
+	  "y": 180
+    },
+    "facing=west,flower_amount=1": {
+      "model": "minecraft:block/wildflowers_1",
+	  "y": 270
+    },
+    "facing=north,flower_amount=2": {
+      "model": "minecraft:block/wildflowers_2"
+    },
+    "facing=east,flower_amount=2": {
+      "model": "minecraft:block/wildflowers_2",
+	  "y": 90
+    },
+    "facing=south,flower_amount=2": {
+      "model": "minecraft:block/wildflowers_2",
+	  "y": 180
+    },
+    "facing=west,flower_amount=2": {
+      "model": "minecraft:block/wildflowers_2",
+	  "y": 270
+    },
+    "facing=north,flower_amount=3": [
+	{
+      "model": "minecraft:block/wildflowers_3_1"
+    },
+	{
+      "model": "minecraft:block/wildflowers_3_2"
+    }
+	],
+    "facing=east,flower_amount=3": [
+	{
+      "model": "minecraft:block/wildflowers_3_1",
+	  "y": 90
+    },
+	{
+      "model": "minecraft:block/wildflowers_3_2",
+	  "y": 90
+	}
+    ],
+    "facing=south,flower_amount=3": [
+	{
+      "model": "minecraft:block/wildflowers_3_1",
+	  "y": 180
+    },
+	{
+      "model": "minecraft:block/wildflowers_3_2",
+	  "y": 180
+	}
+    ],
+    "facing=west,flower_amount=3": [
+	{
+      "model": "minecraft:block/wildflowers_3_1",
+	  "y": 270
+    },
+	{
+      "model": "minecraft:block/wildflowers_3_2",
+	  "y": 270
+	}
+    ],
+    "facing=north,flower_amount=4": {
+      "model": "minecraft:block/wildflowers_4"
+    },
+    "facing=east,flower_amount=4": {
+      "model": "minecraft:block/wildflowers_4",
+	  "y": 90
+    },
+    "facing=south,flower_amount=4": {
+      "model": "minecraft:block/wildflowers_4",
+	  "y": 180
+    },
+    "facing=west,flower_amount=4": {
+      "model": "minecraft:block/wildflowers_4",
+	  "y": 270
+    }
+  }
+}
