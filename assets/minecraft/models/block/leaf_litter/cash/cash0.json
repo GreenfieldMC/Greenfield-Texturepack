@@ -8,9 +8,9 @@
 	"elements": [
 		{
 			"name": "coin1",
-			"from": [3, 0, 2],
-			"to": [4.5, 0.5, 3.5],
-			"rotation": {"angle": 0, "axis": "y", "origin": [3, 0, 2]},
+			"from": [4, 0, 10],
+			"to": [5.5, 0.5, 11.5],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [4, 0, 10]},
 			"faces": {
 				"north": {"uv": [0, 2, 2, 3], "texture": "#0"},
 				"east": {"uv": [2, 0, 3, 2], "rotation": 90, "texture": "#0"},
@@ -36,9 +36,9 @@
 		},
 		{
 			"name": "bill",
-			"from": [3, 0.1, 5],
-			"to": [8, 0.1, 7],
-			"rotation": {"angle": -45, "axis": "y", "origin": [3, 0.1, 5]},
+			"from": [4, 0.1, 4],
+			"to": [9, 0.1, 6],
+			"rotation": {"angle": -45, "axis": "y", "origin": [4, 0.1, 4]},
 			"faces": {
 				"up": {"uv": [0, 4, 5, 6], "texture": "#0"},
 				"down": {"uv": [0, 4, 5, 6], "texture": "#0"}
@@ -46,9 +46,9 @@
 		},
 		{
 			"name": "bill_stack",
-			"from": [8.06066, 0.1, 4.97487],
-			"to": [10.06066, 1.1, 9.97487],
-			"rotation": {"angle": -22.5, "axis": "y", "origin": [9.06066, 0.6, 7.47487]},
+			"from": [9.06066, 0.1, 4.97487],
+			"to": [11.06066, 1.1, 9.97487],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [10.06066, 0.6, 7.47487]},
 			"faces": {
 				"north": {"uv": [0, 6, 2, 10], "texture": "#0"},
 				"east": {"uv": [0, 6, 5, 10], "texture": "#0"},

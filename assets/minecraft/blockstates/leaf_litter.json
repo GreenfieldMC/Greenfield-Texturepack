@@ -15644,10 +15644,43 @@
 	
 
     ],
-	"facing=south,segment_amount=1": {
-      "model": "minecraft:block/wildflowers_1",
-	  "y": 180
-    },
+	"facing=north,segment_amount=4": [
+	{"model": "minecraft:block/leaf_litter/openbook/openbook0"},
+	{"model": "minecraft:block/leaf_litter/openbook/openbook1"},
+	{"model": "minecraft:block/leaf_litter/openbook/openbook2"},
+	{"model": "minecraft:block/leaf_litter/openbook/openbook3"},
+	{"model": "minecraft:block/leaf_litter/openbook/openmagazine0"},
+	{"model": "minecraft:block/leaf_litter/openbook/openmagazine1"},
+	{"model": "minecraft:block/leaf_litter/openbook/openmagazine2"},
+	{"model": "minecraft:block/leaf_litter/openbook/openmagazine3"},
+	
+	{"model": "minecraft:block/leaf_litter/openbook/openbook0","y": 90},
+	{"model": "minecraft:block/leaf_litter/openbook/openbook1","y": 90},
+	{"model": "minecraft:block/leaf_litter/openbook/openbook2","y": 90},
+	{"model": "minecraft:block/leaf_litter/openbook/openbook3","y": 90},
+	{"model": "minecraft:block/leaf_litter/openbook/openmagazine0","y": 90},
+	{"model": "minecraft:block/leaf_litter/openbook/openmagazine1","y": 90},
+	{"model": "minecraft:block/leaf_litter/openbook/openmagazine2","y": 90},
+	{"model": "minecraft:block/leaf_litter/openbook/openmagazine3","y": 90},
+	
+	{"model": "minecraft:block/leaf_litter/openbook/openbook0","y": 180},
+	{"model": "minecraft:block/leaf_litter/openbook/openbook1","y": 180},
+	{"model": "minecraft:block/leaf_litter/openbook/openbook2","y": 180},
+	{"model": "minecraft:block/leaf_litter/openbook/openbook3","y": 180},
+	{"model": "minecraft:block/leaf_litter/openbook/openmagazine0","y": 180},
+	{"model": "minecraft:block/leaf_litter/openbook/openmagazine1","y": 180},
+	{"model": "minecraft:block/leaf_litter/openbook/openmagazine2","y": 180},
+	{"model": "minecraft:block/leaf_litter/openbook/openmagazine3","y": 180},
+	
+	{"model": "minecraft:block/leaf_litter/openbook/openbook0","y": 270},
+	{"model": "minecraft:block/leaf_litter/openbook/openbook1","y": 270},
+	{"model": "minecraft:block/leaf_litter/openbook/openbook2","y": 270},
+	{"model": "minecraft:block/leaf_litter/openbook/openbook3","y": 270},
+	{"model": "minecraft:block/leaf_litter/openbook/openmagazine0","y": 270},
+	{"model": "minecraft:block/leaf_litter/openbook/openmagazine1","y": 270},
+	{"model": "minecraft:block/leaf_litter/openbook/openmagazine2","y": 270},
+	{"model": "minecraft:block/leaf_litter/openbook/openmagazine3","y": 270}
+	],
     "facing=west,segment_amount=1": {
       "model": "minecraft:block/wildflowers_1",
 	  "y": 270
@@ -15675,30 +15708,40 @@
       "model": "minecraft:block/wildflowers_3_2"
     }
 	],
-    "facing=west,segment_amount=3": [
-	{
-      "model": "minecraft:block/wildflowers_3_1",
-	  "y": 270
-    },
-	{
-      "model": "minecraft:block/wildflowers_3_2",
-	  "y": 270
-	}
-    ],
-    "facing=north,segment_amount=4": {
+    "facing=south,segment_amount=4": [
+	{"model": "minecraft:block/leaf_litter/cash/cash0"},
+	{"model": "minecraft:block/leaf_litter/cash/cash1"},
+	{"model": "minecraft:block/leaf_litter/cash/cash2"},
+	{"model": "minecraft:block/leaf_litter/cash/cash3"},
+	
+	{"model": "minecraft:block/leaf_litter/cash/cash0","y": 90},
+	{"model": "minecraft:block/leaf_litter/cash/cash1","y": 90},
+	{"model": "minecraft:block/leaf_litter/cash/cash2","y": 90},
+	{"model": "minecraft:block/leaf_litter/cash/cash3","y": 90},
+	
+	{"model": "minecraft:block/leaf_litter/cash/cash0","y": 180},
+	{"model": "minecraft:block/leaf_litter/cash/cash1","y": 180},
+	{"model": "minecraft:block/leaf_litter/cash/cash2","y": 180},
+	{"model": "minecraft:block/leaf_litter/cash/cash3","y": 180},
+	
+	{"model": "minecraft:block/leaf_litter/cash/cash0","y": 270},
+	{"model": "minecraft:block/leaf_litter/cash/cash1","y": 270},
+	{"model": "minecraft:block/leaf_litter/cash/cash2","y": 270},
+	{"model": "minecraft:block/leaf_litter/cash/cash3","y": 270}
+	],
+    "facing=south,segment_amount=1": {
       "model": "minecraft:block/wildflowers_4"
     },
     "facing=east,segment_amount=4": {
       "model": "minecraft:block/wildflowers_4",
 	  "y": 90
     },
-    "facing=south,segment_amount=4": {
+    "facing=west,segment_amount=4": {
       "model": "minecraft:block/wildflowers_4",
 	  "y": 180
     },
     "facing=west,segment_amount=4": {
-      "model": "minecraft:block/wildflowers_4",
-	  "y": 270
+      "model": "minecraft:block/leaf_litter_1"
     }
   }
 }
