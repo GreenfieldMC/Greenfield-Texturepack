@@ -1,0 +1,181 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+	"index": 0,
+    "cases": [
+      {
+        "when": "disabled_slots",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/armor_stand_disabled_slots"
+        }
+      },
+      {
+        "when": "enabled_slots",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/armor_stand_enabled_slots"
+        }
+      },
+      {
+        "when": "small_size",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/armor_stand_small_size"
+        }
+      },
+      {
+        "when": "large_size",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/armor_stand_large_size"
+        }
+      },
+      {
+        "when": "base_plate",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/armor_stand_base_plate"
+        }
+      },
+      {
+        "when": "no_base_plate",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/armor_stand_no_base_plate"
+        }
+      },
+      {
+        "when": "glowing_visible",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/armor_stand_glowing_visible"
+        }
+      },
+      {
+        "when": "glowing_invisible",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/armor_stand_glowing_invisible"
+        }
+      },
+      {
+        "when": "visible",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/armor_stand_visible"
+        }
+      },
+      {
+        "when": "invisible",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/armor_stand_invisible"
+        }
+      },
+      {
+        "when": "arms",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/armor_stand_arms"
+        }
+      },
+      {
+        "when": "no_arms",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/armor_stand_no_arms"
+        }
+      },
+      {
+        "when": "rotate",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/armor_stand_rotate"
+        }
+      },
+      {
+        "when": "pose_head",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/armor_stand_pose_head"
+        }
+      },
+      {
+        "when": "copy",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/armor_stand_copy"
+        }
+      },
+      {
+        "when": "pose_default",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/poses/armor_stand_pose_default"
+        }
+      },
+      {
+        "when": "pose_hero",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/poses/armor_stand_pose_hero"
+        }
+      },
+      {
+        "when": "pose_hold",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/poses/armor_stand_pose_hold"
+        }
+      },
+      {
+        "when": "pose_legless",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/poses/armor_stand_pose_legless"
+        }
+      },
+      {
+        "when": "pose_point_left",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/poses/armor_stand_pose_point_left"
+        }
+      },
+      {
+        "when": "pose_point_right",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/poses/armor_stand_pose_point_right"
+        }
+      },
+      {
+        "when": "pose_sit",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/poses/armor_stand_pose_sit"
+        }
+      },
+      {
+        "when": "pose_t_pose",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/poses/armor_stand_pose_t_pose"
+        }
+      },
+      {
+        "when": "pose_walk",
+        "model": {
+          "type": "model",
+          "model": "item/armor_stand/poses/armor_stand_pose_walk"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/armor_stand"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/armor_stand/poses/armor_stand_pose_sit"
+  }
+}
