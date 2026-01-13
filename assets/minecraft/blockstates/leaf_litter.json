@@ -15681,10 +15681,27 @@
 	{"model": "minecraft:block/leaf_litter/openbook/openmagazine2","y": 270},
 	{"model": "minecraft:block/leaf_litter/openbook/openmagazine3","y": 270}
 	],
-    "facing=west,segment_amount=1": {
-      "model": "minecraft:block/wildflowers_1",
-	  "y": 270
-    },
+    "facing=east,segment_amount=1": [
+      {"model": "minecraft:block/leaf_litter/office1/office1_0"},
+	  {"model": "minecraft:block/leaf_litter/office1/office1_1"},
+	  {"model": "minecraft:block/leaf_litter/office1/office1_2"},
+	  {"model": "minecraft:block/leaf_litter/office1/office1_3"},
+	  
+	  {"model": "minecraft:block/leaf_litter/office1/office1_0","y": 90},
+	  {"model": "minecraft:block/leaf_litter/office1/office1_1","y": 90},
+	  {"model": "minecraft:block/leaf_litter/office1/office1_2","y": 90},
+	  {"model": "minecraft:block/leaf_litter/office1/office1_3","y": 90},
+	  
+	  {"model": "minecraft:block/leaf_litter/office1/office1_0","y": 180},
+	  {"model": "minecraft:block/leaf_litter/office1/office1_1","y": 180},
+	  {"model": "minecraft:block/leaf_litter/office1/office1_2","y": 180},
+	  {"model": "minecraft:block/leaf_litter/office1/office1_3","y": 180},
+	  
+	  {"model": "minecraft:block/leaf_litter/office1/office1_0","y": 270},
+	  {"model": "minecraft:block/leaf_litter/office1/office1_1","y": 270},
+	  {"model": "minecraft:block/leaf_litter/office1/office1_2","y": 270},
+	  {"model": "minecraft:block/leaf_litter/office1/office1_3","y": 270}
+    ],
     "facing=east,segment_amount=2": {
       "model": "minecraft:block/wildflowers_2"
     },
