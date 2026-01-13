@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/leaf_litter/books/2_2books",
+  "textures": {
+    "0": "minecraft:block/leaf_litter/bookback1",
+	"1": "minecraft:block/leaf_litter/bookback7"
+  }
+}
