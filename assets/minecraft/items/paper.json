@@ -1,0 +1,118 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+	"index": 0,
+    "cases": [
+      {
+        "when": "lock",
+        "model": {
+          "type": "model",
+          "model": "item/custom_buttons/armor_stand/armor_stand_lock"
+        }
+      },
+      {
+        "when": "lock",
+        "model": {
+          "type": "model",
+          "model": "item/custom_buttons/armor_stand/armor_stand_lock"
+        }
+      },
+      {
+        "when": "show",
+        "model": {
+          "type": "model",
+          "model": "item/custom_buttons/armor_stand/armor_stand_show"
+        }
+      },
+      {
+        "when": "hide",
+        "model": {
+          "type": "model",
+          "model": "item/custom_buttons/armor_stand/armor_stand_hide"
+        }
+      },
+      {
+        "when": "base_plate",
+        "model": {
+          "type": "model",
+          "model": "item/custom_buttons/armor_stand/armor_stand_base_plate"
+        }
+      },
+      {
+        "when": "no_base_plate",
+        "model": {
+          "type": "model",
+          "model": "item/custom_buttons/armor_stand/armor_stand_no_base_plate"
+        }
+      },
+      {
+        "when": "arms",
+        "model": {
+          "type": "model",
+          "model": "item/custom_buttons/armor_stand/armor_stand_arms"
+        }
+      },
+      {
+        "when": "no_arms",
+        "model": {
+          "type": "model",
+          "model": "item/custom_buttons/armor_stand/armor_stand_no_arms"
+        }
+      },
+      {
+        "when": "baby",
+        "model": {
+          "type": "model",
+          "model": "item/custom_buttons/armor_stand/armor_stand_baby"
+        }
+      },
+      {
+        "when": "teen",
+        "model": {
+          "type": "model",
+          "model": "item/custom_buttons/armor_stand/armor_stand_teen"
+        }
+      },
+      {
+        "when": "adult",
+        "model": {
+          "type": "model",
+          "model": "item/custom_buttons/armor_stand/armor_stand_adult"
+        }
+      },
+      {
+        "when": "pose",
+        "model": {
+          "type": "model",
+          "model": "item/custom_buttons/armor_stand/armor_stand_pose"
+        }
+      },
+      {
+        "when": "rotate",
+        "model": {
+          "type": "model",
+          "model": "item/custom_buttons/armor_stand/armor_stand_rotate"
+        }
+      },
+      {
+        "when": "slots",
+        "model": {
+          "type": "model",
+          "model": "item/custom_buttons/armor_stand/armor_stand_slots"
+        }
+      },
+      {
+        "when": "copy",
+        "model": {
+          "type": "model",
+          "model": "item/custom_buttons/armor_stand/armor_stand_copy"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/paper"
+    }
+  }
+}
