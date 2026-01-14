@@ -15760,15 +15760,57 @@
 	  {"model": "minecraft:block/leaf_litter/devices/devices2_1","y": 270},
 	  {"model": "minecraft:block/leaf_litter/devices/devices3_1","y": 270}
     ],
-    "facing=south,segment_amount=2": {
-      "model": "minecraft:block/wildflowers_2",
-	  "y": 180
-    },
-    "facing=west,segment_amount=2": {
-      "model": "minecraft:block/wildflowers_2",
-	  "y": 270
-    },
     "facing=east,segment_amount=4": [
+      {"model": "minecraft:block/leaf_litter/dishes/dishes0"},
+	  {"model": "minecraft:block/leaf_litter/dishes/dishes1"},
+	  {"model": "minecraft:block/leaf_litter/dishes/dishes2"},
+	  {"model": "minecraft:block/leaf_litter/dishes/dishes3"},
+	  
+	  {"model": "minecraft:block/leaf_litter/dishes/dishes0","y": 90},
+	  {"model": "minecraft:block/leaf_litter/dishes/dishes1","y": 90},
+	  {"model": "minecraft:block/leaf_litter/dishes/dishes2","y": 90},
+	  {"model": "minecraft:block/leaf_litter/dishes/dishes3","y": 90},
+	  
+	  {"model": "minecraft:block/leaf_litter/dishes/dishes0","y": 180},
+	  {"model": "minecraft:block/leaf_litter/dishes/dishes1","y": 180},
+	  {"model": "minecraft:block/leaf_litter/dishes/dishes2","y": 180},
+	  {"model": "minecraft:block/leaf_litter/dishes/dishes3","y": 180},
+	  
+	  {"model": "minecraft:block/leaf_litter/dishes/dishes0","y": 270},
+	  {"model": "minecraft:block/leaf_litter/dishes/dishes1","y": 270},
+	  {"model": "minecraft:block/leaf_litter/dishes/dishes2","y": 270},
+	  {"model": "minecraft:block/leaf_litter/dishes/dishes3","y": 270}
+    ],
+    "facing=south,segment_amount=1": [
+      {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil0"},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil1"},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil2"},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil3"},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil4"},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil5"},
+	  
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil0","y": 90},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil1","y": 90},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil2","y": 90},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil3","y": 90},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil4","y": 90},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil5","y": 90},
+	  
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil0","y": 180},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil1","y": 180},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil2","y": 180},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil3","y": 180},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil4","y": 180},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil5","y": 180},
+	  
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil0","y": 270},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil1","y": 270},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil2","y": 270},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil3","y": 270},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil4","y": 270},
+	  {"model": "minecraft:block/leaf_litter/cookingutensils/cookingutensil5","y": 270}
+    ],
+    "facing=west,segment_amount=4": [
 	{
       "model": "minecraft:block/wildflowers_3_1"
     },
@@ -15797,10 +15839,10 @@
 	{"model": "minecraft:block/leaf_litter/cash/cash2","y": 270},
 	{"model": "minecraft:block/leaf_litter/cash/cash3","y": 270}
 	],
-    "facing=south,segment_amount=1": {
+    "facing=south,segment_amount=4": {
       "model": "minecraft:block/wildflowers_4"
     },
-    "facing=east,segment_amount=4": {
+    "facing=west,segment_amount=4": {
       "model": "minecraft:block/wildflowers_4",
 	  "y": 90
     },
