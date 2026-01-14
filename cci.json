@@ -358,6 +358,333 @@
       "icon": "cherry_planks",
       "entries": [{ "itemName": "minecraft:black_wool" }]
     },
+	{
+		"displayName": "Shelving",
+		"registryKey": "shelving_blocks",
+		"icon": "bookshelf",
+		"entries": [
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "false", "slot_2_occupied": "false", "slot_3_occupied": "false", "slot_4_occupied": "false", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_0"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "true", "slot_2_occupied": "false", "slot_3_occupied": "false", "slot_4_occupied": "false", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_1"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "false", "slot_2_occupied": "true", "slot_3_occupied": "false", "slot_4_occupied": "false", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_2"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "true", "slot_2_occupied": "true", "slot_3_occupied": "false", "slot_4_occupied": "false", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_3"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "false", "slot_2_occupied": "false", "slot_3_occupied": "true", "slot_4_occupied": "false", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_4"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "true", "slot_2_occupied": "false", "slot_3_occupied": "true", "slot_4_occupied": "false", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_5"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "false", "slot_2_occupied": "true", "slot_3_occupied": "true", "slot_4_occupied": "false", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_6"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "true", "slot_2_occupied": "true", "slot_3_occupied": "true", "slot_4_occupied": "false", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_7"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "false", "slot_2_occupied": "false", "slot_3_occupied": "false", "slot_4_occupied": "true", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_8"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "true", "slot_2_occupied": "false", "slot_3_occupied": "false", "slot_4_occupied": "true", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_9"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "false", "slot_2_occupied": "true", "slot_3_occupied": "false", "slot_4_occupied": "true", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_10"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "true", "slot_2_occupied": "true", "slot_3_occupied": "false", "slot_4_occupied": "true", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_11"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "false", "slot_2_occupied": "false", "slot_3_occupied": "true", "slot_4_occupied": "true", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_12"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "true", "slot_2_occupied": "false", "slot_3_occupied": "true", "slot_4_occupied": "true", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_13"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "false", "slot_2_occupied": "true", "slot_3_occupied": "true", "slot_4_occupied": "true", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_14"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "true", "slot_2_occupied": "true", "slot_3_occupied": "true", "slot_4_occupied": "true", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_15"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "false", "slot_2_occupied": "false", "slot_3_occupied": "false", "slot_4_occupied": "false", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_16"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "true", "slot_2_occupied": "false", "slot_3_occupied": "false", "slot_4_occupied": "false", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_17"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "false", "slot_2_occupied": "true", "slot_3_occupied": "false", "slot_4_occupied": "false", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_18"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "true", "slot_2_occupied": "true", "slot_3_occupied": "false", "slot_4_occupied": "false", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_19"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "false", "slot_2_occupied": "false", "slot_3_occupied": "true", "slot_4_occupied": "false", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_20"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "true", "slot_2_occupied": "false", "slot_3_occupied": "true", "slot_4_occupied": "false", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_21"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "false", "slot_2_occupied": "true", "slot_3_occupied": "true", "slot_4_occupied": "false", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_22"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "true", "slot_2_occupied": "true", "slot_3_occupied": "true", "slot_4_occupied": "false", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_23"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "false", "slot_2_occupied": "false", "slot_3_occupied": "false", "slot_4_occupied": "true", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_24"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "true", "slot_2_occupied": "false", "slot_3_occupied": "false", "slot_4_occupied": "true", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_25"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "false", "slot_2_occupied": "true", "slot_3_occupied": "false", "slot_4_occupied": "true", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_26"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "true", "slot_2_occupied": "true", "slot_3_occupied": "false", "slot_4_occupied": "true", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_27"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "false", "slot_2_occupied": "false", "slot_3_occupied": "true", "slot_4_occupied": "true", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_28"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "true", "slot_2_occupied": "false", "slot_3_occupied": "true", "slot_4_occupied": "true", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_29"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "false", "slot_2_occupied": "true", "slot_3_occupied": "true", "slot_4_occupied": "true", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_30"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "false", "slot_1_occupied": "true", "slot_2_occupied": "true", "slot_3_occupied": "true", "slot_4_occupied": "true", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type1_31"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "false", "slot_2_occupied": "false", "slot_3_occupied": "false", "slot_4_occupied": "false", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_0"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "true", "slot_2_occupied": "false", "slot_3_occupied": "false", "slot_4_occupied": "false", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_1"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "false", "slot_2_occupied": "true", "slot_3_occupied": "false", "slot_4_occupied": "false", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_2"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "true", "slot_2_occupied": "true", "slot_3_occupied": "false", "slot_4_occupied": "false", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_3"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "false", "slot_2_occupied": "false", "slot_3_occupied": "true", "slot_4_occupied": "false", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_4"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "true", "slot_2_occupied": "false", "slot_3_occupied": "true", "slot_4_occupied": "false", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_5"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "false", "slot_2_occupied": "true", "slot_3_occupied": "true", "slot_4_occupied": "false", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_6"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "true", "slot_2_occupied": "true", "slot_3_occupied": "true", "slot_4_occupied": "false", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_7"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "false", "slot_2_occupied": "false", "slot_3_occupied": "false", "slot_4_occupied": "true", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_8"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "true", "slot_2_occupied": "false", "slot_3_occupied": "false", "slot_4_occupied": "true", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_9"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "false", "slot_2_occupied": "true", "slot_3_occupied": "false", "slot_4_occupied": "true", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_10"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "true", "slot_2_occupied": "true", "slot_3_occupied": "false", "slot_4_occupied": "true", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_11"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "false", "slot_2_occupied": "false", "slot_3_occupied": "true", "slot_4_occupied": "true", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_12"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "true", "slot_2_occupied": "false", "slot_3_occupied": "true", "slot_4_occupied": "true", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_13"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "false", "slot_2_occupied": "true", "slot_3_occupied": "true", "slot_4_occupied": "true", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_14"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "true", "slot_2_occupied": "true", "slot_3_occupied": "true", "slot_4_occupied": "true", "slot_5_occupied": "false" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_15"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "false", "slot_2_occupied": "false", "slot_3_occupied": "false", "slot_4_occupied": "false", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_16"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "true", "slot_2_occupied": "false", "slot_3_occupied": "false", "slot_4_occupied": "false", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_17"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "false", "slot_2_occupied": "true", "slot_3_occupied": "false", "slot_4_occupied": "false", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_18"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "true", "slot_2_occupied": "true", "slot_3_occupied": "false", "slot_4_occupied": "false", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_19"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "false", "slot_2_occupied": "false", "slot_3_occupied": "true", "slot_4_occupied": "false", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_20"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "true", "slot_2_occupied": "false", "slot_3_occupied": "true", "slot_4_occupied": "false", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_21"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "false", "slot_2_occupied": "true", "slot_3_occupied": "true", "slot_4_occupied": "false", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_22"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "true", "slot_2_occupied": "true", "slot_3_occupied": "true", "slot_4_occupied": "false", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_23"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "false", "slot_2_occupied": "false", "slot_3_occupied": "false", "slot_4_occupied": "true", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_24"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "true", "slot_2_occupied": "false", "slot_3_occupied": "false", "slot_4_occupied": "true", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_25"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "false", "slot_2_occupied": "true", "slot_3_occupied": "false", "slot_4_occupied": "true", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_26"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "true", "slot_2_occupied": "true", "slot_3_occupied": "false", "slot_4_occupied": "true", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_27"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "false", "slot_2_occupied": "false", "slot_3_occupied": "true", "slot_4_occupied": "true", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_28"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "true", "slot_2_occupied": "false", "slot_3_occupied": "true", "slot_4_occupied": "true", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_29"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "false", "slot_2_occupied": "true", "slot_3_occupied": "true", "slot_4_occupied": "true", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_30"] }
+			},
+			{
+				"itemName": "minecraft:chiseled_bookshelf",
+				"blockState": { "slot_0_occupied": "true", "slot_1_occupied": "true", "slot_2_occupied": "true", "slot_3_occupied": "true", "slot_4_occupied": "true", "slot_5_occupied": "true" },
+				"customModelData": { "strings": ["chiseled_bookshelf_type2_31"] }
+			}
+		]
+	},
     { 
       "displayName": "White Blocks",
       "registryKey": "white_blocks",
