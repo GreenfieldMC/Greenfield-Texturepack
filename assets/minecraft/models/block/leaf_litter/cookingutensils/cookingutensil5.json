@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/crimson_planks",
-		"3": "block/cyan_terracotta",
+		"3": "block/yellow_terracotta",
 		"4": "block/leaf_litter/cookingutensils",
 		"particle": "block/crimson_planks"
 	},
