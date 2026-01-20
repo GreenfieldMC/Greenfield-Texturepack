@@ -1,0 +1,12 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "block/leaf_litter/ingredients/5ingredients0_0",
+	"textures": {
+		"2": "block/leaf_litter/flour_bag1",
+		"4": "block/leaf_litter/food_cans1",
+		"6": "block/leaf_litter/packaged_bread1",
+		"9": "block/leaf_litter/jar1",
+		"particle": "block/leaf_litter/ingredients0"
+	}
+}
