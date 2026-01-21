@@ -1,8 +1,25 @@
 {
     "variants": {
         "": [
-            { "model": "block/netherite_block" },
-            { "model": "block/netherite_block_mirrored" }
+            { "model": "block/netherite_block_1" },
+            { "model": "block/netherite_block_2" },
+            { "model": "block/netherite_block_3" },
+            { "model": "block/netherite_block_4" },
+            { "model": "block/netherite_block_5" },
+            { "model": "block/netherite_block_6" },
+            { "model": "block/netherite_block_7" },
+            { "model": "block/netherite_block_8" },
+            { "model": "block/netherite_block_9" },
+            { "model": "block/netherite_block_1" },
+            { "model": "block/netherite_block_horizontalmirror_1" },
+            { "model": "block/netherite_block_horizontalmirror_2" },
+            { "model": "block/netherite_block_horizontalmirror_3" },
+            { "model": "block/netherite_block_horizontalmirror_4" },
+            { "model": "block/netherite_block_horizontalmirror_5" },
+            { "model": "block/netherite_block_horizontalmirror_6" },
+            { "model": "block/netherite_block_horizontalmirror_7" },
+            { "model": "block/netherite_block_horizontalmirror_8" },
+            { "model": "block/netherite_block_horizontalmirror_9" }
         ]
     }
 }

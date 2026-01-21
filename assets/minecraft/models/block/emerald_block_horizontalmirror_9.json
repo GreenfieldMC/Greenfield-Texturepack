@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/48xrandomizationhorizontalmirror9",
+	"textures": {
+		"all": "block/emerald_block_base"
+	}
+}
