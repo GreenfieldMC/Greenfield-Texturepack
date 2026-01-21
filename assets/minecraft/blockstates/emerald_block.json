@@ -1,24 +1,24 @@
 {
   "variants": {
     "": [
-      {"model": "block/emerald_block_1" },
-      {"model": "block/emerald_block_2" },
-      {"model": "block/emerald_block_3" },
-      {"model": "block/emerald_block_4" },
-      {"model": "block/emerald_block_5" },
-      {"model": "block/emerald_block_6" },
-      {"model": "block/emerald_block_7" },
-      {"model": "block/emerald_block_8" },
-      {"model": "block/emerald_block_9" },
-      {"model": "block/emerald_block_horizontalmirror_1" },
-      {"model": "block/emerald_block_horizontalmirror_2" },
-      {"model": "block/emerald_block_horizontalmirror_3" },
-      {"model": "block/emerald_block_horizontalmirror_4" },
-      {"model": "block/emerald_block_horizontalmirror_5" },
-      {"model": "block/emerald_block_horizontalmirror_6" },
-      {"model": "block/emerald_block_horizontalmirror_7" },
-      {"model": "block/emerald_block_horizontalmirror_8" },
-      {"model": "block/emerald_block_horizontalmirror_9" }
+      {"model": "block/emerald_block/emerald_block_1" },
+      {"model": "block/emerald_block/emerald_block_2" },
+      {"model": "block/emerald_block/emerald_block_3" },
+      {"model": "block/emerald_block/emerald_block_4" },
+      {"model": "block/emerald_block/emerald_block_5" },
+      {"model": "block/emerald_block/emerald_block_6" },
+      {"model": "block/emerald_block/emerald_block_7" },
+      {"model": "block/emerald_block/emerald_block_8" },
+      {"model": "block/emerald_block/emerald_block_9" },
+      {"model": "block/emerald_block/emerald_block_horizontalmirror_1" },
+      {"model": "block/emerald_block/emerald_block_horizontalmirror_2" },
+      {"model": "block/emerald_block/emerald_block_horizontalmirror_3" },
+      {"model": "block/emerald_block/emerald_block_horizontalmirror_4" },
+      {"model": "block/emerald_block/emerald_block_horizontalmirror_5" },
+      {"model": "block/emerald_block/emerald_block_horizontalmirror_6" },
+      {"model": "block/emerald_block/emerald_block_horizontalmirror_7" },
+      {"model": "block/emerald_block/emerald_block_horizontalmirror_8" },
+      {"model": "block/emerald_block/emerald_block_horizontalmirror_9" }
     ]
   }
 }
