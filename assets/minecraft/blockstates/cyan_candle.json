@@ -1,31 +1,31 @@
 {
   "variants": {
     "candles=1,lit=true": {
-      "model": "minecraft:block/cyan_candle_dirty"
+      "model": "minecraft:block/cyan/cyan_candle_dirty"
     },
     "candles=2,lit=true": {
-      "model": "minecraft:block/cyan_candle_dirty",
+      "model": "minecraft:block/cyan/cyan_candle_dirty",
 	  "y": 90
     },
     "candles=3,lit=true": {
-      "model": "minecraft:block/cyan_candle_clean"
+      "model": "minecraft:block/cyan/cyan_candle_clean"
     },
     "candles=4,lit=true": {
-      "model": "minecraft:block/cyan_candle_clean",
+      "model": "minecraft:block/cyan/cyan_candle_clean",
 	  "y": 90
     },
     "candles=1,lit=false": {
-      "model": "minecraft:block/cyan_candle_dirty_off"
+      "model": "minecraft:block/cyan/cyan_candle_dirty_off"
     },
     "candles=2,lit=false": {
-      "model": "minecraft:block/cyan_candle_dirty_off",
+      "model": "minecraft:block/cyan/cyan_candle_dirty_off",
 	  "y": 90
     },
     "candles=3,lit=false": {
-      "model": "minecraft:block/cyan_candle_clean_off"
+      "model": "minecraft:block/cyan/cyan_candle_clean_off"
     },
     "candles=4,lit=false": {
-      "model": "minecraft:block/cyan_candle_clean_off",
+      "model": "minecraft:block/cyan/cyan_candle_clean_off",
 	  "y": 90
     }
   }

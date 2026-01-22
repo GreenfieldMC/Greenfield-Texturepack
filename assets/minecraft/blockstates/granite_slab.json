@@ -2,39 +2,39 @@
   "variants": {
   "type=bottom": 
     [
-      {"model": "block/granite_slab_bottom_1" },
-      {"model": "block/granite_slab_bottom_2" },
-      {"model": "block/granite_slab_bottom_3" },
-      {"model": "block/granite_slab_bottom_4" },
-      {"model": "block/granite_slab_bottom_5" },
-      {"model": "block/granite_slab_bottom_6" },
-      {"model": "block/granite_slab_bottom_7" },
-      {"model": "block/granite_slab_bottom_8" },
-      {"model": "block/granite_slab_bottom_9" }
+      {"model": "block/granite/granite_slab_bottom_1" },
+      {"model": "block/granite/granite_slab_bottom_2" },
+      {"model": "block/granite/granite_slab_bottom_3" },
+      {"model": "block/granite/granite_slab_bottom_4" },
+      {"model": "block/granite/granite_slab_bottom_5" },
+      {"model": "block/granite/granite_slab_bottom_6" },
+      {"model": "block/granite/granite_slab_bottom_7" },
+      {"model": "block/granite/granite_slab_bottom_8" },
+      {"model": "block/granite/granite_slab_bottom_9" }
     ],
 	  "type=top": 
     [
-      {"model": "block/granite_slab_top_1" },
-      {"model": "block/granite_slab_top_2" },
-      {"model": "block/granite_slab_top_3" },
-      {"model": "block/granite_slab_top_4" },
-      {"model": "block/granite_slab_top_5" },
-      {"model": "block/granite_slab_top_6" },
-      {"model": "block/granite_slab_top_7" },
-      {"model": "block/granite_slab_top_8" },
-      {"model": "block/granite_slab_top_9" }
+      {"model": "block/granite/granite_slab_top_1" },
+      {"model": "block/granite/granite_slab_top_2" },
+      {"model": "block/granite/granite_slab_top_3" },
+      {"model": "block/granite/granite_slab_top_4" },
+      {"model": "block/granite/granite_slab_top_5" },
+      {"model": "block/granite/granite_slab_top_6" },
+      {"model": "block/granite/granite_slab_top_7" },
+      {"model": "block/granite/granite_slab_top_8" },
+      {"model": "block/granite/granite_slab_top_9" }
     ],
     "type=double":
     [
-      {"model": "block/granite_1" },
-      {"model": "block/granite_2" },
-      {"model": "block/granite_3" },
-      {"model": "block/granite_4" },
-      {"model": "block/granite_5" },
-      {"model": "block/granite_6" },
-      {"model": "block/granite_7" },
-      {"model": "block/granite_8" },
-      {"model": "block/granite_9" }
+      {"model": "block/granite/granite_1" },
+      {"model": "block/granite/granite_2" },
+      {"model": "block/granite/granite_3" },
+      {"model": "block/granite/granite_4" },
+      {"model": "block/granite/granite_5" },
+      {"model": "block/granite/granite_6" },
+      {"model": "block/granite/granite_7" },
+      {"model": "block/granite/granite_8" },
+      {"model": "block/granite/granite_9" }
     ]
   }
 }

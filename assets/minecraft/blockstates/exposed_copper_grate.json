@@ -1,7 +1,7 @@
 {
     "variants": {
         "": [
-			{ "model": "block/exposed_copper_grate" }
+			{ "model": "block/exposed_copper/exposed_copper_grate" }
 		]
     }
 }
