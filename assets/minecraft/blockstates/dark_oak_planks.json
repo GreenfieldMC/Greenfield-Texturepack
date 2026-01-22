@@ -1,15 +1,15 @@
 {
   "variants": {
     "": [
-      {"model": "block/dark_oak_planks_1" },
-      {"model": "block/dark_oak_planks_2" },
-      {"model": "block/dark_oak_planks_3" },
-      {"model": "block/dark_oak_planks_4" },
-      {"model": "block/dark_oak_planks_5" },
-      {"model": "block/dark_oak_planks_6" },
-      {"model": "block/dark_oak_planks_7" },
-      {"model": "block/dark_oak_planks_8" },
-      {"model": "block/dark_oak_planks_9" }
+      {"model": "block/dark_oak/dark_oak_planks_1" },
+      {"model": "block/dark_oak/dark_oak_planks_2" },
+      {"model": "block/dark_oak/dark_oak_planks_3" },
+      {"model": "block/dark_oak/dark_oak_planks_4" },
+      {"model": "block/dark_oak/dark_oak_planks_5" },
+      {"model": "block/dark_oak/dark_oak_planks_6" },
+      {"model": "block/dark_oak/dark_oak_planks_7" },
+      {"model": "block/dark_oak/dark_oak_planks_8" },
+      {"model": "block/dark_oak/dark_oak_planks_9" }
     ]
   }
 }

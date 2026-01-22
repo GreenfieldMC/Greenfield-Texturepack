@@ -1,15 +1,15 @@
 {
   "variants": {
     "": [
-      {"model": "block/crimson_planks_1" },
-      {"model": "block/crimson_planks_2" },
-      {"model": "block/crimson_planks_3" },
-      {"model": "block/crimson_planks_4" },
-      {"model": "block/crimson_planks_5" },
-      {"model": "block/crimson_planks_6" },
-      {"model": "block/crimson_planks_7" },
-      {"model": "block/crimson_planks_8" },
-      {"model": "block/crimson_planks_9" }
+      {"model": "block/crimson/crimson_planks_1" },
+      {"model": "block/crimson/crimson_planks_2" },
+      {"model": "block/crimson/crimson_planks_3" },
+      {"model": "block/crimson/crimson_planks_4" },
+      {"model": "block/crimson/crimson_planks_5" },
+      {"model": "block/crimson/crimson_planks_6" },
+      {"model": "block/crimson/crimson_planks_7" },
+      {"model": "block/crimson/crimson_planks_8" },
+      {"model": "block/crimson/crimson_planks_9" }
     ]
   }
 }
