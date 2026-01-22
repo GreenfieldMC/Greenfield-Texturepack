@@ -1,14 +1,19 @@
 {
   "variants": {
     "axis=x": {
-      "model": "minecraft:block/stripped_cherry_log_x",
+      "model": "minecraft:block/stripped_cherry_log/stripped_cherry_log_x",
 	  "y": 180
     },
     "axis=y": {
-      "model": "minecraft:block/stripped_cherry_log_y"
+      "model": "minecraft:block/stripped_cherry_log/stripped_cherry_log_y"
     },
     "axis=z": {
-      "model": "minecraft:block/stripped_cherry_log_z"
+      "model": "minecraft:block/stripped_cherry_log/stripped_cherry_log_z"
     }
   }
 }
+
+
+
+
+

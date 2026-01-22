@@ -1,15 +1,20 @@
 {
   "variants": {
     "": [
-      {"model": "block/blackstone_1" },
-      {"model": "block/blackstone_2" },
-      {"model": "block/blackstone_3" },
-      {"model": "block/blackstone_4" },
-      {"model": "block/blackstone_5" },
-      {"model": "block/blackstone_6" },
-      {"model": "block/blackstone_7" },
-      {"model": "block/blackstone_8" },
-      {"model": "block/blackstone_9" }
+      {"model": "block/blackstone/blackstone_1" },
+      {"model": "block/blackstone/blackstone_2" },
+      {"model": "block/blackstone/blackstone_3" },
+      {"model": "block/blackstone/blackstone_4" },
+      {"model": "block/blackstone/blackstone_5" },
+      {"model": "block/blackstone/blackstone_6" },
+      {"model": "block/blackstone/blackstone_7" },
+      {"model": "block/blackstone/blackstone_8" },
+      {"model": "block/blackstone/blackstone_9" }
     ]
   }
 }
+
+
+
+
+

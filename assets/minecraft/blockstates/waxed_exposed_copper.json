@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/waxed_exposed_copper/waxed_exposed_copper_1" },
+			{ "model": "block/waxed_exposed_copper/waxed_exposed_copper_2" },
+			{ "model": "block/waxed_exposed_copper/waxed_exposed_copper_3" },
+			{ "model": "block/waxed_exposed_copper/waxed_exposed_copper_4" },
+			{ "model": "block/waxed_exposed_copper/waxed_exposed_copper_5" },
+			{ "model": "block/waxed_exposed_copper/waxed_exposed_copper_6" },
+			{ "model": "block/waxed_exposed_copper/waxed_exposed_copper_7" },
+			{ "model": "block/waxed_exposed_copper/waxed_exposed_copper_8" },
+			{ "model": "block/waxed_exposed_copper/waxed_exposed_copper_9" }			
+		]
+    }
+}
+
+
+
+
+

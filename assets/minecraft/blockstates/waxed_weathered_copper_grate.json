@@ -1,7 +1,12 @@
 {
     "variants": {
         "": [
-			{ "model": "block/waxed_weathered_copper_grate" }
+			{ "model": "block/waxed_weathered_copper_grate/waxed_weathered_copper_grate" }
 		]
     }
 }
+
+
+
+
+

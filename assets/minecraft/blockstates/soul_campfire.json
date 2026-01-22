@@ -1,34 +1,39 @@
 {
   "variants": {
     "facing=east,lit=false": {
-      "model": "minecraft:block/soul_campfire",
+      "model": "minecraft:block/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire",
       "y": 270
     },
     "facing=east,lit=true": {
-      "model": "minecraft:block/soul_campfire",
+      "model": "minecraft:block/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire",
       "y": 270
     },
     "facing=north,lit=false": {
-      "model": "minecraft:block/soul_campfire",
+      "model": "minecraft:block/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire",
       "y": 180
     },
     "facing=north,lit=true": {
-      "model": "minecraft:block/soul_campfire",
+      "model": "minecraft:block/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire",
       "y": 180
     },
     "facing=south,lit=false": {
-      "model": "minecraft:block/soul_campfire"
+      "model": "minecraft:block/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire"
     },
     "facing=south,lit=true": {
-      "model": "minecraft:block/soul_campfire"
+      "model": "minecraft:block/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire"
     },
     "facing=west,lit=false": {
-      "model": "minecraft:block/soul_campfire",
+      "model": "minecraft:block/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire",
       "y": 90
     },
     "facing=west,lit=true": {
-      "model": "minecraft:block/soul_campfire",
+      "model": "minecraft:block/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire/soul_campfire",
       "y": 90
     }
   }
 }
+
+
+
+
+

@@ -1,7 +1,12 @@
 {
     "variants": {
         "": [
-			{ "model": "block/waxed_exposed_copper_grate" }
+			{ "model": "block/waxed_exposed_copper_grate/waxed_exposed_copper_grate" }
 		]
     }
 }
+
+
+
+
+

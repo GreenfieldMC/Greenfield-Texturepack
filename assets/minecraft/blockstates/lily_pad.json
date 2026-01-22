@@ -2,35 +2,40 @@
   "variants": {
     "": [
       {
-        "model": "minecraft:block/lily_pad"
+        "model": "minecraft:block/lily_pad/lily_pad/lily_pad/lily_pad/lily_pad"
       },
       {
-        "model": "minecraft:block/lily_pad",
+        "model": "minecraft:block/lily_pad/lily_pad/lily_pad/lily_pad/lily_pad",
         "y": 90
       },
       {
-        "model": "minecraft:block/lily_pad",
+        "model": "minecraft:block/lily_pad/lily_pad/lily_pad/lily_pad/lily_pad",
         "y": 180
       },
       {
-        "model": "minecraft:block/lily_pad",
+        "model": "minecraft:block/lily_pad/lily_pad/lily_pad/lily_pad/lily_pad",
         "y": 270
       },
 	  {
-        "model": "minecraft:block/lily_pad_flower"
+        "model": "minecraft:block/lily_pad/lily_pad/lily_pad/lily_pad/lily_pad_flower"
       },
       {
-        "model": "minecraft:block/lily_pad_flower",
+        "model": "minecraft:block/lily_pad/lily_pad/lily_pad/lily_pad/lily_pad_flower",
         "y": 90
       },
       {
-        "model": "minecraft:block/lily_pad_flower",
+        "model": "minecraft:block/lily_pad/lily_pad/lily_pad/lily_pad/lily_pad_flower",
         "y": 180
       },
       {
-        "model": "minecraft:block/lily_pad_flower",
+        "model": "minecraft:block/lily_pad/lily_pad/lily_pad/lily_pad/lily_pad_flower",
         "y": 270
       }
     ]
   }
 }
+
+
+
+
+

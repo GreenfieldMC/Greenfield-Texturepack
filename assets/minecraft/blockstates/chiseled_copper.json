@@ -1,15 +1,20 @@
 {
     "variants": {
         "": [
-			{ "model": "block/chiseled_copper_1" },
-			{ "model": "block/chiseled_copper_2" },
-			{ "model": "block/chiseled_copper_3" },
-			{ "model": "block/chiseled_copper_4" },
-			{ "model": "block/chiseled_copper_5" },
-			{ "model": "block/chiseled_copper_6" },
-			{ "model": "block/chiseled_copper_7" },
-			{ "model": "block/chiseled_copper_8" },
-			{ "model": "block/chiseled_copper_9" }
+			{ "model": "block/chiseled_copper/chiseled_copper_1" },
+			{ "model": "block/chiseled_copper/chiseled_copper_2" },
+			{ "model": "block/chiseled_copper/chiseled_copper_3" },
+			{ "model": "block/chiseled_copper/chiseled_copper_4" },
+			{ "model": "block/chiseled_copper/chiseled_copper_5" },
+			{ "model": "block/chiseled_copper/chiseled_copper_6" },
+			{ "model": "block/chiseled_copper/chiseled_copper_7" },
+			{ "model": "block/chiseled_copper/chiseled_copper_8" },
+			{ "model": "block/chiseled_copper/chiseled_copper_9" }
 		]
     }
 }
+
+
+
+
+

@@ -1,15 +1,20 @@
 {
   "variants": {
     "": [
-      {"model": "block/mud_1" },
-      {"model": "block/mud_2" },
-      {"model": "block/mud_3" },
-      {"model": "block/mud_4" },
-      {"model": "block/mud_5" },
-      {"model": "block/mud_6" },
-      {"model": "block/mud_7" },
-      {"model": "block/mud_8" },
-      {"model": "block/mud_9" }
+      {"model": "block/mud/mud_1" },
+      {"model": "block/mud/mud_2" },
+      {"model": "block/mud/mud_3" },
+      {"model": "block/mud/mud_4" },
+      {"model": "block/mud/mud_5" },
+      {"model": "block/mud/mud_6" },
+      {"model": "block/mud/mud_7" },
+      {"model": "block/mud/mud_8" },
+      {"model": "block/mud/mud_9" }
     ]
   }
 }
+
+
+
+
+

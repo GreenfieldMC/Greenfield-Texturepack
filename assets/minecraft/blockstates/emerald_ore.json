@@ -1,14 +1,19 @@
 {
     "variants": {
         "": [
-			{ "model": "block/emerald_ore" },
-			{ "model": "block/emerald_ore", "x": 90 },
-			{ "model": "block/emerald_ore", "x": 180 },
-			{ "model": "block/emerald_ore", "x": 270 },
-			{ "model": "block/emerald_ore" },
-			{ "model": "block/emerald_ore", "y": 90 },
-			{ "model": "block/emerald_ore", "y": 180 },
-			{ "model": "block/emerald_ore", "y": 270 }
+			{ "model": "block/emerald_ore/emerald_ore" },
+			{ "model": "block/emerald_ore/emerald_ore", "x": 90 },
+			{ "model": "block/emerald_ore/emerald_ore", "x": 180 },
+			{ "model": "block/emerald_ore/emerald_ore", "x": 270 },
+			{ "model": "block/emerald_ore/emerald_ore" },
+			{ "model": "block/emerald_ore/emerald_ore", "y": 90 },
+			{ "model": "block/emerald_ore/emerald_ore", "y": 180 },
+			{ "model": "block/emerald_ore/emerald_ore", "y": 270 }
 		]
     }
 }
+
+
+
+
+

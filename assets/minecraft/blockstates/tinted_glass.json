@@ -1,8 +1,13 @@
 {
     "variants": {
         "": [
-            { "model": "block/tinted_glass" },
-            { "model": "block/tinted_glass_mirrored" }
+            { "model": "block/tinted_glass/tinted_glass" },
+            { "model": "block/tinted_glass/tinted_glass_mirrored" }
         ]
     }
 }
+
+
+
+
+

@@ -1,7 +1,12 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:block/suspicious_sand_2"
+      "model": "minecraft:block/suspicious_sand_2/suspicious_sand_2"
     }
   }
 }
+
+
+
+
+

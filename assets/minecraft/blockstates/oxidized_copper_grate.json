@@ -1,7 +1,12 @@
 {
     "variants": {
         "": [
-			{ "model": "block/oxidized_copper_grate" }
+			{ "model": "block/oxidized_copper_grate/oxidized_copper_grate" }
 		]
     }
 }
+
+
+
+
+

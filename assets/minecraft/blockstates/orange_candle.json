@@ -1,28 +1,33 @@
 {
   "variants": {
     "candles=1,lit=true": {
-      "model": "minecraft:block/orange_candle_dirty_thin"
+      "model": "minecraft:block/orange_candle/orange_candle_dirty_thin"
     },
     "candles=2,lit=true": {
-	  "model": "minecraft:block/orange_candle_dirty_thick"
+	  "model": "minecraft:block/orange_candle/orange_candle_dirty_thick"
     },
     "candles=3,lit=true": {
-      "model": "minecraft:block/orange_candle_clean_thin"
+      "model": "minecraft:block/orange_candle/orange_candle_clean_thin"
     },
     "candles=4,lit=true": {
-      "model": "minecraft:block/orange_candle_clean_thick"
+      "model": "minecraft:block/orange_candle/orange_candle_clean_thick"
     },
     "candles=1,lit=false": {
-	  "model": "minecraft:block/orange_candle_dirty_thin_off"
+	  "model": "minecraft:block/orange_candle/orange_candle_dirty_thin_off"
     },
     "candles=2,lit=false": {
-	  "model": "minecraft:block/orange_candle_dirty_thick_off"
+	  "model": "minecraft:block/orange_candle/orange_candle_dirty_thick_off"
     },
     "candles=3,lit=false": {
-      "model": "minecraft:block/orange_candle_clean_thin_off"
+      "model": "minecraft:block/orange_candle/orange_candle_clean_thin_off"
     },
     "candles=4,lit=false": {
-      "model": "minecraft:block/orange_candle_clean_thick_off"
+      "model": "minecraft:block/orange_candle/orange_candle_clean_thick_off"
     }
   }
 }
+
+
+
+
+

@@ -1,7 +1,12 @@
 {
     "variants": {
         "": [
-			{ "model": "block/copper_grate" }
+			{ "model": "block/copper_grate/copper_grate" }
 		]
     }
 }
+
+
+
+
+

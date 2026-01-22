@@ -1,14 +1,19 @@
 {
     "variants": {
         "": [
-			{ "model": "block/clay" },
-			{ "model": "block/clay", "x": 90 },
-			{ "model": "block/clay", "x": 180 },
-			{ "model": "block/clay", "x": 270 },
-			{ "model": "block/clay" },
-			{ "model": "block/clay", "y": 90 },
-			{ "model": "block/clay", "y": 180 },
-			{ "model": "block/clay", "y": 270 }
+			{ "model": "block/clay/clay" },
+			{ "model": "block/clay/clay", "x": 90 },
+			{ "model": "block/clay/clay", "x": 180 },
+			{ "model": "block/clay/clay", "x": 270 },
+			{ "model": "block/clay/clay" },
+			{ "model": "block/clay/clay", "y": 90 },
+			{ "model": "block/clay/clay", "y": 180 },
+			{ "model": "block/clay/clay", "y": 270 }
 		]
     }
 }
+
+
+
+
+

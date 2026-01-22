@@ -1,10 +1,15 @@
 {
   "variants": {
     "": [
-			{ "model": "minecraft:block/dried_kelp_block" },
-			{ "model": "minecraft:block/dried_kelp_block", "y": 90 },
-			{ "model": "minecraft:block/dried_kelp_block", "y": 180 },
-			{ "model": "minecraft:block/dried_kelp_block", "y": 270 }
+			{ "model": "minecraft:block/dried_kelp_block/dried_kelp_block/dried_kelp_block/dried_kelp_block/dried_kelp_block" },
+			{ "model": "minecraft:block/dried_kelp_block/dried_kelp_block/dried_kelp_block/dried_kelp_block/dried_kelp_block", "y": 90 },
+			{ "model": "minecraft:block/dried_kelp_block/dried_kelp_block/dried_kelp_block/dried_kelp_block/dried_kelp_block", "y": 180 },
+			{ "model": "minecraft:block/dried_kelp_block/dried_kelp_block/dried_kelp_block/dried_kelp_block/dried_kelp_block", "y": 270 }
 		]
   }
 }
+
+
+
+
+

@@ -1,64 +1,69 @@
 {
   "variants": {
     "facing=east,hydration=0": {
-      "model": "minecraft:block/green_bin",
+      "model": "minecraft:block/dried_ghast/green_bin",
       "y": 90
     },
     "facing=east,hydration=1": {
-      "model": "minecraft:block/blue_bin",
+      "model": "minecraft:block/dried_ghast/blue_bin",
       "y": 90
     },
     "facing=east,hydration=2": {
-      "model": "minecraft:block/brown_bin",
+      "model": "minecraft:block/dried_ghast/brown_bin",
       "y": 90
     },
     "facing=east,hydration=3": {
-      "model": "minecraft:block/black_bin",
+      "model": "minecraft:block/dried_ghast/black_bin",
       "y": 90
     },
     "facing=north,hydration=0": {
-      "model": "minecraft:block/green_bin"
+      "model": "minecraft:block/dried_ghast/green_bin"
     },
     "facing=north,hydration=1": {
-      "model": "minecraft:block/blue_bin"
+      "model": "minecraft:block/dried_ghast/blue_bin"
     },
     "facing=north,hydration=2": {
-      "model": "minecraft:block/brown_bin"
+      "model": "minecraft:block/dried_ghast/brown_bin"
     },
     "facing=north,hydration=3": {
-      "model": "minecraft:block/black_bin"
+      "model": "minecraft:block/dried_ghast/black_bin"
     },
     "facing=south,hydration=0": {
-      "model": "minecraft:block/green_bin",
+      "model": "minecraft:block/dried_ghast/green_bin",
       "y": 180
     },
     "facing=south,hydration=1": {
-      "model": "minecraft:block/blue_bin",
+      "model": "minecraft:block/dried_ghast/blue_bin",
       "y": 180
     },
     "facing=south,hydration=2": {
-      "model": "minecraft:block/brown_bin",
+      "model": "minecraft:block/dried_ghast/brown_bin",
       "y": 180
     },
     "facing=south,hydration=3": {
-      "model": "minecraft:block/black_bin",
+      "model": "minecraft:block/dried_ghast/black_bin",
       "y": 180
     },
     "facing=west,hydration=0": {
-      "model": "minecraft:block/green_bin",
+      "model": "minecraft:block/dried_ghast/green_bin",
       "y": 270
     },
     "facing=west,hydration=1": {
-      "model": "minecraft:block/blue_bin",
+      "model": "minecraft:block/dried_ghast/blue_bin",
       "y": 270
     },
     "facing=west,hydration=2": {
-      "model": "minecraft:block/brown_bin",
+      "model": "minecraft:block/dried_ghast/brown_bin",
       "y": 270
     },
     "facing=west,hydration=3": {
-      "model": "minecraft:block/black_bin",
+      "model": "minecraft:block/dried_ghast/black_bin",
       "y": 270
     }
   }
 }
+
+
+
+
+

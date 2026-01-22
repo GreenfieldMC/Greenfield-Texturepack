@@ -5,7 +5,7 @@
         "up": "true"
       },
       "apply": {
-        "model": "minecraft:block/glow_lichen",
+        "model": "minecraft:block/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen",
         "x": 270,
         "uvlock": false
       }
@@ -20,7 +20,7 @@
         "down": "false"
       },
       "apply": {
-        "model": "minecraft:block/glow_lichen",
+        "model": "minecraft:block/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen",
         "x": 270,
         "uvlock": false
       }
@@ -30,7 +30,7 @@
         "north": "true"
       },
       "apply": {
-        "model": "minecraft:block/glow_lichen"
+        "model": "minecraft:block/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen"
       }
     },
     {
@@ -43,7 +43,7 @@
         "down": "false"
       },
       "apply": {
-        "model": "minecraft:block/glow_lichen"
+        "model": "minecraft:block/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen"
       }
     },
     {
@@ -51,7 +51,7 @@
         "west": "true"
       },
       "apply": {
-        "model": "minecraft:block/glow_lichen",
+        "model": "minecraft:block/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen",
         "y": 270,
         "uvlock": false
       }
@@ -66,7 +66,7 @@
         "down": "false"
       },
       "apply": {
-        "model": "minecraft:block/glow_lichen",
+        "model": "minecraft:block/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen",
         "y": 270,
         "uvlock": false
       }
@@ -76,7 +76,7 @@
         "south": "true"
       },
       "apply": {
-        "model": "minecraft:block/glow_lichen",
+        "model": "minecraft:block/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen",
         "y": 180,
         "uvlock": false
       }
@@ -91,7 +91,7 @@
         "down": "false"
       },
       "apply": {
-        "model": "minecraft:block/glow_lichen",
+        "model": "minecraft:block/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen",
         "y": 180,
         "uvlock": false
       }
@@ -101,7 +101,7 @@
         "east": "true"
       },
       "apply": {
-        "model": "minecraft:block/glow_lichen",
+        "model": "minecraft:block/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen",
         "y": 90,
         "uvlock": false
       }
@@ -116,7 +116,7 @@
         "down": "false"
       },
       "apply": {
-        "model": "minecraft:block/glow_lichen",
+        "model": "minecraft:block/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen",
         "y": 90,
         "uvlock": false
       }
@@ -126,7 +126,7 @@
         "down": "true"
       },
       "apply": {
-        "model": "minecraft:block/glow_lichen",
+        "model": "minecraft:block/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen",
         "x": 90,
         "uvlock": false
       }
@@ -141,10 +141,15 @@
         "down": "false"
       },
       "apply": {
-        "model": "minecraft:block/glow_lichen",
+        "model": "minecraft:block/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen/glow_lichen",
         "x": 90,
         "uvlock": false
       }
     }
   ]
 }
+
+
+
+
+
