@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "block/soul_fire_torch"
+      "model": "block/soul/soul_fire_torch"
     }
   }
 }
