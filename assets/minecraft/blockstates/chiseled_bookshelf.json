@@ -2218,13 +2218,13 @@
     },
 	    {
       "apply": [
-        {"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_25_0",
+        {"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_26_0",
 	    "y": 90 },
-		{"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_25_1",
+		{"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_26_1",
 	    "y": 90 },
-		{"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_25_2",
+		{"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_26_2",
 	    "y": 90 },
-		{"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_25_3",
+		{"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_26_3",
 	    "y": 90 }
       ],
       "when": {
@@ -2239,13 +2239,13 @@
     },
 	    {
       "apply": [
-        {"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_25_0",
+        {"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_26_0",
 	    "y": 180 },
-		{"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_25_1",
+		{"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_26_1",
 	    "y": 180 },
-		{"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_25_2",
+		{"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_26_2",
 	    "y": 180 },
-		{"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_25_3",
+		{"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_26_3",
 	    "y": 180 }
       ],
       "when": {
@@ -2260,13 +2260,13 @@
     },
 	    {
       "apply": [
-        {"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_25_0",
+        {"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_26_0",
 	    "y": 270 },
-		{"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_25_1",
+		{"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_26_1",
 	    "y": 270 },
-		{"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_25_2",
+		{"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_26_2",
 	    "y": 270 },
-		{"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_25_3",
+		{"model": "minecraft:block/chiseled_bookshelf/type1/chiseled_bookshelf_type1_26_3",
 	    "y": 270 }
       ],
       "when": {
