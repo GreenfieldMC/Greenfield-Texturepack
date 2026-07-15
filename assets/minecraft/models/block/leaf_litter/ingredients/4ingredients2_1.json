@@ -2,11 +2,119 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"parent": "block/leaf_litter/ingredients/4ingredients2_0",
+	"texture_size": [32, 32],
 	"textures": {
-		"2": "block/leaf_litter/flour_bag1",
-		"4": "block/leaf_litter/food_cans1",
-		"6": "block/leaf_litter/packaged_bread1",
-		"9": "block/leaf_litter/jar1",
-		"particle": "block/leaf_litter/ingredients0"
-	}
+		"0": "block/leaf_litter/ingredients",
+		"particle": "block/leaf_litter/ingredients"
+	},
+	"elements": [
+		{
+			"name": "Can3",
+			"from": [6, 0, 12],
+			"to": [8, 3, 14],
+			"rotation": {"angle": -35, "axis": "y", "origin": [6, 0, 14]},
+			"faces": {
+				"north": {"uv": [3, 9, 4, 10.5], "texture": "#0"},
+				"east": {"uv": [3, 9, 4, 10.5], "texture": "#0"},
+				"south": {"uv": [3, 9, 4, 10.5], "texture": "#0"},
+				"west": {"uv": [3, 9, 4, 10.5], "texture": "#0"},
+				"up": {"uv": [3, 6.5, 4, 7.5], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [4, 6.5, 5, 7.5], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [2, 4, 8],
+			"to": [4, 5.5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 4, 7]},
+			"faces": {
+				"north": {"uv": [15, 13, 16, 14], "texture": "#0"},
+				"east": {"uv": [14, 13, 15, 14], "texture": "#0"},
+				"south": {"uv": [13, 13, 14, 14], "texture": "#0"},
+				"west": {"uv": [12, 13, 13, 14], "texture": "#0"},
+				"up": {"uv": [13, 13, 14, 14], "texture": "#0"},
+				"down": {"uv": [12, 13, 13, 14], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2.005, 4, 7],
+			"to": [3.995, 5.41, 8.41],
+			"rotation": {"angle": 45, "axis": "x", "origin": [2, 4, 7]},
+			"faces": {
+				"north": {"uv": [15, 13, 16, 14], "texture": "#0"},
+				"east": {"uv": [14, 13, 15, 14], "texture": "#0"},
+				"south": {"uv": [13, 13, 14, 14], "texture": "#0"},
+				"west": {"uv": [12, 13, 13, 14], "texture": "#0"},
+				"up": {"uv": [13, 13, 14, 14], "texture": "#0"},
+				"down": {"uv": [12, 13, 13, 14], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2, 0, 7],
+			"to": [4, 4, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 0, 7]},
+			"faces": {
+				"north": {"uv": [15, 14, 16, 16], "texture": "#0"},
+				"east": {"uv": [14, 14, 15, 16], "texture": "#0"},
+				"south": {"uv": [13, 14, 14, 16], "texture": "#0"},
+				"west": {"uv": [12, 14, 13, 16], "texture": "#0"},
+				"up": {"uv": [13, 13, 14, 14], "texture": "#0"},
+				"down": {"uv": [12, 13, 13, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Pepper",
+			"from": [4, 0, 3],
+			"to": [6, 4, 5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [4, 0, 3]},
+			"faces": {
+				"north": {"uv": [8, 9, 9, 11], "texture": "#0"},
+				"east": {"uv": [8, 9, 9, 11], "texture": "#0"},
+				"south": {"uv": [8, 9, 9, 11], "texture": "#0"},
+				"west": {"uv": [8, 9, 9, 11], "texture": "#0"},
+				"up": {"uv": [8, 8.5, 9, 9.5], "texture": "#0"},
+				"down": {"uv": [8, 10.5, 9, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Sus",
+			"from": [11, 0, 12],
+			"to": [13, 4, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 0, 12]},
+			"faces": {
+				"north": {"uv": [1, 7.5, 2, 9.5], "texture": "#0"},
+				"east": {"uv": [1, 7.5, 2, 9.5], "texture": "#0"},
+				"south": {"uv": [1, 7.5, 2, 9.5], "texture": "#0"},
+				"west": {"uv": [1, 7.5, 2, 9.5], "texture": "#0"},
+				"up": {"uv": [1, 7, 2, 8], "texture": "#0"},
+				"down": {"uv": [1, 9, 2, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Pickles",
+			"from": [9, 0, 5],
+			"to": [12, 3, 8],
+			"rotation": {"angle": 15, "axis": "y", "origin": [9, 0, 5]},
+			"faces": {
+				"north": {"uv": [7.5, 13, 9, 14.5], "texture": "#0"},
+				"east": {"uv": [7.5, 13, 9, 14.5], "texture": "#0"},
+				"south": {"uv": [7.5, 13, 9, 14.5], "texture": "#0"},
+				"west": {"uv": [7.5, 13, 9, 14.5], "texture": "#0"},
+				"up": {"uv": [7.5, 11.5, 9, 13], "texture": "#0"},
+				"down": {"uv": [7.5, 14.5, 9, 16], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		0,
+		{
+			"name": "Milk",
+			"origin": [-7, 4, 0],
+			"scope": 0,
+			"color": 0,
+			"children": [1, 2, 3]
+		},
+		4,
+		5,
+		6
+	]
 }

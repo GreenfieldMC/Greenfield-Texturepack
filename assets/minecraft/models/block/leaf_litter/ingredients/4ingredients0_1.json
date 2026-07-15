@@ -1,12 +1,139 @@
 {
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
-	"parent": "block/leaf_litter/ingredients/4ingredients0_0",
+	"parent": "block/leaf_litter/ingredients/3ingredients0",
+	"texture_size": [32, 32],
 	"textures": {
-		"2": "block/leaf_litter/flour_bag1",
-		"4": "block/leaf_litter/food_cans1",
-		"6": "block/leaf_litter/packaged_bread1",
-		"9": "block/leaf_litter/jar1",
-		"particle": "block/leaf_litter/ingredients0"
-	}
+		"0": "block/leaf_litter/Ingredients",
+		"particle": "block/leaf_litter/Ingredients"
+	},
+	"elements": [
+		{
+			"name": "Parmajuan",
+			"from": [1, 0, 7],
+			"to": [3, 5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 7]},
+			"faces": {
+				"north": {"uv": [2, 7, 3, 9.5], "texture": "#0"},
+				"east": {"uv": [2, 7, 3, 9.5], "texture": "#0"},
+				"south": {"uv": [2, 7, 3, 9.5], "texture": "#0"},
+				"west": {"uv": [2, 7, 3, 9.5], "texture": "#0"},
+				"up": {"uv": [2, 6.5, 3, 7.5], "texture": "#0"},
+				"down": {"uv": [2, 9, 3, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Pickles",
+			"from": [12, 0, 4],
+			"to": [15, 3, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 0, 4]},
+			"faces": {
+				"north": {"uv": [7.5, 13, 9, 14.5], "texture": "#0"},
+				"east": {"uv": [7.5, 13, 9, 14.5], "texture": "#0"},
+				"south": {"uv": [7.5, 13, 9, 14.5], "texture": "#0"},
+				"west": {"uv": [7.5, 13, 9, 14.5], "texture": "#0"},
+				"up": {"uv": [7.5, 11.5, 9, 13], "texture": "#0"},
+				"down": {"uv": [7.5, 14.5, 9, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 4, 4],
+			"to": [6, 5.5, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 4, 3]},
+			"faces": {
+				"north": {"uv": [15, 13, 16, 14], "texture": "#0"},
+				"east": {"uv": [14, 13, 15, 14], "texture": "#0"},
+				"south": {"uv": [13, 13, 14, 14], "texture": "#0"},
+				"west": {"uv": [12, 13, 13, 14], "texture": "#0"},
+				"up": {"uv": [13, 13, 14, 14], "texture": "#0"},
+				"down": {"uv": [12, 13, 13, 14], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.005, 4, 3],
+			"to": [5.995, 5.41, 4.41],
+			"rotation": {"angle": 45, "axis": "x", "origin": [4, 4, 3]},
+			"faces": {
+				"north": {"uv": [15, 13, 16, 14], "texture": "#0"},
+				"east": {"uv": [14, 13, 15, 14], "texture": "#0"},
+				"south": {"uv": [13, 13, 14, 14], "texture": "#0"},
+				"west": {"uv": [12, 13, 13, 14], "texture": "#0"},
+				"up": {"uv": [13, 13, 14, 14], "texture": "#0"},
+				"down": {"uv": [12, 13, 13, 14], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 0, 3],
+			"to": [6, 4, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 3]},
+			"faces": {
+				"north": {"uv": [15, 14, 16, 16], "texture": "#0"},
+				"east": {"uv": [14, 14, 15, 16], "texture": "#0"},
+				"south": {"uv": [13, 14, 14, 16], "texture": "#0"},
+				"west": {"uv": [12, 14, 13, 16], "texture": "#0"},
+				"up": {"uv": [13, 13, 14, 14], "texture": "#0"},
+				"down": {"uv": [12, 13, 13, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Tie",
+			"from": [11.17065, 1.75, 12],
+			"to": [14.17065, 1.75, 13],
+			"rotation": {"angle": 20, "axis": "z", "origin": [12.57835, 1.44132, 12.5]},
+			"faces": {
+				"north": {"uv": [3.5, 3.5, 5, 3.5], "texture": "#0"},
+				"east": {"uv": [4, 3, 4.5, 3], "texture": "#0"},
+				"south": {"uv": [3.5, 3.5, 5, 3.5], "texture": "#0"},
+				"west": {"uv": [3.5, 3, 4, 3], "texture": "#0"},
+				"up": {"uv": [3.5, 2.5, 5, 3], "texture": "#0"},
+				"down": {"uv": [3.5, 2.5, 5, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Tie",
+			"from": [11.13633, 1.25, 12],
+			"to": [14.13633, 1.25, 13],
+			"rotation": {"angle": -20, "axis": "z", "origin": [12.57835, 1.44132, 12.5]},
+			"faces": {
+				"north": {"uv": [3.5, 3.5, 5, 3.5], "texture": "#0"},
+				"east": {"uv": [3.5, 3, 4, 3], "texture": "#0"},
+				"south": {"uv": [3.5, 3.5, 5, 3.5], "texture": "#0"},
+				"west": {"uv": [4, 3, 4.5, 3], "texture": "#0"},
+				"up": {"uv": [3.5, 2.5, 5, 3], "texture": "#0"},
+				"down": {"uv": [3.5, 2.5, 5, 3], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Loaf",
+			"from": [6, 0, 11],
+			"to": [12, 3, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 12]},
+			"faces": {
+				"north": {"uv": [5, 2.5, 8, 4], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [8, 2.5, 9.5, 4], "texture": "#0"},
+				"south": {"uv": [5, 5.5, 8, 7], "texture": "#0"},
+				"west": {"uv": [3.5, 2.5, 5, 4], "texture": "#0"},
+				"up": {"uv": [5, 7, 8, 8.5], "texture": "#0"},
+				"down": {"uv": [5, 4, 8, 5.5], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		0,
+		1,
+		{
+			"name": "Milk",
+			"origin": [-7, 4, 0],
+			"scope": 0,
+			"color": 0,
+			"children": [2, 3, 4]
+		},
+		{
+			"name": "Bread",
+			"origin": [4, 0, 7],
+			"scope": 0,
+			"color": 0,
+			"children": [5, 6, 7]
+		}
+	]
 }
