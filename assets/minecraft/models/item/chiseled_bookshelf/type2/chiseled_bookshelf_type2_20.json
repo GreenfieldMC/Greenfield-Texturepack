@@ -1,0 +1,6 @@
+﻿{
+    "parent": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_base",
+    "textures": {
+		"front": "block/chiseled_bookshelf/type2/chiseled_bookshelf_type2_20"
+	}
+}
