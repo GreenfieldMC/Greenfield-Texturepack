@@ -16127,7 +16127,35 @@
 	{"model": "minecraft:block/leaf_litter/tools/construction_tools5_0","y": 270},
 	{"model": "minecraft:block/leaf_litter/tools/construction_tools5_1","y": 270},
 	{"model": "minecraft:block/leaf_litter/tools/construction_tools5_2","y": 270},
-	{"model": "minecraft:block/leaf_litter/tools/construction_tools5_3","y": 270}
+	],
+	"facing=west,segment_amount=4": [
+    {"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl0"},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl1"},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl2"},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl3"},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl4"},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl5"},
+	  
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl0","y": 90},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl1","y": 90},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl2","y": 90},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl3","y": 90},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl4","y": 90},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl5","y": 90},
+	  
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl0","y": 180},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl1","y": 180},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl2","y": 180},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl3","y": 180},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl4","y": 180},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl5","y": 180},
+	  
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl0","y": 270},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl1","y": 270},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl2","y": 270},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl3","y": 270},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl4","y": 270},
+	{"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl5","y": 270}
 	]
   }
 }
