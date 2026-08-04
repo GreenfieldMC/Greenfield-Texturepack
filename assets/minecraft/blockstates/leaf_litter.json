@@ -16127,6 +16127,7 @@
 	{"model": "minecraft:block/leaf_litter/tools/construction_tools5_0","y": 270},
 	{"model": "minecraft:block/leaf_litter/tools/construction_tools5_1","y": 270},
 	{"model": "minecraft:block/leaf_litter/tools/construction_tools5_2","y": 270},
+	{"model": "minecraft:block/leaf_litter/tools/construction_tools5_3","y": 270}    
 	],
 	"facing=west,segment_amount=4": [
     {"model": "minecraft:block/leaf_litter/fruitbowl/fruitbowl0"},
