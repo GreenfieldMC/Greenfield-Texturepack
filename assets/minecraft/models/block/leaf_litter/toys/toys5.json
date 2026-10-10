@@ -1,0 +1,53 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "block/leaf_litter/toys1",
+		"particle": "block/leaf_litter/toys1"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 9],
+			"to": [5, 3, 12],
+			"rotation": {"angle": 35, "axis": "y", "origin": [2, 0, 9]},
+			"faces": {
+				"north": {"uv": [0, 12.5, 1.5, 14], "texture": "#0"},
+				"east": {"uv": [0, 11, 1.5, 12.5], "texture": "#0"},
+				"south": {"uv": [1.5, 12.5, 3, 14], "texture": "#0"},
+				"west": {"uv": [1.5, 11, 3, 12.5], "texture": "#0"},
+				"up": {"uv": [3, 11, 4.5, 12.5], "texture": "#0"},
+				"down": {"uv": [4.5, 11, 6, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 0, 1],
+			"to": [9, 3, 4],
+			"rotation": {"angle": 17.5, "axis": "y", "origin": [9, 3, 4]},
+			"faces": {
+				"north": {"uv": [4.5, 14, 6, 15.5], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [0, 14, 1.5, 15.5], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [1.5, 14, 3, 15.5], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [3, 14, 4.5, 15.5], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [4.5, 12.5, 6, 14], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [3, 12.5, 4.5, 14], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "rubiks_cube",
+			"origin": [3.91421, 3.91421, 2],
+			"scope": 0,
+			"color": 0,
+			"children": [0]
+		},
+		{
+			"name": "rubiks_cube",
+			"origin": [3.91421, 3.91421, 2],
+			"scope": 0,
+			"color": 0,
+			"children": [1]
+		}
+	]
+}

@@ -4,8 +4,8 @@
 	"parent": "block/leaf_litter/ingredients/3ingredients0",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/leaf_litter/Ingredients",
-		"particle": "block/leaf_litter/Ingredients"
+		"0": "block/leaf_litter/ingredients",
+		"particle": "block/leaf_litter/ingredients"
 	},
 	"elements": [
 		{
