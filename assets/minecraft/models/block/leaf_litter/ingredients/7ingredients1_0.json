@@ -1,0 +1,108 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"6": "block/leaf_litter/ingredients"
+	},
+	"elements": [
+		{
+			"name": "Cereal",
+			"from": [4, 0, 11],
+			"to": [8, 5, 13],
+			"rotation": {"angle": -5, "axis": "y", "origin": [4, 0, 11]},
+			"faces": {
+				"north": {"uv": [9, 11, 11, 13.5], "texture": "#6"},
+				"east": {"uv": [11, 13.5, 12, 16], "texture": "#6"},
+				"south": {"uv": [9, 13.5, 11, 16], "texture": "#6"},
+				"west": {"uv": [11, 11, 12, 13.5], "texture": "#6"},
+				"up": {"uv": [9, 9, 11, 10], "texture": "#6"},
+				"down": {"uv": [9, 10, 11, 11], "texture": "#6"}
+			}
+		},
+		{
+			"name": "Pasta",
+			"from": [11, 0, 2],
+			"to": [14, 5, 6],
+			"rotation": {"angle": 7.5, "axis": "y", "origin": [11, 0, 2]},
+			"faces": {
+				"north": {"uv": [5.5, 0, 7, 2.5], "texture": "#6"},
+				"east": {"uv": [3.5, 0, 5.5, 2.5], "texture": "#6"},
+				"south": {"uv": [2, 0, 3.5, 2.5], "texture": "#6"},
+				"west": {"uv": [0, 0, 2, 2.5], "texture": "#6"},
+				"up": {"uv": [3, 4.5, 1.5, 2.5], "texture": "#6"},
+				"down": {"uv": [1.5, 2.5, 0, 4.5], "texture": "#6"}
+			}
+		},
+		{
+			"name": "Pasta",
+			"from": [10, 0, 12],
+			"to": [14, 5, 15],
+			"rotation": {"angle": -15, "axis": "y", "origin": [14, 0, 12]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 2.5], "texture": "#6"},
+				"east": {"uv": [5.5, 0, 7, 2.5], "texture": "#6"},
+				"south": {"uv": [3.5, 0, 5.5, 2.5], "texture": "#6"},
+				"west": {"uv": [2, 0, 3.5, 2.5], "texture": "#6"},
+				"up": {"uv": [3, 4.5, 1.5, 2.5], "rotation": 90, "texture": "#6"},
+				"down": {"uv": [1.5, 2.5, 0, 4.5], "rotation": 270, "texture": "#6"}
+			}
+		},
+		{
+			"name": "Cheese",
+			"from": [4, 0, 3],
+			"to": [7, 1, 9],
+			"rotation": {"angle": 0, "axis": "z", "origin": [7, 0, 3]},
+			"faces": {
+				"north": {"uv": [3, 10.5, 3.5, 12], "rotation": 90, "texture": "#6"},
+				"east": {"uv": [0, 12, 3, 12.5], "texture": "#6"},
+				"south": {"uv": [6.5, 10.5, 7, 12], "rotation": 270, "texture": "#6"},
+				"west": {"uv": [0, 10, 3, 10.5], "texture": "#6"},
+				"up": {"uv": [0, 10.5, 3, 12], "rotation": 270, "texture": "#6"},
+				"down": {"uv": [3.5, 10.5, 6.5, 12], "rotation": 270, "texture": "#6"}
+			}
+		},
+		{
+			"name": "Cheese",
+			"from": [4, 1, 3],
+			"to": [7, 2, 9],
+			"rotation": {"angle": 7.5, "axis": "y", "origin": [7, 1, 3]},
+			"faces": {
+				"north": {"uv": [3, 10.5, 3.5, 12], "rotation": 90, "texture": "#6"},
+				"east": {"uv": [0, 12, 3, 12.5], "texture": "#6"},
+				"south": {"uv": [6.5, 10.5, 7, 12], "rotation": 270, "texture": "#6"},
+				"west": {"uv": [0, 10, 3, 10.5], "texture": "#6"},
+				"up": {"uv": [0, 10.5, 3, 12], "rotation": 270, "texture": "#6"},
+				"down": {"uv": [3.5, 10.5, 6.5, 12], "rotation": 270, "texture": "#6"}
+			}
+		},
+		{
+			"name": "Cheese",
+			"from": [1, 1.6, 3],
+			"to": [4, 2.6, 9],
+			"rotation": {"angle": 32.5, "axis": "z", "origin": [4, 2, 3]},
+			"faces": {
+				"north": {"uv": [3, 10.5, 3.5, 12], "rotation": 90, "texture": "#6"},
+				"east": {"uv": [0, 12, 3, 12.5], "texture": "#6"},
+				"south": {"uv": [6.5, 10.5, 7, 12], "rotation": 270, "texture": "#6"},
+				"west": {"uv": [0, 10, 3, 10.5], "texture": "#6"},
+				"up": {"uv": [0, 10.5, 3, 12], "rotation": 270, "texture": "#6"},
+				"down": {"uv": [3.5, 10.5, 6.5, 12], "rotation": 270, "texture": "#6"}
+			}
+		},
+		{
+			"name": "Parmajuan",
+			"from": [12, 0, 8],
+			"to": [14, 5, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 7, 3, 9.5], "texture": "#6"},
+				"east": {"uv": [2, 7, 3, 9.5], "texture": "#6"},
+				"south": {"uv": [2, 7, 3, 9.5], "texture": "#6"},
+				"west": {"uv": [2, 7, 3, 9.5], "texture": "#6"},
+				"up": {"uv": [2, 6.5, 3, 7.5], "texture": "#6"},
+				"down": {"uv": [2, 9, 3, 10], "texture": "#6"}
+			}
+		}
+	]
+}

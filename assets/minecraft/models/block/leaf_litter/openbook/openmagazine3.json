@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/leaf_litter/openbook/openmagazinebase",
+  "textures": {
+    "0": "minecraft:block/leaf_litter/magazinespread3",
+	"1": "minecraft:block/leaf_litter/bookback3"
+  }
+}

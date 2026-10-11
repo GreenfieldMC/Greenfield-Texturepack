@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaf_litter/shirts/1shirt",
+  "textures": {
+    "0": "minecraft:block/leaf_litter/shirt3"
+  }
+}

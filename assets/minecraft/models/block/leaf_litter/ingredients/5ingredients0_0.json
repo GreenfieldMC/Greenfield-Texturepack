@@ -1,0 +1,137 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"5": "block/leaf_litter/ingredients"
+	},
+	"elements": [
+		{
+			"name": "Tie",
+			"from": [11.17065, 1.75, 2],
+			"to": [14.17065, 1.75, 3],
+			"rotation": {"angle": 20, "axis": "z", "origin": [12.57835, 1.44132, 2.5]},
+			"faces": {
+				"north": {"uv": [3.5, 3.5, 5, 3.5], "texture": "#5"},
+				"east": {"uv": [4, 3, 4.5, 3], "texture": "#5"},
+				"south": {"uv": [3.5, 3.5, 5, 3.5], "texture": "#5"},
+				"west": {"uv": [3.5, 3, 4, 3], "texture": "#5"},
+				"up": {"uv": [3.5, 2.5, 5, 3], "texture": "#5"},
+				"down": {"uv": [3.5, 2.5, 5, 3], "texture": "#5"}
+			}
+		},
+		{
+			"name": "Tie",
+			"from": [11.13633, 1.25, 2],
+			"to": [14.13633, 1.25, 3],
+			"rotation": {"angle": -20, "axis": "z", "origin": [12.57835, 1.44132, 2.5]},
+			"faces": {
+				"north": {"uv": [3.5, 3.5, 5, 3.5], "texture": "#5"},
+				"east": {"uv": [3.5, 3, 4, 3], "texture": "#5"},
+				"south": {"uv": [3.5, 3.5, 5, 3.5], "texture": "#5"},
+				"west": {"uv": [4, 3, 4.5, 3], "texture": "#5"},
+				"up": {"uv": [3.5, 2.5, 5, 3], "texture": "#5"},
+				"down": {"uv": [3.5, 2.5, 5, 3], "texture": "#5"}
+			}
+		},
+		{
+			"name": "Loaf",
+			"from": [6, 0, 1],
+			"to": [12, 3, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 2]},
+			"faces": {
+				"north": {"uv": [5, 2.5, 8, 4], "rotation": 180, "texture": "#5"},
+				"east": {"uv": [8, 2.5, 9.5, 4], "texture": "#5"},
+				"south": {"uv": [5, 5.5, 8, 7], "texture": "#5"},
+				"west": {"uv": [3.5, 2.5, 5, 4], "texture": "#5"},
+				"up": {"uv": [5, 7, 8, 8.5], "texture": "#5"},
+				"down": {"uv": [5, 4, 8, 5.5], "texture": "#5"}
+			}
+		},
+		{
+			"from": [11, 4, 7],
+			"to": [13, 5.5, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 4, 6]},
+			"faces": {
+				"north": {"uv": [15, 13, 16, 14], "texture": "#5"},
+				"east": {"uv": [14, 13, 15, 14], "texture": "#5"},
+				"south": {"uv": [13, 13, 14, 14], "texture": "#5"},
+				"west": {"uv": [12, 13, 13, 14], "texture": "#5"},
+				"up": {"uv": [13, 13, 14, 14], "texture": "#5"},
+				"down": {"uv": [12, 13, 13, 14], "texture": "#5"}
+			}
+		},
+		{
+			"from": [11.005, 4, 6],
+			"to": [12.995, 5.41, 7.41],
+			"rotation": {"angle": 45, "axis": "x", "origin": [11, 4, 6]},
+			"faces": {
+				"north": {"uv": [15, 13, 16, 14], "texture": "#5"},
+				"east": {"uv": [14, 13, 15, 14], "texture": "#5"},
+				"south": {"uv": [13, 13, 14, 14], "texture": "#5"},
+				"west": {"uv": [12, 13, 13, 14], "texture": "#5"},
+				"up": {"uv": [13, 13, 14, 14], "texture": "#5"},
+				"down": {"uv": [12, 13, 13, 14], "texture": "#5"}
+			}
+		},
+		{
+			"from": [11, 0, 6],
+			"to": [13, 4, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 0, 6]},
+			"faces": {
+				"north": {"uv": [15, 14, 16, 16], "texture": "#5"},
+				"east": {"uv": [14, 14, 15, 16], "texture": "#5"},
+				"south": {"uv": [13, 14, 14, 16], "texture": "#5"},
+				"west": {"uv": [12, 14, 13, 16], "texture": "#5"},
+				"up": {"uv": [13, 13, 14, 14], "texture": "#5"},
+				"down": {"uv": [12, 13, 13, 14], "texture": "#5"}
+			}
+		},
+		{
+			"name": "Can1",
+			"from": [8, 0, 13],
+			"to": [10, 3, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 13]},
+			"faces": {
+				"north": {"uv": [3, 7.5, 4, 9], "texture": "#5"},
+				"east": {"uv": [3, 7.5, 4, 9], "texture": "#5"},
+				"south": {"uv": [3, 7.5, 4, 9], "texture": "#5"},
+				"west": {"uv": [3, 7.5, 4, 9], "texture": "#5"},
+				"up": {"uv": [3, 6.5, 4, 7.5], "texture": "#5"},
+				"down": {"uv": [4, 6.5, 5, 7.5], "texture": "#5"}
+			}
+		},
+		{
+			"name": "Cheese",
+			"from": [1, 0, 8],
+			"to": [4, 1, 14],
+			"rotation": {"angle": 17.5, "axis": "y", "origin": [4, 0, 8]},
+			"faces": {
+				"north": {"uv": [3, 10.5, 3.5, 12], "rotation": 90, "texture": "#5"},
+				"east": {"uv": [0, 12, 3, 12.5], "texture": "#5"},
+				"south": {"uv": [6.5, 10.5, 7, 12], "rotation": 270, "texture": "#5"},
+				"west": {"uv": [0, 10, 3, 10.5], "texture": "#5"},
+				"up": {"uv": [0, 10.5, 3, 12], "rotation": 270, "texture": "#5"},
+				"down": {"uv": [3.5, 10.5, 6.5, 12], "rotation": 270, "texture": "#5"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Bread",
+			"origin": [4, 0, 7],
+			"scope": 0,
+			"color": 0,
+			"children": [0, 1, 2]
+		},
+		{
+			"name": "Milk",
+			"origin": [-7, 4, 0],
+			"scope": 0,
+			"color": 0,
+			"children": [3, 4, 5]
+		},
+		6,
+		7
+	]
+}

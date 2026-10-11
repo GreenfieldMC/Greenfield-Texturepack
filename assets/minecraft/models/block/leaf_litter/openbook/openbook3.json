@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/leaf_litter/openbook/openbookbase",
+  "textures": {
+    "0": "minecraft:block/leaf_litter/bookspread3",
+	"1": "minecraft:block/leaf_litter/bookback2"
+  }
+}

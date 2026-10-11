@@ -1,0 +1,8 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "block/leaf_litter/tools/construction_tools5",
+	"textures": {
+		"0": "block/leaf_litter/blue_tools"
+	}
+}
