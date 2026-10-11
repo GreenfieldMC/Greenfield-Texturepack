@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross_base",
+  "textures": {
+    "cross": "minecraft:block/open_eyeblossom",
+	"base": "minecraft:block/eyeblossom_open_base"
+  }
+}
