@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/jigsaw_bottom",
+    "east": "minecraft:block/test_air_conditioner_side",
+    "north": "minecraft:block/test_air_conditioner_side",
+    "particle": "minecraft:block/test_air_conditioner_side",
+    "south": "minecraft:block/test_air_conditioner_side",
+    "up": "minecraft:block/test_air_conditioner_top",
+    "west": "minecraft:block/test_air_conditioner_side"
+  }
+}
