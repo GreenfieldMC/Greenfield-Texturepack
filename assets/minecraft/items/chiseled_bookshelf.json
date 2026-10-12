@@ -1,0 +1,464 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+	"index": 0,
+    "cases": [
+            {
+        "when": "chiseled_bookshelf_type1_0",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_0"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type1_1",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_1"
+        }
+      },         
+      {
+        "when": "chiseled_bookshelf_type1_2",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_2"
+        }
+      },         
+      {
+        "when": "chiseled_bookshelf_type1_3",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_3"
+        }
+      },         
+      {
+        "when": "chiseled_bookshelf_type1_4",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_4"
+        }
+      },          
+      {
+        "when": "chiseled_bookshelf_type1_5",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_5"
+        }
+      },          
+      {
+        "when": "chiseled_bookshelf_type1_6",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_6"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type1_7",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_7"
+        }
+      },          
+      {
+        "when": "chiseled_bookshelf_type1_8",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_8"
+        }
+      },          
+      {
+        "when": "chiseled_bookshelf_type1_9",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_9"
+        }
+      },          
+      {
+        "when": "chiseled_bookshelf_type1_10",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_10"
+        }
+      },
+      {
+        "when": "chiseled_bookshelf_type1_11",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_11"
+        }
+      },
+      {
+        "when": "chiseled_bookshelf_type1_12",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_12"
+        }
+      },   
+      {
+        "when": "chiseled_bookshelf_type1_13",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_13"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type1_14",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_14"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type1_15",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_15"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type1_16",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_16"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type1_17",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_17"
+        }
+      },
+      {
+        "when": "chiseled_bookshelf_type1_18",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_18"
+        }
+      },          
+      {
+        "when": "chiseled_bookshelf_type1_19",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_19"
+        }
+      },          
+      {
+        "when": "chiseled_bookshelf_type1_20",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_20"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type1_21",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_21"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type1_22",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_22"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type1_23",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_23"
+        }
+      },          
+      {
+        "when": "chiseled_bookshelf_type1_24",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_24"
+        }
+      },         
+      {
+        "when": "chiseled_bookshelf_type1_25",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_25"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type1_26",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_26"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type1_27",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_27"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type1_28",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_28"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type1_29",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_29"
+        }
+      },            
+      {
+        "when": "chiseled_bookshelf_type1_30",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_30"
+        }
+      },    
+      {
+        "when": "chiseled_bookshelf_type1_31",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type1/chiseled_bookshelf_type1_31"
+        }
+      },
+      
+
+
+      {
+        "when": "chiseled_bookshelf_type2_0",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_0"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type2_1",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_1"
+        }
+      },         
+      {
+        "when": "chiseled_bookshelf_type2_2",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_2"
+        }
+      },         
+      {
+        "when": "chiseled_bookshelf_type2_3",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_3"
+        }
+      },         
+      {
+        "when": "chiseled_bookshelf_type2_4",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_4"
+        }
+      },          
+      {
+        "when": "chiseled_bookshelf_type2_5",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_5"
+        }
+      },          
+      {
+        "when": "chiseled_bookshelf_type2_6",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_6"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type2_7",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_7"
+        }
+      },          
+      {
+        "when": "chiseled_bookshelf_type2_8",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_8"
+        }
+      },          
+      {
+        "when": "chiseled_bookshelf_type2_9",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_9"
+        }
+      },          
+      {
+        "when": "chiseled_bookshelf_type2_10",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_10"
+        }
+      },
+      {
+        "when": "chiseled_bookshelf_type2_11",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_11"
+        }
+      },
+      {
+        "when": "chiseled_bookshelf_type2_12",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_12"
+        }
+      },   
+      {
+        "when": "chiseled_bookshelf_type2_13",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_13"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type2_14",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_14"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type2_15",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_15"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type2_16",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_16"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type2_17",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_17"
+        }
+      },
+      {
+        "when": "chiseled_bookshelf_type2_18",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_18"
+        }
+      },          
+      {
+        "when": "chiseled_bookshelf_type2_19",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_19"
+        }
+      },          
+      {
+        "when": "chiseled_bookshelf_type2_20",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_20"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type2_21",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_21"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type2_22",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_22"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type2_23",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_23"
+        }
+      },          
+      {
+        "when": "chiseled_bookshelf_type2_24",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_24"
+        }
+      },         
+      {
+        "when": "chiseled_bookshelf_type2_25",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_25"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type2_26",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_26"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type2_27",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_27"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type2_28",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_28"
+        }
+      },           
+      {
+        "when": "chiseled_bookshelf_type2_29",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_29"
+        }
+      },            
+      {
+        "when": "chiseled_bookshelf_type2_30",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_30"
+        }
+      },    
+      {
+        "when": "chiseled_bookshelf_type2_31",
+        "model": {
+          "type": "model",
+          "model": "item/chiseled_bookshelf/type2/chiseled_bookshelf_type2_31"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/chiseled_bookshelf"
+    }
+  }
+}
