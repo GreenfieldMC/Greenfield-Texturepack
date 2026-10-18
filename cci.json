@@ -405,6 +405,15 @@
         { "itemName": "minecraft:structure_block" },
         { "itemName": "minecraft:structure_void" },
         { "itemName": "minecraft:jigsaw" },
+        { "itemName": "minecraft:test_block",
+			  "blockState": { "mode": "start" } },   
+        { "itemName": "minecraft:test_block",
+			  "blockState": { "mode": "log" } },    
+        { "itemName": "minecraft:test_block",
+			  "blockState": { "mode": "fail" } },   
+        { "itemName": "minecraft:test_block",
+			  "blockState": { "mode": "accept" } },  
+        { "itemName": "minecraft:test_instance_block" },
         { "itemName": "minecraft:spawner" },
         { "itemName": "minecraft:activator_rail" },
         { "itemName": "minecraft:detector_rail" },
@@ -571,9 +580,21 @@
         { "itemName": "minecraft:damaged_anvil" },
         { "itemName": "minecraft:jungle_trapdoor" },
         { "itemName": "minecraft:dead_tube_coral" },
+        { "itemName": "minecraft:pale_moss_carpet" },
         { "itemName": "minecraft:jungle_sign" },
         { "itemName": "minecraft:acacia_sign" },
         { "itemName": "minecraft:cocoa_beans" },
+        { "itemName": "minecraft:heavy_core" },
+        { "itemName": "minecraft:leaf_litter",
+			  "blockState": { "facing": "east", "segment_amount": "2" } },
+        { "itemName": "minecraft:leaf_litter",
+			  "blockState": { "facing": "east", "segment_amount": "4" } },
+        { "itemName": "minecraft:leaf_litter",
+			  "blockState": { "facing": "south", "segment_amount": "2" } },
+        { "itemName": "minecraft:leaf_litter",
+			  "blockState": { "facing": "south", "segment_amount": "1" } },
+        { "itemName": "minecraft:leaf_litter",
+			  "blockState": { "facing": "west", "segment_amount": "4" } },
         { "itemName": "minecraft:shulker_box" },
         { "itemName": "minecraft:black_shulker_box" },
         { "itemName": "minecraft:dropper" },
@@ -621,7 +642,13 @@
 		{ "itemName": "minecraft:ladder" },
 		{ "itemName": "minecraft:warped_button" },
 		{ "itemName": "minecraft:item_frame" },
-		{ "itemName": "minecraft:glow_item_frame" }
+		{ "itemName": "minecraft:glow_item_frame" },
+        { "itemName": "minecraft:leaf_litter",
+			  "blockState": { "facing": "north", "segment_amount": "2" } },
+        { "itemName": "minecraft:leaf_litter",
+			  "blockState": { "facing": "north", "segment_amount": "1" } },
+        { "itemName": "minecraft:leaf_litter",
+			  "blockState": { "facing": "north", "segment_amount": "4" } }
 	  ]
     },
     { 
@@ -667,7 +694,15 @@
 	    { "itemName": "minecraft:black_candle" },
 	    { "itemName": "minecraft:pink_candle" },
 	    { "itemName": "minecraft:soul_torch" },
-	    { "itemName": "minecraft:spore_blossom" }
+	    { "itemName": "minecraft:spore_blossom" },
+        { "itemName": "minecraft:leaf_litter",
+			  "blockState": { "facing": "north", "segment_amount": "2" } },
+        { "itemName": "minecraft:leaf_litter",
+			  "blockState": { "facing": "north", "segment_amount": "1" } },
+        { "itemName": "minecraft:leaf_litter",
+			  "blockState": { "facing": "south", "segment_amount": "3" } },
+        { "itemName": "minecraft:leaf_litter",
+			  "blockState": { "facing": "west", "segment_amount": "3" } }
 	  ]
     },
     { 
@@ -961,7 +996,8 @@
 	    { "itemName": "minecraft:orange_candle" },
 	    { "itemName": "minecraft:cyan_candle" },
 	    { "itemName": "minecraft:purple_candle" },
-	    { "itemName": "minecraft:white_candle" }
+	    { "itemName": "minecraft:white_candle" },
+        { "itemName": "minecraft:wildflowers" }
 	  ]
     },
     { 
@@ -1160,7 +1196,8 @@
         { "itemName": "minecraft:glow_item_frame" },
         { "itemName": "minecraft:cocoa_beans" },
         { "itemName": "minecraft:lever" },
-        { "itemName": "minecraft:tripwire_hook" }
+        { "itemName": "minecraft:tripwire_hook" },
+        { "itemName": "minecraft:wildflowers" }
 	  ]
     },
     { 
@@ -1228,7 +1265,8 @@
         { "itemName": "minecraft:pink_candle" },
         { "itemName": "minecraft:chain" },
         { "itemName": "minecraft:detector_rail" },
-        { "itemName": "minecraft:pink_petals" }
+        { "itemName": "minecraft:pink_petals" },
+        { "itemName": "minecraft:wildflowers" }
 	  ]
     },
     { 
@@ -1622,7 +1660,8 @@
         { "itemName": "minecraft:yellow_bed" },
         { "itemName": "minecraft:yellow_carpet" },
         { "itemName": "minecraft:yellow_banner" },
-        { "itemName": "minecraft:dead_brain_coral" }
+        { "itemName": "minecraft:dead_brain_coral" },
+        { "itemName": "minecraft:piglin_head" }
 	  ]
     },
     { 
