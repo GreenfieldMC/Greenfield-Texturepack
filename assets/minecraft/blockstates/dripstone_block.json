@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/dripstone_block_1" },
+      {"model": "block/dripstone_block_2" },
+      {"model": "block/dripstone_block_3" },
+      {"model": "block/dripstone_block_4" },
+      {"model": "block/dripstone_block_5" },
+      {"model": "block/dripstone_block_6" },
+      {"model": "block/dripstone_block_7" },
+      {"model": "block/dripstone_block_8" },
+      {"model": "block/dripstone_block_9" }
+    ]
+  }
+}

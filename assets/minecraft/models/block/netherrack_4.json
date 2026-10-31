@@ -1,0 +1,7 @@
+{
+	"credit": "Made with brickbench",
+	"parent": "minecraft:block/48xrandomization4",
+	"textures": {
+		"all": "block/netherrack_48x"
+	}
+}
