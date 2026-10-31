@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/single_facing_48x/template_single_face7",
+  "textures": {
+    "texture": "minecraft:block/mushroom_stem_48x"
+  }
+}

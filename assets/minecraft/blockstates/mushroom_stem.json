@@ -1,0 +1,331 @@
+{
+  "multipart": [
+    {
+      "apply": [
+        {"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_0"},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_1"},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_2"},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_3"},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_4"},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_5"},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_6"},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_7"},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_8"}
+      ],
+      "when": {
+        "north": "true"
+      }
+    },
+    {
+      "apply": [
+        {"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_0",
+        "uvlock": true,
+        "y": 90},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_1",
+        "uvlock": true,
+        "y": 90},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_2",
+        "uvlock": true,
+        "y": 90},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_3",
+        "uvlock": true,
+        "y": 90},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_4",
+        "uvlock": true,
+        "y": 90},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_5",
+        "uvlock": true,
+        "y": 90},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_6",
+        "uvlock": true,
+        "y": 90},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_7",
+        "uvlock": true,
+        "y": 90},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_8",
+        "uvlock": true,
+        "y": 90}
+      ],
+      "when": {
+        "east": "true"
+      }
+    },
+    {
+      "apply": [
+        {"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_0",
+        "uvlock": true,
+        "y": 180},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_1",
+        "uvlock": true,
+        "y": 180},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_2",
+        "uvlock": true,
+        "y": 180},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_3",
+        "uvlock": true,
+        "y": 180},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_4",
+        "uvlock": true,
+        "y": 180},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_5",
+        "uvlock": true,
+        "y": 180},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_6",
+        "uvlock": true,
+        "y": 180},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_7",
+        "uvlock": true,
+        "y": 180},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_8",
+        "uvlock": true,
+        "y": 180}
+      ],
+      "when": {
+        "south": "true"
+      }
+    },
+    {
+      "apply": [
+        {"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_0",
+        "uvlock": true,
+        "y": 270},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_1",
+        "uvlock": true,
+        "y": 270},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_2",
+        "uvlock": true,
+        "y": 270},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_3",
+        "uvlock": true,
+        "y": 270},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_4",
+        "uvlock": true,
+        "y": 270},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_5",
+        "uvlock": true,
+        "y": 270},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_6",
+        "uvlock": true,
+        "y": 270},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_7",
+        "uvlock": true,
+        "y": 270},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_8",
+        "uvlock": true,
+        "y": 270}
+      ],
+      "when": {
+        "west": "true"
+      }
+    },
+    {
+      "apply": [
+        {"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_0",
+        "uvlock": true,
+        "x": 270},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_1",
+        "uvlock": true,
+        "x": 270},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_2",
+        "uvlock": true,
+        "x": 270},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_3",
+        "uvlock": true,
+        "x": 270},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_4",
+        "uvlock": true,
+        "x": 270},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_5",
+        "uvlock": true,
+        "x": 270},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_6",
+        "uvlock": true,
+        "x": 270},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_7",
+        "uvlock": true,
+        "x": 270},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_8",
+        "uvlock": true,
+        "x": 270}
+      ],
+      "when": {
+        "up": "true"
+      }
+    },
+    {
+      "apply": [
+        {"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_0",
+        "uvlock": true,
+        "x": 90},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_1",
+        "uvlock": true,
+        "x": 90},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_2",
+        "uvlock": true,
+        "x": 90},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_3",
+        "uvlock": true,
+        "x": 90},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_4",
+        "uvlock": true,
+        "x": 90},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_5",
+        "uvlock": true,
+        "x": 90},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_6",
+        "uvlock": true,
+        "x": 90},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_7",
+        "uvlock": true,
+        "x": 90},
+		{"model": "minecraft:block/mushroom_blocks/stem/48xrandomization_mushroom_stem_8",
+        "uvlock": true,
+        "x": 90}
+      ],
+      "when": {
+        "down": "true"
+      }
+    },
+    {
+      "apply": [
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_0"},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_1"},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_2"},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_3"},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_4"},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_5"},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_6"},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_7"},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_8"}
+	],
+      "when": {
+        "north": "false"
+      }
+    },
+    {
+      "apply": [
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_0",
+		  "y": 90},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_1",
+		  "y": 90},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_2",
+		  "y": 90},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_3",
+		  "y": 90},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_4",
+		  "y": 90},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_5",
+		  "y": 90},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_6",
+		  "y": 90},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_7",
+		  "y": 90},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_8",
+		  "y": 90}
+      ],
+      "when": {
+        "east": "false"
+      }
+    },
+    {
+      "apply": [
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_0",
+		  "y": 180},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_1",
+		  "y": 180},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_2",
+		  "y": 180},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_3",
+		  "y": 180},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_4",
+		  "y": 180},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_5",
+		  "y": 180},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_6",
+		  "y": 180},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_7",
+		  "y": 180},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_8",
+		  "y": 180}
+      ],
+      "when": {
+        "south": "false"
+      }
+    },
+    {
+      "apply": [
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_0",
+		  "y": 270},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_1",
+		  "y": 270},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_2",
+		  "y": 270},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_3",
+		  "y": 270},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_4",
+		  "y": 270},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_5",
+		  "y": 270},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_6",
+		  "y": 270},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_7",
+		  "y": 270},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_8",
+		  "y": 270}
+      ],
+      "when": {
+        "west": "false"
+      }
+    },
+    {
+      "apply": [
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_0",
+		  "x": 270},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_1",
+		  "x": 270},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_2",
+		  "x": 270},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_3",
+		  "x": 270},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_4",
+		  "x": 270},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_5",
+		  "x": 270},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_6",
+		  "x": 270},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_7",
+		  "x": 270},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_8",
+		  "x": 270}
+      ],
+      "when": {
+        "up": "false"
+      }
+    },
+    {
+      "apply": [
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_0",
+		  "x": 90},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_1",
+		  "x": 90},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_2",
+		  "x": 90},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_3",
+		  "x": 90},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_4",
+		  "x": 90},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_5",
+		  "x": 90},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_6",
+		  "x": 90},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_7",
+		  "x": 90},
+		  {"model": "minecraft:block/mushroom_blocks/inside/48xrandomization_mushroom_block_inside_8",
+		  "x": 90}
+      ],
+      "when": {
+        "down": "false"
+      }
+    }
+  ]
+}
